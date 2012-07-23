@@ -5,6 +5,7 @@ description:
 
 ![center]({{urls.media}}/minimak-3.png)
 
-MiniMak is a keyboard layout developed with the goal of being as
-*easy to adopt as possible*, while *maximizing the efficiency* of the
-home row.
+### Minimum Effort, Maximum Efficiency ###
+
+MiniMak is a keyboard layout developed with the goal of being *the
+easiest to learn* while maintaining *the best efficiency*.
