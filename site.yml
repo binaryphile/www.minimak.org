@@ -1,11 +1,10 @@
-title : Blog Title
-tagline: Blog Tagline
+title : MiniMak
+tagline: Minimum Learning, Maximum Efficiency
 author :
-  name : Firstname Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  name : Ted Lilley
+  email : ted.lilley@gmail.com
+  github : lilleyt
+  twitter : lilleyt
 
 navigation :
   - archive.html
@@ -13,4 +12,3 @@ navigation :
   - categories.html
   - pages.html
   - about.md
-  
