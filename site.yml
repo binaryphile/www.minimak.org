@@ -7,8 +7,9 @@ author :
   twitter : lilleyt
 
 navigation :
-  - archive.html
-  - tags.html
-  - categories.html
-  - pages.html
-  - about.md
+  - index.md
+  - features.md
+  - learning.md
+  - analysis.md
+  - story.md
+  - credits.md

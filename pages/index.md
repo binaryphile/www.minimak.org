@@ -1,9 +1,8 @@
 ---
-title: MiniMak
+title: Home
 description:
+index: true
 ---
-
-![center]({{urls.media}}/minimak-3.png)
 
 ### Minimum Effort, Maximum Efficiency ###
 

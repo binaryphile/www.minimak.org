@@ -1,0 +1,30 @@
+{
+  "stylesheets" : {
+    "default" : [
+      "style.css"
+    ],
+    
+    "page" : [
+    
+    ],
+    
+    "post" : [
+    
+    ],
+    
+    "widgets" : {
+
+    }
+    
+  },
+  
+  "javascripts" : {
+    "default" : [
+      jquery.js,
+      script.js,
+      cufon-yui.js,
+      Baby_blocks_400.font.js,
+    ]
+  }
+  
+}

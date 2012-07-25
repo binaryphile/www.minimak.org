@@ -2,7 +2,7 @@
 # Usage: http://ruhoh.com/usage/configure/ 
 
 RuhohSpec: '1.0'
-theme : twitter
+theme : artisteer
 production_url : http://minimak.org/
 
 posts:
