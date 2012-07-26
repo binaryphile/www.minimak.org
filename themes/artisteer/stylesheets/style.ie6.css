@@ -30,7 +30,7 @@
    top: 0;
    width:100%;
    height: 200px;
-   background-image: url('images/header.jpg');
+   background-image: url('../media/header.jpg');
    background-repeat: no-repeat;
    background-position: center center;
 }
@@ -112,7 +112,7 @@ span.art-hmenu-separator
    left:  -1px;
    width: 1px;
    height: 53px;
-   background: url('images/menuseparator.png') center center no-repeat;
+   background: url('../media/menuseparator.png') center center no-repeat;
 }
 /* end MenuSeparator */
 
