@@ -1,0 +1,30 @@
+<div class="art-layout-cell art-content">
+  <div class="art-box art-post">
+    <div class="art-box-body art-post-body">
+      <div class="art-post-inner art-article">
+        <div class="art-postcontent">
+          {{# page.rows }}
+            <div class="art-content-layout-wrapper layout-item-0">
+              <div class="art-content-layout layout-item-1">
+                <div class="art-content-layout-row">
+                  {{^ columns }}
+                    {{> block }}
+                  {{/ columns }}
+                  {{# columns }}
+                    {{> block }}
+                  {{/ columns }}
+                </div>
+              </div>
+            </div>
+          {{/ page.rows }}
+          {{^ page.rows }}
+            {{{ content }}}
+          {{/ page.rows }}
+        </div>
+        <div class="cleared"></div>
+      </div>
+      <div class="cleared"></div>
+    </div>
+  </div>
+  <div class="cleared"></div>
+</div>

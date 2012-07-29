@@ -822,7 +822,7 @@ ul.art-hmenu>li:first-child:before{
    padding:3px;
    min-width:28px;
    min-height:28px;
-   padding-top:8px;
+   padding-top:3px;
    padding-bottom:8px;
 }
 .art-sheet:before, .art-sheet:after 
@@ -1137,11 +1137,11 @@ span.art-button-wrapper input
 .art-post
 {
    max-width:994px;
-   margin: 0;
+   margin: 5px;
 }
 .art-post-body 
 {
-   padding:0;
+   padding:10px;
 }
 
 a img
@@ -1153,8 +1153,8 @@ a img
 {
    border-color: #7A7A7A;
    border-style: solid;
-   border-width: 0;
-   margin: 0 0 0 0;
+   border-width: 1px;
+   margin: 7px 7px 7px 7px;
 }
 
 .art-metadata-icons img
@@ -1173,6 +1173,14 @@ a img
 .art-post .art-content-layout-br
 {
    height: 0;
+}
+
+.art-article th, .art-article td
+{
+   padding: 2px;
+   border: solid 1px #696969;
+   vertical-align: top;
+   text-align: left;
 }
 
 .art-article th
@@ -1291,6 +1299,11 @@ pre
 /* begin PostIcon, PostDateIcon */
 span.art-postdateicon
 {
+   background:url('../media/postdateicon.png') no-repeat left 0.5em;
+   padding-top:9px;
+   margin-top:-9px;
+   padding-left:24px;
+   min-height:18px;
    display:inline-block;
    line-height: 1em;
 }
@@ -1306,6 +1319,11 @@ span.art-postdateicon:after
 /* begin PostIcon, PostAuthorIcon */
 span.art-postauthoricon
 {
+   background:url('../media/postauthoricon.png') no-repeat left 0.5em;
+   padding-top:9px;
+   margin-top:-9px;
+   padding-left:24px;
+   min-height:18px;
    display:inline-block;
    line-height: 1em;
 }
@@ -1321,6 +1339,11 @@ span.art-postauthoricon:after
 /* begin PostIcon, PostEditIcon */
 span.art-postediticon
 {
+   background:url('../media/postediticon.png') no-repeat left 0.5em;
+   padding-top:10px;
+   margin-top:-10px;
+   padding-left:26px;
+   min-height:20px;
    display:inline-block;
    line-height: 1em;
 }
@@ -1345,7 +1368,7 @@ span.art-postediticon:after
    font-size: 13px;
    color: #878787;
    margin: 0 0 5px -20px;
-   padding: 0 0 0 28px;
+   padding: 0 0 0 17px;
 }
 
 .art-postcontent li ol, .art-post li ul
@@ -1367,7 +1390,7 @@ span.art-postediticon:after
    background-image: url('../media/postbullets.png');
    background-repeat: no-repeat;
    background-position: top left;
-   padding-left: 28px;
+   padding-left: 17px;
    /* makes "ul li" not to align behind the image if they are in the same line */
   overflow-x: visible;
    overflow-y: hidden;
@@ -1401,10 +1424,10 @@ blockquote p,
 blockquote
 {
    margin: 10px;
-   padding: 2px;
+   padding: 12px;
    background-color: #949494;
    margin-left: 50px;
-   padding-left: 25px;
+   padding-left: 49px;
    background-image: url('../media/postquote.png');
    background-position: left top;
    background-repeat: no-repeat;
@@ -1452,6 +1475,11 @@ blockquote
 /* begin PostIcon, PostCategoryIcon */
 span.art-postcategoryicon
 {
+   background:url('../media/postcategoryicon.png') no-repeat left 0.5em;
+   padding-top:4px;
+   margin-top:-4px;
+   padding-left:17px;
+   min-height:9px;
    display:inline-block;
    line-height: 1em;
 }
@@ -1467,6 +1495,11 @@ span.art-postcategoryicon:after
 /* begin PostIcon, PostTagIcon */
 span.art-posttagicon
 {
+   background:url('../media/posttagicon.png') no-repeat left 0.5em;
+   padding-top:9px;
+   margin-top:-9px;
+   padding-left:24px;
+   min-height:18px;
    display:inline-block;
    line-height: 1em;
 }
@@ -1482,6 +1515,11 @@ span.art-posttagicon:after
 /* begin PostIcon, PostCommentsIcon */
 span.art-postcommentsicon
 {
+   background:url('../media/postcommentsicon.png') no-repeat left 0.5em;
+   padding-top:9px;
+   margin-top:-9px;
+   padding-left:24px;
+   min-height:18px;
    display:inline-block;
    line-height: 1em;
 }
@@ -1619,6 +1657,20 @@ div.art-footer img
    color: #F5F5F5;
 }
 /* end PageFooter */
+
+/* begin LayoutCell, sidebar1 */
+.art-content-layout .art-sidebar1
+{
+   width: 200px;
+}
+/* end LayoutCell, sidebar1 */
+
+/* begin LayoutCell, sidebar2 */
+.art-content-layout .art-sidebar2
+{
+   width: 200px;
+}
+/* end LayoutCell, sidebar2 */
 
 .art-logo-text {
 margin-top: -10px;

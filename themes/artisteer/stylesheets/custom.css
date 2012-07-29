@@ -1,3 +1,10 @@
+.art-post .layout-item-0 { margin-bottom: 10px; }
+.art-post .layout-item-1 { border-spacing: 10px 0px; border-collapse: separate; }
+.art-post .layout-item-2 { border-top-style:solid;border-right-style:solid;border-bottom-style:solid;border-left-style:solid;border-top-width:1px;border-right-width:1px;border-bottom-width:1px;border-left-width:1px;border-top-color:#BFBFBF;border-right-color:#BFBFBF;border-bottom-color:#BFBFBF;border-left-color:#BFBFBF; color: #292929; background:repeat #F7F7F7; padding-right: 10px;padding-left: 10px; }
+.art-post .layout-item-3 { border-top-style:solid;border-right-style:solid;border-bottom-style:solid;border-left-style:solid;border-top-width:1px;border-right-width:1px;border-bottom-width:1px;border-left-width:1px;border-top-color:#BFBFBF;border-right-color:#BFBFBF;border-bottom-color:#BFBFBF;border-left-color:#BFBFBF; padding-right: 10px;padding-left: 10px; }
+.ie7 .art-post .art-layout-cell {border:none !important; padding:0 !important; }
+.ie6 .art-post .art-layout-cell {border:none !important; padding:0 !important; }
+
 [alt=center] {
   display: block;
   margin-left: auto;

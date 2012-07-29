@@ -1,7 +1,8 @@
 {
   "stylesheets" : {
     "default" : [
-      "style.css"
+      "style.css",
+      custom.css
     ],
     
     "page" : [

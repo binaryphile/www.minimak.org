@@ -1,0 +1,15 @@
+<div class="art-footer">
+  <div class="art-footer-body">
+    <div class="art-footer-center">
+      <div class="art-footer-wrapper">
+        <div class="art-footer-text">
+          <p>Footer</p>
+          <div class="cleared"></div>
+          <p class="art-page-footer">Extra text</p>
+        </div>
+      </div>
+    </div>
+    <div class="cleared"></div>
+  </div>
+</div>
+<div class="cleared"></div>

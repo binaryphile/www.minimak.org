@@ -1,10 +1,10 @@
 ---
 title: Home
 description:
-index: true
+header: true
 ---
 
 ### Minimum Effort, Maximum Efficiency ###
 
-MiniMak is a keyboard layout developed with the goal of being *the
+MiniMak is a keyboard layout with the goal of being *the
 easiest to learn* while maintaining *the best efficiency*.

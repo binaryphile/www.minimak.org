@@ -1,0 +1,15 @@
+<head>
+  <meta charset="utf-8" />
+  <title>{{ site.title }} - {{ page.title }}</title>
+  {{# page.description }}
+  <meta name="description" content="{{ . }}" />
+  {{/ page.description }}
+  <meta name="author" content="{{ site.author.name }}" />
+  {{{ assets }}}
+  <!--[if IE 6]><link rel="stylesheet" href="{{ urls.theme_stylesheets }}/style.ie6.css" type="text/css" media="screen" /><![endif]-->
+  <!--[if IE 7]><link rel="stylesheet" href="{{ urls.theme_stylesheets }}/style.ie7.css" type="text/css" media="screen" /><![endif]-->
+  <link rel="shortcut icon" href="{{ urls.theme_media }}/favicon.ico" />
+  <script type="text/javascript">
+	  Cufon.replace('.art-logo-name');
+	</script>
+</head>
