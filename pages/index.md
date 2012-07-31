@@ -72,23 +72,20 @@ rows:
         body: |
           <h1>keeping qwerty skills</h1>
 
-          <p>You will certainly 
-          still use QWERTY when you simply can't change your keyboard layout.  Like when you
-          use someone else's computer, or your smartphone perhaps.</p>
-          
-          <p>This poses a problem
-          for typists who go to the trouble of learning a new layout.</p>
+          <p>Learning a new layout poses another problem for typists,
+          aside from the learning curve.  Normally,
+          gaining skills in another layout means losing skills in QWERTY, at least temporarily.</p>
 
           <p><em>Like it or not, QWERTY is and always will be the "first language" of English typing.
           </em></p>
 
-          <p>This is one of the key design principles of MiniMak.
-          It's also what sets it apart
-          from other keyboard layouts.</p>
-          
-          <p>The reason MiniMak makes it easy to switch back to QWERTY is simple:</p>
+          <p>And like it or not, you'll still have to use it occasionally.</p>
 
-          <p>MiniMak isn't cut from whole cloth, it's just QWERTY
+          <p>While effort must be spent to maintain your QWERTY skills no
+          matter which layout you choose, MiniMak makes it easier to
+          switch back to QWERTY on demand.</p>
+
+          <p>Because it's based on QWERTY, MiniMak isn't cut from whole cloth, it's just QWERTY
           <em>as it should have been.</em></p>
   - class: layout-item-2
     width: 100%
