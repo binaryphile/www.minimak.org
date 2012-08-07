@@ -39,7 +39,7 @@ rows:
           layout where every key has changed fingers.</p>
 
           <p>
-          It's also Control key friendly. The majority of
+          It's also Control-key friendly. The majority of
           frequently-used command combinations are unchanged.</p>
           
       - class: layout-item-2
@@ -61,7 +61,7 @@ rows:
           give up.</em></p>
 
           <p>Because you are limiting the number of changes your brain
-          has to deal with at a time, it is better able to integrate
+          has to deal with at a time, your noggin is better able to integrate
           the new layout.</p>
 
           <p>You end up learning MiniMak faster by splitting it up into
@@ -81,13 +81,16 @@ rows:
 
           <p>And like it or not, you'll still have to use it occasionally.</p>
 
-          <p>While effort must be spent to maintain your QWERTY skills no
-          matter which layout you choose, MiniMak makes it easier to
-          switch back to QWERTY on demand.</p>
+          <p>No matter which keyboard layout you choose, you're going to
+          have to spend effort maintaining your QWERTY skills.  However,
+          MiniMak makes it easier because MiniMak is based on QWERTY.</p>
 
-          <p>Because it's based on QWERTY, MiniMak isn't cut from whole cloth, it's just QWERTY
+          <p>MiniMak isn't cut from whole cloth, it's just QWERTY
           <em>as it should have been.</em></p>
   - class: layout-item-2
     width: 100%
-    body: <p>bottom</p>
 ---
+
+# Ok, so how do I learn more?
+
+The easiest way to get started with MiniMak is to go to the [Download](download) page.

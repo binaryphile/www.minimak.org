@@ -8,8 +8,7 @@ author :
 
 navigation :
   - index.md
-  - features.md
+  - download.md
   - learning.md
-  - analysis.md
-  - story.md
+  - background.md
   - credits.md

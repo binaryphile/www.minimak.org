@@ -86,7 +86,7 @@ ul.art-vmenu a
 
 .art-postcontent h1
 {
-   color: #595959;
+   color: #1C1C1C;
    margin: 0 0 20px;
    font-weight: normal;
 }
@@ -1366,7 +1366,7 @@ span.art-postediticon:after
 .art-postcontent li
 {
    font-size: 13px;
-   color: #878787;
+   color: #404040;
    margin: 0 0 5px -20px;
    padding: 0 0 0 17px;
 }
