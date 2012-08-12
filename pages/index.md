@@ -91,6 +91,6 @@ rows:
     width: 100%
 ---
 
-# Ok, so how do I learn more?
+# Ok, so how do I get started?
 
 The easiest way to get started with MiniMak is to go to the [Download](download) page.
