@@ -199,17 +199,26 @@ password the same when you're logging in as any other time.
 
 Before you download any of the mappings, remember that they are provided
 AS IS.  We are not responsible for any damage or inconvenience incurred
-by using them.  If there is an issue with the file or how it is loaded
-into your system, it may result in a non-working system or a system you
-are locked out of.  Since these are boot mappings, you cannot get around
-them by trying to log into another account.  What you load is what you
-get, for all users.  For this reason, you may want to do the mappings
-yourself with [Key Mapper](#km), rather than rely on our registry files.
-You may also want to use user mappings rather than boot mappings so you
-can get in via another account if the mappings don't work correctly.  If
-you go that route, you may want to first try out your mapping on a
-temporary account created for that purpose.  Note that user mappings
-only work for XP, not Vista, 7 or 8.
+by using them.  If there is an issue with the download or how it is
+loaded into your system, it may result in a non-working system or a
+system you are locked out of.  Since these are boot mappings, you cannot
+get around them by trying to log into another account.  What you load is
+what you get, for all users.
+
+If you do have a problem logging in after installing them, you can still
+log in on Windows 7 with the on-screen keyboard.  Click on the *Ease of
+Access* button in the lower left-hand corner of the login screen, then
+click *Type without the keyboard (On Screen Keyboard)* and click *Ok*.
+We don't have directions for XP, but if you figure them out, please let
+us know so we can post them.
+
+If you want to avoid this possibility altogether, you may want to do the
+mappings yourself with [Key Mapper](#km), rather than rely on our
+registry files.  You may also want to use user mappings rather than boot
+mappings so you can get in via another account if the mappings don't
+work correctly.  If you go that route, you may want to first try out
+your mapping on a temporary account created for that purpose.  Note that
+user mappings only work for XP, not Vista, 7 or 8.
 
 That said, the registry files should work on any Windows that's at least
 XP or above.
@@ -228,8 +237,10 @@ registry.  Confirm it and then reboot the machine.  Remember to type in
 the new layout when entering your password, and don't be surprised if
 you don't get it right the first time.
 
+<a id="km">
 Key Mapper
 ----------
+</a>
 
 [Key Mapper](http://code.google.com/p/keymapper/) is one of [a number of
 tools](http://www.makeuseof.com/tag/remap-keyboard-free-tools-windows/)
@@ -267,17 +278,49 @@ Key Mapper can also export key configurations from *Mappings > Export As
 Registry File*.  The registry files can be loaded by double-clicking on
 them; you don't need to run Key Mapper to install them.
 
+<a id="tt">
+Typing Tutors
+=============
+</a>
+
+Now that you've got your spiffy new layout in action, how do you learn
+it?
+
+You might start with our recommendations on the [learning](learning)
+page.  However, before you jump over there, here are some programs and
+sites that you may find useful for typing practice:
+
+  * [GNU Typist](http://www.gnu.org/software/gtypist/) - Simple
+  console-mode tutor
+  * [TIPP10](http://www.tipp10.com/en/index/) - Multiplatform
+  typing tutor
+  * [Stamina Typing Tutor](http://typingsoft.com/stamina.htm) - Amusing
+  typing tutor
+
+Here's a [list of other
+tutors](http://typingsoft.com/all_typing_tutors.htm) if none of those
+are to your liking.
+
+We also like the [TypeRacer site](http://www.typeracer.com/) for speed
+practice, but the tutorials may be better for learning from scratch.
+
+How sad it is that [Typing of the Dead](http://www.amazon.com/The-Typing-Dead-Pc/dp/B00005RV5M),
+the funnest way to learn typing, can't be had for less than $55.  There
+is, however, a [free demo](http://www.pcworld.com/downloads/file/fid,8276-order,1-page,1/description.html)
+still available from PC World.  The demo features the first arcade
+level.
+
 Keyboard Lettering
 ==================
 
 You may notice that the printed letters on your keyboard don't change
-when you change your layout.
+to match your new layout.
 
 That is by design.
 
 You see, having appropriately printed letters on your keyboard only
-serves to encourage hunting-and-pecking, as well as encouraging people
-who are not you to use your computer.  Eliminating both of these
+serves to encourage hunting-and-pecking, as well to encourage those
+people who are not you to use your computer.  Eliminating both of these
 temptations is considered a feature.
 
 If you need to see the key layout for visual reference while you are
@@ -285,8 +328,14 @@ learning MiniMak, [PKL](#pkl) supports this.
 
 Or, if you have $1086 US to burn, consider the
 [Optimus Popularis](http://store.artlebedev.com/electronics/optimus-popularis/)
-keyboard.  It lets you use show any letter (or image, for that
+keyboard.  It lets you show any letter (or image, for that
 matter) on any key!
 
-Or, if you're a real keyboard ninja, consider [Das Keyboard Model S Ultimate]
-(http://www.daskeyboard.com/model-s-ultimate/), which has no lettering at all!
+Or, if you're a real keyboard ninja, consider [Das Keyboard Model S
+Ultimate] (http://www.daskeyboard.com/model-s-ultimate/), which has no
+lettering at all!  At least then it won't be incorrect.
+
+It is not suggested, however, that you remove and replace the keys of
+your keyboard in the new configuration.  Some keyboards don't support
+the removal of keys and some have keys of differing shapes for different
+parts of the keyboard.
