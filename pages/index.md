@@ -21,7 +21,7 @@ rows:
       - class: layout-item-3
         width: 33%
         body: |
-          <h1>learn less</h1>
+          <h1>learn faster</h1>
 
           <p>Minimak changes only 15 of the 27 keys on the keyboard.
           They can be seen in green in the layout above.</p>
