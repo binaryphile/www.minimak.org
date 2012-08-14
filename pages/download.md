@@ -1,4 +1,4 @@
-MiniMak support varies by platform, but any platform that allows
+Minimak support varies by platform, but any platform that allows
 key-mapping can be adapted.
 
 Currently, the best support is for Windows, which has several options.
@@ -8,17 +8,17 @@ familiar with custom keymaps on those platforms, but we've heard that the
 [xmodmap](http://blacketernal.wordpress.com/set-up-key-mappings-with-xmodmap/)
 facility is the place to start, at least on Linux.
 
-There are a number of ways to use MiniMak on Windows, including:
+There are a number of ways to use Minimak on Windows, including:
 
-  - Easily switch between the half and full MiniMak layouts with [Portable
+  - Easily switch between the half and full Minimak layouts with [Portable
 Key Layout](#pkl) - **Recommended**
 
-  - Create your own customized version of MiniMak with the [Microsoft
+  - Create your own customized version of Minimak with the [Microsoft
 Keyboard Layout Creator](#mklc)
 
   - Change Windows' boot-up key layout with [registry mapping](#rm)
 
-We recommend learning MiniMak with PKL and then later, if you're a
+We recommend learning Minimak with PKL and then later, if you're a
 convert, setting your boot mappings with registry mappings.
 
 Notes on Passwords
@@ -33,16 +33,16 @@ wrong because you can't see any mistakes you're making.  This can be
 very frustrating until you are proficient with the new layout.
 
 This is a good reason to go with the recommended [PKL](#pkl) until you
-are proficient at MiniMak.  PKL allows you to turn the MiniMak layout on
+are proficient at Minimak.  PKL allows you to turn the Minimak layout on
 and off with a hotkey.  Just hit both *Alt* keys together and it will
-suspend MiniMak, putting you back in QWERTY.  Handle your login, then
-hit both *Alts* again to toggle back to MiniMak.  You'll want to do this
+suspend Minimak, putting you back in QWERTY.  Handle your login, then
+hit both *Alts* again to toggle back to Minimak.  You'll want to do this
 whenever you deal with passwords.
 
 Creating Passwords
 ------------------
 
-You especially don't want to use MiniMak to create new passwords until
+You especially don't want to use Minimak to create new passwords until
 you are 100% accurate.  That's because learning a new layout
 (temporarily) makes you mistype letters in a consistent and reproducible
 fashion.  If you do try to make passwords, you will typically end up
@@ -66,7 +66,7 @@ to log into your account.  This is true for PKL and layouts created with
 MKLC, since they are only enabled after you log in.
 
 If you use the same password for sites or programs, then after you log
-in, you will then need to remember to type it in MiniMak.  This can be a
+in, you will then need to remember to type it in Minimak.  This can be a
 bit disconcerting since you will frequently have to remember two ways of
 typing the same thing.
 
@@ -94,21 +94,21 @@ Portable Key Layout
 ===================
 </a>
 
-You can find a copy of PKL customized for MiniMak on
+You can find a copy of PKL customized for Minimak on
 [github](https://github.com/downloads/lilleyt/minimak/pkl.zip).  This is
-a copy of the PKL project with the MiniMak layout added by us, not one
+a copy of the PKL project with the Minimak layout added by us, not one
 of their own distributions.
 
 PKL is by FARKAS Máté and is distributed under GPL 3.
 
-PKL is the recommended tool while you're learning MiniMak.  PKL shows
+PKL is the recommended tool while you're learning Minimak.  PKL shows
 you a keyboard image with the new layout, so you can consult it while
 you learn.  It also supports switching layouts easily via menu, as well
 as suspending PKL entirely by hitting both *Alt* keys.
 
-PKL starts in full MiniMak mode (both hands). There is a system tray
+PKL starts in full Minimak mode (both hands). There is a system tray
 icon that can be right-clicked for a menu that includes the ability to
-select the left-hand-only half-MiniMak.
+select the left-hand-only half-Minimak.
 
 The keyboard graphic that is shown by PKL can be moved to one of two
 predetermined positions by floating your mouse over it.  It can also be
@@ -134,7 +134,7 @@ you can make, and many Linux flavors have their own setting to do it.
 We call that mapping *BacksLock* for short, which is just our own name for
 it.  Despite the name, there's no "locking" of the key like with *CapsLock*.
 
-However, since that mapping isn't part of the standard MiniMak, it is
+However, since that mapping isn't part of the standard Minimak, it is
 not in the PKL layouts.  If you're ready to try *BacksLock* on Windows, we
 suggest using the [registry mapping](#rm) that includes it.  On Linux,
 you can instead check your configurations settings to see if there is a
@@ -154,11 +154,11 @@ That said, we don't recommend it.  We didn't see any advantage to MKLC
 versus the other solutions, and it's slightly less functional since it
 can't map *CapsLock* to *BacksLock* (among other keys).
 
-While *BacksLock* isn't part of MiniMak, we recommend using a tool that
-can remap it whether you choose to use MiniMak or not.  It's just a good
+While *BacksLock* isn't part of Minimak, we recommend using a tool that
+can remap it whether you choose to use Minimak or not.  It's just a good
 idea.
 
-If you see a need for MKLC MiniMak layouts that we've missed, we'd be
+If you see a need for MKLC Minimak layouts that we've missed, we'd be
 glad to hear your viewpoint and possibly include in the project any
 layouts you'd be willing to create, presuming the rationale and
 implementation meet our standards.
@@ -185,11 +185,11 @@ without losing their regular QWERTY layout.
 The second drawback is that you can't undo the mappings, even
 temporarily, without rebooting your machine.  The only way to
 temporarily undo the registry mappings would be to use another mapping
-tool like PKL with an inverse-MiniMak mapping, but currently PKL has no
+tool like PKL with an inverse-Minimak mapping, but currently PKL has no
 such mapping.
 
 That's why we only recommend using registry mappings *after* you've
-fully learned MiniMak.
+fully learned Minimak.
 
 There are two modes of mappings, boot mappings and user mappings.  User
 mappings only take effect after you've logged in.  However, they only
@@ -227,9 +227,9 @@ You can download boot mappings that work for any Windows system from
 [github](https://github.com/downloads/lilleyt/minimak/registry_mappings.zip).
 There are three versions in the zip:
 
-  * MiniMak-l - left-hand only
-  * MiniMak - both hands
-  * MiniMak + BacksLock - full MiniMak with *CapsLock* mapped to *Backspace*
+  * Minimak-l - left-hand only
+  * Minimak - both hands
+  * Minimak + BacksLock - full Minimak with *CapsLock* mapped to *Backspace*
 
 To install any of them, unzip the download and double-click the mapping
 you want.  Windows will ask you if you want to load the file into the
@@ -292,23 +292,48 @@ sites that you may find useful for typing practice:
 
   * [GNU Typist](http://www.gnu.org/software/gtypist/) - Simple
   console-mode tutor
-  * [TIPP10](http://www.tipp10.com/en/index/) - Multiplatform
+  * [TIPP10](http://www.tipp10.com/en/index/) - GUI
   typing tutor
-  * [Stamina Typing Tutor](http://typingsoft.com/stamina.htm) - Amusing
-  typing tutor
+  * [TypeRacer](http://www.typeracer.com/) - typing web site
 
 Here's a [list of other
 tutors](http://typingsoft.com/all_typing_tutors.htm) if none of those
 are to your liking.
 
-We also like the [TypeRacer site](http://www.typeracer.com/) for speed
-practice, but the tutorials may be better for learning from scratch.
+As always, make sure you are using good antivirus, such as [Panda Cloud
+Antivirus](http://www.cloudantivirus.com), as we've come across at least
+one free typing tutor that reportedly is infected.  For the best
+security, we recommend scanning any downloaded file with the [VirusTotal]
+(http://www.virustotal.com/) site, which scans with 40+ brand-name virus
+scanners.  They also have an [uploader application]
+(https://www.virustotal.com/documentation/desktop-applications/) that
+can send a file from your desktop for scanning via the Explorer *Send To*
+menu.  There's also a [Chrome extension]
+(https://chrome.google.com/webstore/detail/efbjojhplkelaegfbieplglfidafgoka)
+for scanning suspicious site links from within [Google Chrome]
+(https://www.google.com/intl/en/chrome/browser/).
 
-How sad it is that [Typing of the Dead](http://www.amazon.com/The-Typing-Dead-Pc/dp/B00005RV5M),
-the funnest way to learn typing, can't be had for less than $55.  There
-is, however, a [free demo](http://www.pcworld.com/downloads/file/fid,8276-order,1-page,1/description.html)
-still available from PC World.  The demo features the first arcade
-level.
+
+How sad is it that [Typing of the
+Dead](http://www.amazon.com/The-Typing-Dead-Pc/dp/B00005RV5M), the
+funnest way to learn typing, can't be had for less than $55?  There is,
+however, a [free
+demo](http://www.pcworld.com/downloads/file/fid,8276-order,1-page,1/description.html)
+still available from PC World.  The demo features the first arcade level.
+
+Note on VIM
+===========
+
+While many of the keys with which [VIM](http://www.vim.org/) users are familiar have changed
+with Minimak, the good news is that a number of the related ones are in
+the same relative positions.  For example, the J, K and L buttons have
+been moved together to the top row (H, however, remains in the same
+location).
+
+While there is definitely relearning to be done when it comes to using
+Minimak with VIM, there is a good argument to be made that Minimak is
+*the* VIM-friendliest of the popular layouts today, due to the smallest
+number of remappings and finger-impulse retention.
 
 Keyboard Lettering
 ==================
@@ -324,7 +349,7 @@ people who are not you to use your computer.  Eliminating both of these
 temptations is considered a feature.
 
 If you need to see the key layout for visual reference while you are
-learning MiniMak, [PKL](#pkl) supports this.
+learning Minimak, [PKL](#pkl) supports this.
 
 Or, if you have $1086 US to burn, consider the
 [Optimus Popularis](http://store.artlebedev.com/electronics/optimus-popularis/)
@@ -333,7 +358,7 @@ matter) on any key!
 
 Or, if you're a real keyboard ninja, consider [Das Keyboard Model S
 Ultimate] (http://www.daskeyboard.com/model-s-ultimate/), which has no
-lettering at all!  At least then it won't be incorrect.
+lettering at all!  At least then it won't be misleading.
 
 It is not suggested, however, that you remove and replace the keys of
 your keyboard in the new configuration.  Some keyboards don't support
