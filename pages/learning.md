@@ -6,8 +6,7 @@ The length of time to gain full proficiency with Minimak varies, but
 it's a good bet that it will take a good 4-6 months before you are
 typing as fast in Minimak as you normally do.
 
-The recommended way to learn Minimak is to start with [Portable Key Layout]
-(download#pkl).  Download and unzip it, then run `pkl.exe`.
+The recommended way to learn Minimak is to start with [Portable Key Layout](download#pkl).  Download and unzip it, then run `pkl.exe`.
 
 Half Minimak
 ============

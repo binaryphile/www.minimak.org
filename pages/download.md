@@ -292,8 +292,6 @@ sites that you may find useful for typing practice:
 
   * [GNU Typist](http://www.gnu.org/software/gtypist/) - Simple
   console-mode tutor
-  * [TIPP10](http://www.tipp10.com/en/index/) - GUI
-  typing tutor
   * [TypeRacer](http://www.typeracer.com/) - typing web site
 
 Here's a [list of other
@@ -303,15 +301,11 @@ are to your liking.
 As always, make sure you are using good antivirus, such as [Panda Cloud
 Antivirus](http://www.cloudantivirus.com), as we've come across at least
 one free typing tutor that reportedly is infected.  For the best
-security, we recommend scanning any downloaded file with the [VirusTotal]
-(http://www.virustotal.com/) site, which scans with 40+ brand-name virus
-scanners.  They also have an [uploader application]
-(https://www.virustotal.com/documentation/desktop-applications/) that
+security, we recommend scanning any downloaded file with the [VirusTotal](http://www.virustotal.com/) site, which scans with 40+ brand-name virus
+scanners.  They also have an [uploader application](https://www.virustotal.com/documentation/desktop-applications/) that
 can send a file from your desktop for scanning via the Explorer *Send To*
-menu.  There's also a [Chrome extension]
-(https://chrome.google.com/webstore/detail/efbjojhplkelaegfbieplglfidafgoka)
-for scanning suspicious site links from within [Google Chrome]
-(https://www.google.com/intl/en/chrome/browser/).
+menu.  There's also a [Chrome extension](https://chrome.google.com/webstore/detail/efbjojhplkelaegfbieplglfidafgoka)
+for scanning suspicious site links from within [Google Chrome](https://www.google.com/intl/en/chrome/browser/).
 
 
 How sad is it that [Typing of the
@@ -357,7 +351,7 @@ keyboard.  It lets you show any letter (or image, for that
 matter) on any key!
 
 Or, if you're a real keyboard ninja, consider [Das Keyboard Model S
-Ultimate] (http://www.daskeyboard.com/model-s-ultimate/), which has no
+Ultimate](http://www.daskeyboard.com/model-s-ultimate/), which has no
 lettering at all!  At least then it won't be misleading.
 
 It is not suggested, however, that you remove and replace the keys of
