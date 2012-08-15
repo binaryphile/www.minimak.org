@@ -354,6 +354,9 @@ Or, if you're a real keyboard ninja, consider [Das Keyboard Model S
 Ultimate](http://www.daskeyboard.com/model-s-ultimate/), which has no
 lettering at all!  At least then it won't be misleading.
 
+We'll also put in a plug for our favorite keyboard, the [TypeMatrix ergonomic keyboard](http://typematrix.com/).
+It's a great ergonomic keyboard, and inexpensive.  We like the 2020 model, which is available in the store for only $59.  You can get the 2030 as a blank model though. 
+
 It is not suggested, however, that you remove and replace the keys of
 your keyboard in the new configuration.  Some keyboards don't support
 the removal of keys and some have keys of differing shapes for different
