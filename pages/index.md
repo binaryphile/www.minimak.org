@@ -65,8 +65,8 @@ rows:
           the new layout.</p>
 
           <p>You end up learning Minimak faster by splitting it up into
-          digestible chunks than you would by changing everything at once.  Other
-          layouts can't do this.</p>
+          digestible chunks than you would by changing everything at once.  Minimak
+          is the only layout designed with this in mind.</p>
       - class: layout-item-3
         width: 33%
         body: |

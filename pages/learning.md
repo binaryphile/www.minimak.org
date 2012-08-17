@@ -6,7 +6,7 @@ The length of time to gain full proficiency with Minimak varies, but
 it's a good bet that it will take a good 4-6 months before you are
 typing as fast in Minimak as you normally do.
 
-The recommended way to learn Minimak is to start with [Portable Key Layout](download#pkl).  Download and unzip it, then run `pkl.exe`.
+The recommended way to learn Minimak is to start with [Portable Key Layout](/download#pkl).  Download and unzip it, then run `pkl.exe`.
 
 Half Minimak
 ============
@@ -25,7 +25,7 @@ green keys have just been swapped.
 
 Start by going through some basic exercises that stress the left hand.
 You can usually find such exercises in your favorite typing tutor.
-See the [download page](download#tt) for a list of typing tutors.  If
+See the [download page](/download#tt) for a list of typing tutors.  If
 you just want some practice without loading a new program on your
 machine, try typing some samples from this [list of left-handed words]
 (http://www.rickwalton.com/wordplay/qwertasd.htm).

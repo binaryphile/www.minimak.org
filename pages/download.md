@@ -81,7 +81,7 @@ Note on VMware Console
 VMware Console for Windows seems to rely on scan codes, which don't get
 changed by remapping software.  This only happens in console and not,
 for example, when RDCing to the same virtual machine.  We've only
-encountered this with the console sofware for VMware, but it's possible
+encountered this with the console software for VMware, but it's possible
 you may encounter it with other programs as well.
  
 In this case, the remapping software will work everywhere except the
