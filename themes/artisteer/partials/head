@@ -13,4 +13,5 @@
 	  Cufon.replace('.art-logo-name', {fontFamily: 'Baby blocks'});
     Cufon.replace('.art-post h1', {fontFamily: 'Raspoutine Classic'});
 	</script>
+  <meta name="google-site-verification" content="jGSSU2uBklI_YvqV8btffcYxYLeAaViieet94Irywp0" />
 </head>
