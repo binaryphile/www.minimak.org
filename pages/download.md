@@ -281,9 +281,7 @@ Typing Tutors
 Now that you've got your spiffy new layout in action, how do you learn
 it?
 
-You might start with our recommendations on the [learning](learning)
-page.  However, before you jump over there, here are some programs and
-sites that you may find useful for typing practice:
+Here are some programs and sites that you may find useful for typing practice:
 
   * [GNU Typist](http://www.gnu.org/software/gtypist/) - Simple
   console-mode tutor
