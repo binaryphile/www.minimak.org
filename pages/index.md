@@ -8,36 +8,50 @@ rows:
     body: |
       <h1>Minimak - Minimum Effort, Maximum Efficiency</h1>
 
+      <p>What happened to Minimak?</p>
+
+      <p>Minimak went through a minor revision, and then was given some
+      time for dissemination.  During that time, I worked on a more full
+      layout remapping for my personal use.</p>
+
+      <p>Surprisingly, the result of that experimentation was not a 
+      better remapping of the entire keyboard.  Instead,
+      I just got a better understanding of what really makes a difference
+      and what doesn't.</p>
+      
+      <p>Ironically, I determined that QWERTY <em>
+      really isn't all that bad</em>, it just gets one or two things very
+      wrong.  As a result, I found that you don't actually have to
+      remap your entire keyboard to get the best advantages of the popular
+      layout alternatives today.  You just have to fix the issues with
+      QWERTY with some judicious tweaking.</p>
+      
+      <p>The result is a new Minimak, more
+      intelligently laid out and with far fewer key changes.  That means
+      it's also far easier to learn and more easily maintained along
+      with regular QWERTY skills.</p>
+
+      <p>Of course, it bears little resemblance to the former Minimak
+      design, so much of what was discussed on the site before is
+      in the process of being updated.  I apologize to anyone who is
+      disappointed with the new materials, as they are replacing the
+      old ones.  The old ones are no longer available as they are clearly
+      superseded by the new design.  Thanks for your understanding and
+      I hope you are interested enough to give the new design a try.</p>
+
       <p>Minimak is a keyboard layout.
          Minimak presents the most efficient layout that can be had
           while changing as little as possible from what you already know.</p>
           
-          <p>It delivers a whopping <em>41% increase</em> in home row usage.  That reduction in finger
-          movement translates into greater typing economy.</p>
-
-      <p>Minimak is different in design from almost every other
-      keyboard layout.  The difference lies in its three primary benefits:</p>
   - columns:
       - class: layout-item-3
         width: 33%
         body: |
           <h1>learn faster</h1>
 
-          <p>Minimak changes only 15 of the 27 keys on the keyboard.
+          <p>Minimak changes only 7 of the 27 keys on the keyboard.
           They can be seen in green in the layout above.</p>
           
-          <p>Almost half of the keys on the keyboard <em>don't need to be relearned</em>.</p>
-          
-          <p>Minimak also keeps changed keys on the same finger, just
-          in a different row, so all of your finger impulses are
-          already correct.</p>
-
-          <p><em>Your finger impulses only need to be adjusted to a different
-          row, not thrown away.</em></p>
-
-          <p>Minimak is the only keyboard layout to use this unique learning
-          acceleraton technique.</p>
-
           <p>
           It's also Control-key friendly. The majority of
           frequently-used command combinations are unchanged.</p>
@@ -45,28 +59,7 @@ rows:
       - class: layout-item-2
         width: 34%
         body: |
-          <h1>at your pace</h1>
-
-          <p>There are no key swaps between hands in Minimak, which means you don't have to
-          learn the layout all at once.</p>
-          
-          <p>You can learn Minimak
-          <em>one hand at a time.</em></p>
-
-          <p>With Minimak, you just start with the left hand and
-          wait to train the right until you're ready.</p>
-          
-          <p>This approach means
-          you <em>learn faster</em>, are <em>more productive</em> and <em>less likely to
-          give up.</em></p>
-
-          <p>Because you are limiting the number of changes your brain
-          has to deal with at a time, your noggin is better able to integrate
-          the new layout.</p>
-
-          <p>You end up learning Minimak faster by splitting it up into
-          digestible chunks than you would by changing everything at once.  Minimak
-          is the only layout designed with this in mind.</p>
+          <p>&nbsp;</p>
       - class: layout-item-3
         width: 33%
         body: |

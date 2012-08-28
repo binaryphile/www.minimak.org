@@ -10,7 +10,7 @@ facility is the place to start, at least on Linux.
 
 There are a number of ways to use Minimak on Windows, including:
 
-  - Easily switch between the half and full Minimak layouts with [Portable
+  - Easily switch between QWERTY and Minimak layouts with [Portable
 Key Layout](#pkl) - **Recommended**
 
   - Create your own customized version of Minimak with the [Microsoft
@@ -103,12 +103,8 @@ PKL is by FARKAS Máté and is distributed under GPL 3.
 
 PKL is the recommended tool while you're learning Minimak.  PKL shows
 you a keyboard image with the new layout, so you can consult it while
-you learn.  It also supports switching layouts easily via menu, as well
-as suspending PKL entirely by hitting both *Alt* keys.
-
-PKL starts in full Minimak mode (both hands). There is a system tray
-icon that can be right-clicked for a menu that includes the ability to
-select the left-hand-only half-Minimak.
+you learn.  It also supports
+suspending PKL entirely by hitting both *Alt* keys.
 
 The keyboard graphic that is shown by PKL can be moved to one of two
 predetermined positions by floating your mouse over it.  It can also be
@@ -225,11 +221,10 @@ XP or above.
 
 You can download boot mappings that work for any Windows system from
 [github](https://github.com/downloads/lilleyt/minimak/registry_mappings.zip).
-There are three versions in the zip:
+There are two versions in the zip:
 
-  * Minimak-l - left-hand only
-  * Minimak - both hands
-  * Minimak + BacksLock - full Minimak with *CapsLock* mapped to *Backspace*
+  * Minimak - Regular version
+  * Minimak + BacksLock - Minimak with *CapsLock* mapped to *Backspace*
 
 To install any of them, unzip the download and double-click the mapping
 you want.  Windows will ask you if you want to load the file into the
@@ -318,16 +313,15 @@ still available from PC World.  The demo features the first arcade level.
 Note on VIM
 ===========
 
-While many of the keys with which [VIM](http://www.vim.org/) users are familiar have changed
-with Minimak, the good news is that a number of the related ones are in
-the same relative positions.  For example, the J, K and L buttons have
-been moved together to the top row (H, however, remains in the same
-location).
+While some of the keys with which [VIM](http://www.vim.org/) users are familiar have changed
+with Minimak, the good news is that most are unchanged.  However, you'll
+want to remap the functionality of the J and K keys to N and E respectively.
+That means you'll probably want to map N to K as well.
 
 While there is definitely relearning to be done when it comes to using
 Minimak with VIM, there is a good argument to be made that Minimak is
 *the* VIM-friendliest of the popular layouts today, due to the smallest
-number of remappings and finger-impulse retention.
+number of remappings.
 
 Keyboard Lettering
 ==================
