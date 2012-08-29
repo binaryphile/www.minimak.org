@@ -45,21 +45,16 @@ If you are a Linux user interesed in the original Minimak layout,
 Leonardo Cecchi has [forked the original repository](https://github.com/leonardoce/minimak/tree/master/linux)
 and created an xmodmap layout with directions for usage.
 
-Minimak is a keyboard layout.
-Minimak presents the most efficient layout that can be had
-while changing as little as possible from what you already know.
-
 What is Minimak?
 ----------------
 
 Minimak is a keyboard layout.  It's not software or hardware, it's just
-an arrangement of keys on your computer keyboard.  You don't have to
-physically rearrange your keyboard or by a new one with the letters in
-the right places (as long as you're ok with touch typing).  Windows,
-Linux and MacOS all support software-based methods of changing layout.
+an arrangement of keys on your computer keyboard.  You don't need a new
+keyboard to use it, though.  Windows,
+Linux and MacOS all support software-based methods of changing your layout.
 
 There are some free Windows-based downloads which you can use to do
-the remapping for you in the [downloads](/downloads) section.  They are
+the remapping for you in the [download](/download) section.  They are
 provided AS IS and you should read all of the information on that page
 before using them, since remapping your keyboard can cause difficulties
 if not done with care.
