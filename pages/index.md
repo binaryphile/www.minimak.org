@@ -7,6 +7,7 @@ Minimak - Minimum Effort, Maximum Efficiency
 ============================================
 
 What happened to Minimak?
+-------------------------
 
 Minimak went through a minor revision, and then was given some
 time for dissemination.  During that time, I worked on a more full
@@ -19,7 +20,7 @@ and what doesn't.
 
 As a result, I determined that QWERTY
 *really isn't all that bad*, it just gets one or two things very
-wrong.  As a result, I found that you don't actually have to
+wrong.  I found that you don't actually have to
 remap your entire keyboard to get the best advantages of the popular
 layout alternatives today.  You just have to fix the issues with
 QWERTY with some judicious tweaking.
@@ -47,6 +48,21 @@ and created an xmodmap layout with directions for usage.
 Minimak is a keyboard layout.
 Minimak presents the most efficient layout that can be had
 while changing as little as possible from what you already know.
+
+What is Minimak?
+----------------
+
+Minimak is a keyboard layout.  It's not software or hardware, it's just
+an arrangement of keys on your computer keyboard.  You don't have to
+physically rearrange your keyboard or by a new one with the letters in
+the right places (as long as you're ok with touch typing).  Windows,
+Linux and MacOS all support software-based methods of changing layout.
+
+There are some free Windows-based downloads which you can use to do
+the remapping for you in the [downloads](/downloads) section.  They are
+provided AS IS and you should read all of the information on that page
+before using them, since remapping your keyboard can cause difficulties
+if not done with care.
 
 Ok, so how do I get started?
 ============================

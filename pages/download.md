@@ -226,7 +226,7 @@ There are two versions in the zip:
   * Minimak - Regular version
   * Minimak + BacksLock - Minimak with *CapsLock* mapped to *Backspace*
 
-To install any of them, unzip the download and double-click the mapping
+To install either of them, unzip the download and double-click the mapping
 you want.  Windows will ask you if you want to load the file into the
 registry.  Confirm it and then reboot the machine.  Remember to type in
 the new layout when entering your password, and don't be surprised if
