@@ -22,7 +22,7 @@ As a result, I determined that QWERTY
 *really isn't all that bad*, it just gets one or two things very
 wrong.  I found that you don't actually have to
 remap your entire keyboard to get the best advantages of the popular
-layout alternatives today.  You just have to fix the issues with
+layout alternatives today.  You just have to fix some of the more egregious issues with
 QWERTY with some judicious tweaking.
 
 The result is a new Minimak, more
