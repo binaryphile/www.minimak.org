@@ -3,63 +3,108 @@ title: Home
 description:
 header: true
 ---
+<div class="art-content-layout-wrapper layout-item-0">
+<div class="art-content-layout layout-item-1">
+<div class="art-content-layout-row">
+<div class="art-layout-cell layout-item-2" markdown="1">
 Minimak - Minimum Effort, Maximum Efficiency
 ============================================
 
-What happened to Minimak?
--------------------------
+Minimak is a keyboard layout. Minimak presents the most efficient layout
+that can be had while changing as little as possible from what you
+already know.
 
-Minimak went through a minor revision, and then was given some
-time for dissemination.  During that time, I worked on a more full
-layout remapping for my personal use.
+It delivers a whopping *41% increase* in home row usage. That reduction
+in finger movement translates into greater typing economy.
 
-Surprisingly, the result of that experimentation was not a 
-better remapping of the entire keyboard.  Instead,
-I just got a better understanding of what really makes a difference
-and what doesn't.
+Minimak is different in design from almost every other keyboard layout.
+The difference lies in its three primary benefits:
+</div>
+</div>
+</div>
+</div>
 
-As a result, I determined that QWERTY
-*really isn't all that bad*, it just gets one or two things very
-wrong.  I found that you don't actually have to
-remap your entire keyboard to get the best advantages of the popular
-layout alternatives today.  You just have to fix some of the more egregious issues with
-QWERTY with some judicious tweaking.
+<div class="art-content-layout-wrapper layout-item-0">
+<div class="art-content-layout layout-item-1">
+<div class="art-content-layout-row">
+<div class="art-layout-cell layout-item-3" style="width: 33%;" markdown="1">
+learn faster
+============
 
-The result is a new Minimak, more
-intelligently laid out and with far fewer key changes.  While that means
-it's less to learn than most other layouts, I've only found the learning
-curve to be on par with that of the original layout despite its fewer keys.
-That's because it doesn't follow the original's finger-impulse retention
-scheme.  Maintaining QWERTY skills along
-with regular QWERTY skills should be on par and easy enough as well.
+Minimak changes only 15 of the 27 keys on the keyboard. They can be seen
+in green in the layout above.
 
-Of course, it bears little resemblance to the former Minimak
-design, so much of what was discussed on the site before is
-in the process of being updated.  I apologize to anyone who is
-disappointed with the new materials, as they are replacing the
-old ones.  The old ones are no longer available as they are clearly
-superseded by the new design.  Thanks for your understanding and
-I hope you are interested enough to give the new design a try.
+Almost half of the keys on the keyboard *don’t need to be relearned*.
 
-If you are a Linux user interesed in the original Minimak layout,
-Leonardo Cecchi has [forked the original repository](https://github.com/leonardoce/minimak/tree/master/linux)
-and created an xmodmap layout with directions for usage.
+Minimak also keeps changed keys on the same finger, just in a different
+row, so all of your finger impulses are already correct.
 
-What is Minimak?
-----------------
+*Your finger impulses only need to be adjusted to a different row, not
+thrown away.*
 
-Minimak is a keyboard layout.  It's not software or hardware, it's just
-an arrangement of keys on your computer keyboard.  You don't need a new
-keyboard to use it, though.  Windows,
-Linux and MacOS all support software-based methods of changing your layout.
+Minimak is the only keyboard layout to use this unique learning
+acceleraton technique.
 
-There are some free Windows-based downloads which you can use to do
-the remapping for you in the [download](/download) section.  They are
-provided AS IS and you should read all of the information on that page
-before using them, since remapping your keyboard can cause difficulties
-if not done with care.
+It’s also Control-key friendly. The majority of frequently-used command
+combinations are unchanged.
+</div>
 
+<div class="art-layout-cell layout-item-2" style="width: 34%;" markdown="1">
+at your pace
+============
+
+There are no key swaps between hands in Minimak, which means you don’t
+have to learn the layout all at once.
+
+You can learn Minimak *one hand at a time.*
+
+With Minimak, you just start with the left hand and wait to train the
+right until you’re ready.
+
+This approach means you *learn faster*, are *more productive* and *less
+likely to give up.*
+
+Because you are limiting the number of changes your brain has to deal
+with at a time, your noggin is better able to integrate the new layout.
+
+You end up learning Minimak faster by splitting it up into digestible
+chunks than you would by changing everything at once. Minimak is the
+only layout designed with this in mind.
+</div>
+
+<div class="art-layout-cell layout-item-3" style="width: 33%;" markdown="1">
+keeping qwerty skills
+=====================
+
+Learning a new layout poses another problem for typists, aside from the
+learning curve. Normally, gaining skills in another layout means losing
+skills in QWERTY, at least temporarily.
+
+*Like it or not, QWERTY is and always will be the “first language” of
+English typing.*
+
+And like it or not, you’ll still have to use it occasionally.
+
+No matter which keyboard layout you choose, you’re going to have to
+spend effort maintaining your QWERTY skills. However, Minimak makes it
+easier because Minimak is based on QWERTY.
+
+Minimak isn’t cut from whole cloth, it’s just QWERTY *as it should have
+been.*
+</div>
+</div>
+</div>
+</div>
+
+<div class="art-content-layout-wrapper layout-item-0">
+<div class="art-content-layout layout-item-1">
+<div class="art-content-layout-row">
+<div class="art-layout-cell layout-item-2" markdown="1">
 Ok, so how do I get started?
 ============================
 
 The easiest way to get started with Minimak is to go to the [Download](download) page.
+</div>
+</div>
+</div>
+</div>
