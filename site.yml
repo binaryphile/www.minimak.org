@@ -1,13 +1,15 @@
-title : Minimak
-tagline: Minimum Learning, Maximum Efficiency
-author :
-  name : Ted Lilley
-  email : ted.lilley@gmail.com
-  github : lilleyt
-  twitter : lilleyt
+title:    Minimak
+tagline:  Minimum Learning, Maximum Efficiency
+author:
+  name:     Ted Lilley
+  email:    ted.lilley@gmail.com
+  github:   lilleyt
+  twitter:  lilleyt
+  feedburner: Minimak
 
 navigation :
   - index.md
   - download.md
   - background.md
   - credits.md
+  - blog.md

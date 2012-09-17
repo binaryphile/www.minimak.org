@@ -3,63 +3,62 @@ title: Home
 description:
 header: true
 ---
-Minimak - Minimum Effort, Maximum Efficiency
-============================================
-
-What happened to Minimak?
--------------------------
-
-Minimak went through a minor revision, and then was given some
-time for dissemination.  During that time, I worked on a more full
-layout remapping for my personal use.
-
-Surprisingly, the result of that experimentation was not a 
-better remapping of the entire keyboard.  Instead,
-I just got a better understanding of what really makes a difference
-and what doesn't.
-
-As a result, I determined that QWERTY
-*really isn't all that bad*, it just gets one or two things very
-wrong.  I found that you don't actually have to
-remap your entire keyboard to get the best advantages of the popular
-layout alternatives today.  You just have to fix some of the more egregious issues with
-QWERTY with some judicious tweaking.
-
-The result is a new Minimak, more
-intelligently laid out and with far fewer key changes.  While that means
-it's less to learn than most other layouts, I've only found the learning
-curve to be on par with that of the original layout despite its fewer keys.
-That's because it doesn't follow the original's finger-impulse retention
-scheme.  Maintaining QWERTY skills along
-with regular QWERTY skills should be on par and easy enough as well.
-
-Of course, it bears little resemblance to the former Minimak
-design, so much of what was discussed on the site before is
-in the process of being updated.  I apologize to anyone who is
-disappointed with the new materials, as they are replacing the
-old ones.  The old ones are no longer available as they are clearly
-superseded by the new design.  Thanks for your understanding and
-I hope you are interested enough to give the new design a try.
-
-If you are a Linux user interesed in the original Minimak layout,
-Leonardo Cecchi has [forked the original repository](https://github.com/leonardoce/minimak/tree/master/linux)
-and created an xmodmap layout with directions for usage.
-
-What is Minimak?
-----------------
+Minimak - A Layout for the Rest of Us
+=====================================
 
 Minimak is a keyboard layout.  It's not software or hardware, it's just
 an arrangement of keys on your computer keyboard.  You don't need a new
-keyboard to use it, though.  Windows,
-Linux and MacOS all support software-based methods of changing your layout.
+keyboard to use it, you just need to tell your operating system how to
+make the change.  Windows, Linux and MacOS all support software-based
+methods of changing your layout.
 
-There are some free Windows-based downloads which you can use to do
-the remapping for you in the [download](/download) section.  They are
-provided AS IS and you should read all of the information on that page
-before using them, since remapping your keyboard can cause difficulties
-if not done with care.
+Minimak is a layout "for the rest of us".  While there are many
+alternative keyboard layouts, few if any are designed with the average
+user in mind.  Almost all of them expect you to toss out your QWERTY
+skills and learn an entirely new layout from scratch.
+
+The fact is, the popular alternatives to QWERTY are non-starters for
+most of us.  They were designed with the idea that you wouldn't need
+QWERTY after learning a new layout.  But that's just not true.  Even if
+you do use a snazzy alternative layout on your computer, you're still
+going to need to type on a QWERTY device a good deal of the time,
+whether it's a smartphone, tablet or someone else's computer.
+
+Not only that, it's ridiculously hard to learn a new layout.  Do you
+remember how hard it was to learn how to touch-type in the first place?
+Well, it's still that hard, or harder, to learn another layout.  So why
+would you do it?
+
+At this point, most of the advocates against QWERTY will tell you that
+QWERTY is tremendously inefficient.  They'll mention how it was designed
+by typewriter manufacturers to slow you down, a relic of days lost in
+the mists of time.
+
+While this may be true, the vast majority of users users don't care.
+QWERTY works well enough once you learn it, and why would you want to
+learn another layout when you're still going to have to type QWERTY?  Is
+it really going to be so much faster or ergonomic?
+
+I set out to answer the same questions for myself.  After learning not
+one but many different layouts, as well as designing several, I can tell
+you that my answer to these questions was no, it's not worth it.  That's
+why I came up with Minimak.
+
+Minimak isn't a layout that tries to be the best, most ergonomic and
+efficient.  Instead, it tries to be the minimal change that only
+addresses the worst failings of QWERTY.  The name "Minimak" references
+that concept, combined with a nod to Colemak and Dvorak, two other
+layouts that inspired it.
+
+There may be no reason to learn an entirely new layout to replace
+QWERTY, but there's also no reason you have to be suffer with the worst
+parts of QWERTY either.  And yes, QWERTY does suck.
 
 Ok, so how do I get started?
 ============================
 
-The easiest way to get started with Minimak is to go to the [Download](download) page.
+There are some free Windows-based downloads which you can use to do the
+remapping for you in the [download](/download) section.  They are
+provided AS IS and you should read all of the information on that page
+before using them, since remapping your keyboard can cause difficulties
+if not done with care.

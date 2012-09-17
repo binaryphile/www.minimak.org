@@ -89,10 +89,8 @@ window for the program in question. You'll just have to remember to type
 in QWERTY for that window.  Even the boot mapping method doesn't fix
 this.
 
-<a id="pkl">
-Portable Key Layout
+Portable Key Layout {#pkl}
 ===================
-</a>
 
 You can find a copy of PKL customized for Minimak on
 [github](https://github.com/downloads/lilleyt/minimak/pkl.zip).  This is
@@ -136,10 +134,8 @@ suggest using the [registry mapping](#rm) that includes it.  On Linux,
 you can instead check your configurations settings to see if there is a
 mapping defined.
 
-<a id="mklc">
-Microsoft Keyboard Layout Creator
+Microsoft Keyboard Layout Creator {#mklc}
 =================================
-</a>
 
 [Keyboard Layout
 Creator](http://www.microsoft.com/globaldev/tools/msklc.mspx) is
@@ -159,10 +155,8 @@ glad to hear your viewpoint and possibly include in the project any
 layouts you'd be willing to create, presuming the rationale and
 implementation meet our standards.
 
-<a id="rm">
-Registry Mapping
+Registry Mapping {#rm}
 ================
-</a>
 
 The advantage to using the registry mapping approach is that it remaps
 the keys at boot time, and you only need to do it once.  Once it's
@@ -232,10 +226,8 @@ registry.  Confirm it and then reboot the machine.  Remember to type in
 the new layout when entering your password, and don't be surprised if
 you don't get it right the first time.
 
-<a id="km">
-Key Mapper
+Key Mapper {#km}
 ----------
-</a>
 
 [Key Mapper](http://code.google.com/p/keymapper/) is one of [a number of
 tools](http://www.makeuseof.com/tag/remap-keyboard-free-tools-windows/)
@@ -273,10 +265,8 @@ Key Mapper can also export key configurations from *Mappings > Export As
 Registry File*.  The registry files can be loaded by double-clicking on
 them; you don't need to run Key Mapper to install them.
 
-<a id="tt">
-Typing Tutors
+Typing Tutors {#tt}
 =============
-</a>
 
 Now that you've got your spiffy new layout in action, how do you learn
 it?

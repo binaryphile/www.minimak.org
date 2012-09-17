@@ -3,7 +3,7 @@
 
 RuhohSpec: '1.0'
 theme : artisteer
-production_url : http://minimak.org/
+production_url : http://www.minimak.org/
 
 posts:
   permalink: /:categories/:title/

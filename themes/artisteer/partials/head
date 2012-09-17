@@ -9,6 +9,7 @@
   <!--[if IE 6]><link rel="stylesheet" href="{{ urls.theme_stylesheets }}/style.ie6.css" type="text/css" media="screen" /><![endif]-->
   <!--[if IE 7]><link rel="stylesheet" href="{{ urls.theme_stylesheets }}/style.ie7.css" type="text/css" media="screen" /><![endif]-->
   <link rel="shortcut icon" href="{{ urls.theme_media }}/favicon.ico" />
+  <link rel="alternate" type="application/rss+xml" title="Minimak RSS Feed" href="http://minimak.org/rss.html" />
   <script type="text/javascript">
 	  Cufon.replace('.art-logo-name', {fontFamily: 'Baby blocks'});
     Cufon.replace('.art-post h1', {fontFamily: 'Raspoutine Classic'});
