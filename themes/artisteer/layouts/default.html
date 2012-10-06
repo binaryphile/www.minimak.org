@@ -4,9 +4,7 @@
 <body>
 <div id="art-main">
   <div class="cleared reset-box"></div>
-  {{# page.header }}
-    {{> header }}
-  {{/ page.header }}
+  {{> header }}
   {{> nav }}
   <div class="art-box art-sheet">
     <div class="art-box-body art-sheet-body">
@@ -16,7 +14,26 @@
             {{# page.sidebars.left }}
               {{> sidebar }}
             {{/ page.sidebars.left }}
-            {{> main }}
+            <div class="art-layout-cell art-content" style="height:auto;">
+              <div class="art-box art-post">
+                <div class="art-box-body art-post-body">
+                  <div class="art-post-inner">
+                    <div class="art-postcontent">
+                      <div class="art-content-layout-wrapper layout-item-0">
+                        <div class="art-content-layout layout-item-1">
+                          <div class="art-content-layout-row">
+                            {{{ content }}}
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="cleared"></div>
+                  </div>
+                  <div class="cleared"></div>
+                </div>
+              </div>
+              <div class="cleared"></div>
+            </div>
             {{# page.sidebars.right }}
               {{> sidebar }}
             {{/ page.sidebars.right }}

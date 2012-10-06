@@ -427,11 +427,11 @@ div.art-headerobject
 {
    display: block;
    left: 50%;
-   margin-left: -390px;
+   margin-left: -440px;
    position: absolute;
    top: 0;
-   width: 780px;
-   height: 211px;
+   width: 880px;
+   height: 256px;
    background-image: url('../media/header-object.png');
 }
 /* end HeaderObject */

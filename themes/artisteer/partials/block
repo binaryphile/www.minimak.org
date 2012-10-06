@@ -1,8 +1,0 @@
-<div class="art-layout-cell {{ class }}" style="width: {{ width }};">
-  {{# body }}
-    {{{ body }}}
-  {{/ body }}
-  {{^ body }}
-    {{{ content }}}
-  {{/ body }}
-</div>

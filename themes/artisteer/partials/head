@@ -16,4 +16,14 @@
     Cufon.replace('.art-post h1', {fontFamily: 'Raspoutine Classic'});
 	</script>
   <meta name="google-site-verification" content="jGSSU2uBklI_YvqV8btffcYxYLeAaViieet94Irywp0" />
+  <script>
+    (function() {
+      var cx = '004856056704220715324:c9krpcwsddw';
+      var gcse = document.createElement('script'); gcse.type = 'text/javascript'; gcse.async = true;
+      gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+          '//www.google.com/cse/cse.js?cx=' + cx;
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(gcse, s);
+    })();
+  </script>
+  {{{ page.head-data }}}
 </head>

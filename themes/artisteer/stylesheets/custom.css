@@ -11,12 +11,22 @@
   margin-right: auto !important;
 }
 
+[alt=float-right] {
+  float: right;
+  padding-left: 10px;
+}
+
+[alt=float-left] {
+  float: left;
+  padding-right: 10px;
+}
+
 .panes div {
     display:none;
     padding:15px 10px;
     border:1px solid #999;
     border-top:0;
-    height:290px;
+    height: 637px;
     background-color:#fff;
 }
 
@@ -95,8 +105,4 @@ ul.tabs a.xl.current { background-position: 0 -62px; }
 /* initially all panes are hidden */
 .panes .pane {
     display:none;
-}
-
-.panes p:last-child {
-  float: right;
 }

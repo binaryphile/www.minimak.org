@@ -215,16 +215,19 @@ XP or above.
 
 You can download boot mappings that work for any Windows system from
 [github](https://github.com/downloads/lilleyt/minimak/registry_mappings.zip).
-There are two versions in the zip:
+There are three versions in the zip:
 
-  * Minimak - Regular version
-  * Minimak + BacksLock - Minimak with *CapsLock* mapped to *Backspace*
+  - Minimak-1 - Layout with only the first four key changes
+  - Minimak - Full layout with seven key changes
+  - Minimak + BacksLock - Minimak with *CapsLock* mapped to *Backspace*
 
-To install either of them, unzip the download and double-click the mapping
-you want.  Windows will ask you if you want to load the file into the
-registry.  Confirm it and then reboot the machine.  Remember to type in
-the new layout when entering your password, and don't be surprised if
-you don't get it right the first time.
+To install either of them, unzip the download and double-click the
+mapping you want.  Windows will ask you if you want to load the file
+into the registry.  Confirm it and then reboot the machine.  When you
+log in, remember to type your passwort with the new layout, and don't be
+surprised if you don't get it right the first time.  Windows 7 offers an
+on-screen keyboard in the accessibility settings that will let you log
+in if you have trouble.
 
 Key Mapper {#km}
 ----------
@@ -273,9 +276,10 @@ it?
 
 Here are some programs and sites that you may find useful for typing practice:
 
-  * [GNU Typist](http://www.gnu.org/software/gtypist/) - Simple
+  - [GNU Typist](http://www.gnu.org/software/gtypist/) - Simple
   console-mode tutor
-  * [TypeRacer](http://www.typeracer.com/) - typing web site
+  - [TypeRacer](http://www.typeracer.com/) - typing website
+  - [Key Hero](http://www.keyhero.com/) - another typing website
 
 Here's a [list of other
 tutors](http://typingsoft.com/all_typing_tutors.htm) if none of those
