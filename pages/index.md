@@ -171,4 +171,3 @@ they are?  Well, yes, it seems they are.
 
 Minimak is supported on Windows.  Mac and Linux versions are in the
 works.
-
