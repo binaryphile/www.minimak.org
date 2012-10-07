@@ -93,16 +93,16 @@ Portable Key Layout {#pkl}
 ===================
 
 You can find a copy of PKL customized for Minimak on
-[github](https://github.com/downloads/lilleyt/minimak/pkl.zip).  This is
-a copy of the PKL project with the Minimak layout added by us, not one
-of their own distributions.
+[github](http://github.com/downloads/lilleyt/minimak/minimak.zip).  This
+is a copy of the PKL project with the Minimak layout added by us, not
+one of their own distributions.
 
 PKL is by FARKAS Máté and is distributed under GPL 3.
 
 PKL is the recommended tool while you're learning Minimak.  PKL shows
 you a keyboard image with the new layout, so you can consult it while
-you learn.  It also supports
-suspending PKL entirely by hitting both *Alt* keys.
+you learn.  It also supports suspending PKL entirely by hitting both
+*Alt* keys.
 
 The keyboard graphic that is shown by PKL can be moved to one of two
 predetermined positions by floating your mouse over it.  It can also be
@@ -214,20 +214,18 @@ That said, the registry files should work on any Windows that's at least
 XP or above.
 
 You can download boot mappings that work for any Windows system from
-[github](https://github.com/downloads/lilleyt/minimak/registry_mappings.zip).
-There are three versions in the zip:
+[github](http://github.com/downloads/lilleyt/minimak/minimak.zip).
+There are several versions in the zip:
 
-  - Minimak-1 - Layout with only the first four key changes
-  - Minimak - Full layout with seven key changes
-  - Minimak + BacksLock - Minimak with *CapsLock* mapped to *Backspace*
+- __Minimak beginner:__  4 keys changed.
+- __Minimak:__  Intermediate, recommended layout.  7 keys changed.
+- __Minimak advanced:__  13 keys changed.
 
-To install either of them, unzip the download and double-click the
-mapping you want.  Windows will ask you if you want to load the file
-into the registry.  Confirm it and then reboot the machine.  When you
-log in, remember to type your passwort with the new layout, and don't be
-surprised if you don't get it right the first time.  Windows 7 offers an
-on-screen keyboard in the accessibility settings that will let you log
-in if you have trouble.
+To install one of them, unzip the download and double-click the mapping
+you want.  Windows will ask you if you want to load the file into the
+registry.  Confirm it and then reboot the machine.  Remember to type in
+the new layout when entering your password, and don't be surprised if
+you don't get it right the first time.
 
 Key Mapper {#km}
 ----------
@@ -288,11 +286,15 @@ are to your liking.
 As always, make sure you are using good antivirus, such as [Panda Cloud
 Antivirus](http://www.cloudantivirus.com), as we've come across at least
 one free typing tutor that reportedly is infected.  For the best
-security, we recommend scanning any downloaded file with the [VirusTotal](http://www.virustotal.com/) site, which scans with 40+ brand-name virus
-scanners.  They also have an [uploader application](https://www.virustotal.com/documentation/desktop-applications/) that
-can send a file from your desktop for scanning via the Explorer *Send To*
-menu.  There's also a [Chrome extension](https://chrome.google.com/webstore/detail/efbjojhplkelaegfbieplglfidafgoka)
-for scanning suspicious site links from within [Google Chrome](https://www.google.com/intl/en/chrome/browser/).
+security, we recommend scanning any downloaded file with the
+[VirusTotal](http://www.virustotal.com/) site, which scans with 40+
+brand-name virus scanners.  They also have an [uploader
+application](https://www.virustotal.com/documentation/desktop-applications/)
+that can send a file from your desktop for scanning via the Explorer
+*Send To* menu.  There's also a [Chrome
+extension](https://chrome.google.com/webstore/detail/efbjojhplkelaegfbieplglfidafgoka)
+for scanning suspicious site links from within [Google
+Chrome](https://www.google.com/intl/en/chrome/browser/).
 
 
 How sad is it that [Typing of the
@@ -300,15 +302,17 @@ Dead](http://www.amazon.com/The-Typing-Dead-Pc/dp/B00005RV5M), the
 funnest way to learn typing, can't be had for less than $55?  There is,
 however, a [free
 demo](http://www.pcworld.com/downloads/file/fid,8276-order,1-page,1/description.html)
-still available from PC World.  The demo features the first arcade level.
+still available from PC World.  The demo features the first
+arcade level.
 
 Note on VIM
 ===========
 
-While some of the keys with which [VIM](http://www.vim.org/) users are familiar have changed
-with Minimak, the good news is that most are unchanged.  However, you'll
-want to remap the functionality of the J and K keys to N and E respectively.
-That means you'll probably want to map N to K as well.
+While some of the keys with which [VIM](http://www.vim.org/) users are
+familiar have changed with Minimak, the good news is that most are
+unchanged.  However, you'll want to remap the functionality of the J and
+K keys to N and E respectively.  That means you'll probably want to map
+N to K as well.
 
 While there is definitely relearning to be done when it comes to using
 Minimak with VIM, there is a good argument to be made that Minimak is
@@ -331,17 +335,20 @@ temptations is considered a feature.
 If you need to see the key layout for visual reference while you are
 learning Minimak, [PKL](#pkl) supports this.
 
-Or, if you have $1086 US to burn, consider the
-[Optimus Popularis](http://store.artlebedev.com/electronics/optimus-popularis/)
-keyboard.  It lets you show any letter (or image, for that
-matter) on any key!
+Or, if you have $1086 US to burn, consider the [Optimus
+Popularis](http://store.artlebedev.com/electronics/optimus-popularis/)
+keyboard.  It lets you show any letter (or image, for that matter) on
+any key!
 
 Or, if you're a real keyboard ninja, consider [Das Keyboard Model S
 Ultimate](http://www.daskeyboard.com/model-s-ultimate/), which has no
 lettering at all!  At least then it won't be misleading.
 
-We'll also put in a plug for our favorite keyboard, the [TypeMatrix ergonomic keyboard](http://typematrix.com/).
-It's a great ergonomic keyboard, and inexpensive.  We like the 2020 model, which is available in the store for only $59.  You can get the 2030 as a blank model though. 
+We'll also put in a plug for our favorite keyboard, the [TypeMatrix
+ergonomic keyboard](http://typematrix.com/).  It's a great ergonomic
+keyboard, and inexpensive.  We like the 2020 model, which is available
+in the store for only $59.  You can get the 2030 as a blank model
+though. 
 
 It is not suggested, however, that you remove and replace the keys of
 your keyboard in the new configuration.  Some keyboards don't support
