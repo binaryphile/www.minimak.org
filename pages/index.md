@@ -2,9 +2,8 @@
 title: Home
 description:
 ---
-{::options parse_block_html="true" /}
 
-[Download For Windows Now](http://github.com/downloads/lilleyt/minimak/pkl.zip){: .art-button}
+[Download For Windows Now]{: .art-button}
 {: style="float:right;" }
 
 Minimak is a keyboard layout that was created to address the
@@ -29,7 +28,7 @@ shortcomings of existing layout alternatives:
   Minimak answers the question of how to fix what you already know
   without throwing the baby out with the bathwater.
 
-![Kitty]({{ urls.media }}/kitty-typing.jpg)\\
+![Kitty]\\
 _Not this kind of keyboard layout._
 {: style="float:right;padding-left:15px;" }
 
@@ -56,28 +55,31 @@ as possible.  Compared to QWERTY, Minimak basic changes just 4 keys
 which is about as easy as it can get while still offering considerable
 advantages.
 
-Intermediate is the recommended level that changes only 7 keys from
-QWERTY.  It offers the best bang while still be easy to maintain QWERTY
-skills.  Because it is the recommended level, this is the layout being
-referred to when talking about plain Minimak.
+Intermediate is the recommended level.  It changes only 7 keys from
+QWERTY.  It offers the best bang while still making it easy to maintain
+QWERTY skills.  It's referred to as just plain "Minimak" since it's the
+recommended level.
 
 For those who are willing to sacrifice closeness to QWERTY for improved
-feel, there's advanced which changes 13 keys.  This is pretty much the
-point of diminishing returns...no layout offers nearly as much
-improvement per relearned key after 7 keys, let alone 13.  Most other
-layouts ask you to learn 17 keys or more, though.
+feel, there's advanced which changes 13 keys.  This is pretty much past
+the point of diminishing returns, which is why intermediate is the
+recommended layout.  The incremental improvement for each new key drops
+precipitously after the first 7.  If the first couple levels serve to
+whet your appetite and you want further improvements, advanced
+compares favorably with "from scratch" layouts while changing fewer keys
+and without throwing away your existing investment in Minimak.
 
 If you're concerned that QWERTY is too broken to be fixed in so few
 keys, then rest assured that Minimak provides the majority of the value
 of other layouts in far fewer keys.  A detailed analysis of the design
-is offered, with statistics and comparisons to alternatives.  Perhaps
-more compelling than that is your own experience...Minimak is simple to
-try and, at least for me, offered a change in feel that was unmistakable
-and immediate.  I can tell you from my own experience that the advanced
-layout feels indistinguishable from the best layout I've learned, but
-try the basic layout for a while and see for yourself.
+is offered (work in progress, not posted yet), with statistics and
+comparisons to alternatives.  Perhaps more compelling than that is your
+own experience...Minimak is simple to try and offers a change in feel
+that is unmistakable and immediate.  The advanced layout feels
+indistinguishable from the best layout I've learned, but try the basic
+layout for a while and see for yourself.
 
-[Download For Windows Now](http://github.com/downloads/lilleyt/minimak/pkl.zip){: .art-button}
+[Download For Windows Now]{: .art-button}
 
 Experiences with Alternative Keyboard Layouts
 =============================================
@@ -85,32 +87,28 @@ Experiences with Alternative Keyboard Layouts
 In 2011, during the course of researching ergonomic keyboards, I came
 across the concept of alternative keyboard layouts.  I'd been familiar
 with the idea in the form of the oldest popular alternative called
-[Dvorak](http://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard), but I
-never gave it much thought.  After all, if you know how to touch-type
-QWERTY, you really know all you need to know to use a keyboard and
-besides, it's _really_ hard to learn how to touch-type, which you have
-to relearn whenever you try changing your layout.  So I'd never given it
-much thought.
+[Dvorak], but I never gave it much thought.  After all, if you know how
+to touch-type QWERTY, you really know all you need to know to use a
+keyboard and besides, it's _really_ hard to learn how to touch-type,
+which you have to relearn whenever you try changing your
+layout.  So I'd never given it much thought.
+
+![Old typewriter]\\
+_A 130-year old design not unlike your current layout...in fact,\\
+exactly the same._
+{: style="float:left;padding-right:15px;" }
 
 The idea stuck with me for whatever reason, and later I came back to it.
 I felt the need to take on a new challenge, and changing keyboard layout
 certainly qualified. I did a bit of research and was really impressed
-with [CarpalX](http://mkweb.bcgsc.ca/carpalx/).  The amount of thought
-and effort that went into the modeling of keystrokes captured my
-imagination.  I went whole-hog and spent months learning the
-"fully-optimized"
-[QGMLWB](http://mkweb.bcgsc.ca/carpalx/?full_optimization) layout.  I
-considered other layouts like [Colemak](http://colemak.com/), but
-figured that if I was going to learn a new layout, then I was going to
-be using it for the rest of my typing career, so I might as well take
-the pains to learn the best layout (I'd later change my mind and go on
-to recommend Colemak instead for anyone interested in learning a new
-l ayout).
-
-![Old typewriter]({{ urls.media }}/elliottfisher00.jpg)\\
-_A 130-year old design not unlike your current layout...in fact,\\
-exactly the same._
-{: style="float:left;padding-right:15px;" }
+with [CarpalX].  The amount of thought and effort that went into the
+modeling of keystrokes captured my imagination.  I went whole-hog and
+spent months learning the "fully-optimized" [QGMLWB] layout.  I
+considered other layouts like [Colemak], but figured that if I was going
+to learn a new layout, then I was going to be using it for the rest of
+my typing career, so I might as well take the pains to learn the best
+layout (I'd later change my mind and go on to recommend Colemak instead
+for anyone interested in learning a new layout).
 
 After several months, I got to the point where I could type in my new
 layout as fast as I had in QWERTY.  At that point, I learned two
@@ -125,10 +123,11 @@ practiced QWERTY.  As a result, I lost it.  Not completely, but I was
 stuck back hunting and pecking most of the time.  I'd been touch-typing
 for 20+ years but I couldn't just switch between layouts at will.
 
-I figured I'd go back to QWERTY and switch between layouts until I could
-do them both at will.  It took months again before I was back at full
-speed with QWERTY though.  At that point, I simply wasn't willing to go
-back to the new layout.  It was too painful.
+I figured I'd go back to QWERTY full-time, get up to speed again and
+then switch between layouts until I could do them both at will.  It took
+months again before I was back at full speed with QWERTY though.  At
+that point, I simply wasn't willing to go back to the new layout.  It
+was too painful.
 
 Fast forwarding several more months, I decided perhaps I should have
 learned a layout more closely related to QWERTY in the hopes that it
@@ -141,7 +140,7 @@ So I tried Colemak.  After a couple days, it was no easier or better
 than trying to learn any other layout.  At that point, I gave up hope on
 the existing alternatives.
 
-![Ow!]({{ urls.media }}/twisted_fingers.jpg)\\
+![Ow!]\\
 _Actual result of typing QWERTY for too long._
 {: style="float:right;padding-left:15px;"}
 
@@ -171,3 +170,12 @@ they are?  Well, yes, it seems they are.
 
 Minimak is supported on Windows.  Mac and Linux versions are in the
 works.
+
+[Download For Windows Now]: http://github.com/downloads/lilleyt/minimak/minimak.zip
+[Kitty]: {{ urls.media }}/kitty-typing.jpg
+[Dvorak]: http://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard
+[Old typewriter]: {{ urls.media }}/elliottfisher00.jpg
+[CarpalX]: http://mkweb.bcgsc.ca/carpalx/
+[QGMLWB]: http://mkweb.bcgsc.ca/carpalx/?full_optimization
+[Colemak]: http://colemak.com/
+[Ow!]: {{ urls.media }}/twisted_fingers.jpg

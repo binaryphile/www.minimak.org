@@ -10,7 +10,9 @@ author:
 navigation :
   - index.md
   - download.md
-  - background.md
-  - credits.md
+  - caveats.md
+  - learn.md
+  - design.md
+  - faq.md
   - blog.md
   - search.html
