@@ -16,9 +16,9 @@ very frustrating until you are proficient with the new layout.
 
 This is a good reason to go with the recommended [PKL] until you are
 proficient at Minimak.  PKL allows you to turn the Minimak layout on and
-off with a hotkey.  Just hit both *Alt* keys together and it will
+off with a hotkey.  Just hit both Alt keys together and it will
 suspend Minimak, putting you back in QWERTY.  Handle your login, then
-hit both *Alts* again to toggle back to Minimak.  You'll want to do this
+hit both Alts again to toggle back to Minimak.  You'll want to do this
 whenever you deal with passwords.
 
 Creating Passwords
@@ -94,7 +94,7 @@ know what they are.
 
 While there is definitely relearning to be done when it comes to using
 Minimak with VIM, there is a good argument to be made that Minimak is
-*the* VIM-friendliest of the popular layouts today, due to the smallest
+the VIM-friendliest of the popular layouts today, due to the smallest
 number of remappings.
 
 Keyboard Lettering
@@ -129,15 +129,15 @@ misleading.
 
 I'll also put in a plug for my favorite keyboard, the [TypeMatrix
 ergonomic keyboard].  It's a great ergonomic keyboard, and inexpensive.
-We like the 2020 model, which is available in the store for only $59.
+I like the 2020 model, which is available in the store for only $59.
 You can get the 2030 as a blank model though. 
 
 [![TypeMatrix Image]{: style="display:block;margin-left:auto;margin-right:auto" }][TypeMatrix ergonomic keyboard]
 
 It is not suggested, however, that you remove and replace the keys of
 your keyboard in the new configuration.  Some keyboards don't support
-the removal of keys and some have keys of differing shapes for different
-parts of the keyboard.
+the removal of keys (i.e., they'll break) and some have keys of
+differing shapes for different parts of the keyboard.
 
 [registry mapping]: /download#rm
 [PKL]: /download#pkl

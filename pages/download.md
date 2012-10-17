@@ -54,6 +54,8 @@ You can find more information on the [PKL website].
 
 PKL is by FARKAS Máté and is distributed under GPL 3.
 
+[Download For Windows Now]{: .art-button}
+
 Registry Mapping {#rm}
 ================
 
@@ -95,9 +97,9 @@ get around them by trying to log into another account.  What you load is
 what you get, for all users.
 
 If you do have a problem logging in after installing them, you can still
-log in on Windows 7 with the on-screen keyboard.  Click on the *Ease of
-Access* button in the lower left-hand corner of the login screen, then
-click *Type without the keyboard (On Screen Keyboard)* and click *Ok*.
+log in on Windows 7 with the on-screen keyboard.  Click on the _Ease of
+Access_ button in the lower left-hand corner of the login screen, then
+click _Type without the keyboard (On Screen Keyboard)_ and click _Ok_.
 We don't have directions for XP, but if you figure them out, please let
 us know so we can post them.
 
@@ -129,6 +131,8 @@ you want.  Windows will ask you if you want to load the file into the
 registry.  Confirm it and then reboot the machine.  Remember to type in
 the new layout when entering your password, and don't be surprised if
 you don't get it right the first time.
+
+[Download For Windows Now]{: .art-button}
 
 BacksLock
 ---------
