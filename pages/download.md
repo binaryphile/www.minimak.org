@@ -215,11 +215,7 @@ XP or above.
 
 You can download boot mappings that work for any Windows system from
 [github](http://github.com/downloads/lilleyt/minimak/minimak.zip).
-There are several versions in the zip:
-
-- __Minimak beginner:__  4 keys changed.
-- __Minimak:__  Intermediate, recommended layout.  7 keys changed.
-- __Minimak advanced:__  13 keys changed.
+There are several versions in the zip, consult the README there.
 
 To install one of them, unzip the download and double-click the mapping
 you want.  Windows will ask you if you want to load the file into the
