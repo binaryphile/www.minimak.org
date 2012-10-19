@@ -6,8 +6,9 @@ The Advantages of Dvorak, Designed So You Don\'t Forget QWERTY
 =============================================================
 
 ![Minimak 4-key Layout]{: style="display:block;margin:7px auto;padding:4px;" }
-_Minimak 4-key layout gives 50% of the finger-distance reduction of
-Simplified Dvorak with only 4 keys different than QWERTY_
+_Minimak 4-key layout gives 50% of the finger distance reduction of
+Simplified Dvorak with only 4 keys different than QWERTY.  Dvorak
+changes 33 keys by comparison._
 {: style="text-align:center;" }
 
 [Download for Windows Now]{: .art-button }
@@ -59,7 +60,7 @@ Consider the following comparison:
 {: style="margin:0 auto;" }
 
 As you can see, the bang for your buck on how much you get versus how
-much changes is starkly in favor of Minimak.
+much changes is remarkable by comparison.
 
 These results were generated with the [keyboard layout analyzer] using
 Chapter 1 of Alice's Adventures in Wonderland as the sample text, but
