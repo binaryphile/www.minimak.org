@@ -115,16 +115,8 @@ That said, the registry files should work on any Windows that's at least
 XP or above.
 
 You can download boot mappings that work for any Windows system from
-[github].  There are several versions in the zip:
-
-- __Minimak beginner:__  4 keys changed.
-- __Minimak:__  Intermediate, recommended layout.  7 keys changed.
-- __Minimak with BacksLock:__ with Backspace to CapsLock
-- __Minimak advanced:__  13 keys changed.
-- __Minimak advanced with BacksLock:__ with Backspace to CapsLock
-
-You have to be an administrator on your machine to install the registry
-mappings.
+[github](http://github.com/downloads/lilleyt/minimak/minimak.zip).
+There are several versions in the zip, consult the README there.
 
 To install one of them, unzip the download and double-click the mapping
 you want.  Windows will ask you if you want to load the file into the
