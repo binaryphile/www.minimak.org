@@ -1,5 +1,7 @@
-Downloads
-=========
+---
+title: Download
+description:
+---
 
 [Download For Windows Now]{: .art-button}
 {: style="float:right;" }
@@ -8,7 +10,7 @@ Windows
 -------
 
 Supports all versions of Windows from XP on.  All of the materials are
-provided AS IS.  Please read the [caveats].  I'm not responsible for any
+provided AS IS.  __Please read the [caveats].__  I'm not responsible for any
 damage to your system or inconvenience caused by using these layouts.
 
 Included in the download
@@ -17,7 +19,7 @@ are:
 - __[Portable Key Layout]__ - _Recommended for learning Minimak_
 - __[Registry Mappings]__ - for system-level installation
 
-Again, please read the page on [caveats] if this is the first time you
+Again, __please read the page on [caveats]__ if this is the first time you
 are using an alternative layout.
 
 Mac
@@ -50,11 +52,12 @@ along with an uninstaller.
 You may also want to add a shortcut to the PKL executable to your
 Start menu's _Startup_ folder.
 
+[Download For Windows Now]{: .art-button}
+{: style="float:right;" }
+
 You can find more information on the [PKL website].
 
 PKL is by FARKAS Máté and is distributed under GPL 3.
-
-[Download For Windows Now]{: .art-button}
 
 Registry Mapping {#rm}
 ================
@@ -118,13 +121,14 @@ You can download boot mappings that work for any Windows system from
 [github](http://github.com/downloads/lilleyt/minimak/minimak.zip).
 There are several versions in the zip, consult the README there.
 
+[Download For Windows Now]{: .art-button}
+{: style="float:right;" }
+
 To install one of them, unzip the download and double-click the mapping
 you want.  Windows will ask you if you want to load the file into the
 registry.  Confirm it and then reboot the machine.  Remember to type in
 the new layout when entering your password, and don't be surprised if
 you don't get it right the first time.
-
-[Download For Windows Now]{: .art-button}
 
 BacksLock
 ---------

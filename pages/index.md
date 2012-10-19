@@ -3,8 +3,83 @@ title: Home
 description:
 ---
 
+Minimak - Don\'t learn any other layout before you read this!
+============================================================
+
 [Download For Windows Now]{: .art-button}
 {: style="float:right;" }
+
+Why?  Because you don't want to learn what I did the hard way.
+
+You're probably interested in alternative keyboard layouts for one of
+two reasons; either you're curious about how your typing could be more
+efficient, perhaps even faster, or you have a physical issue which
+you're trying to cope with.
+
+If you have a physical issue, Minimak may indeed help, but that's not
+what it's designed for.  While a layout like Minimak helps your fingers
+move less distance and that may be good for you, it's not designed
+around ergonomics issues and there are issues that can't be addressed by
+only moving the letter keys around like Minimak does.  If, however,
+you're looking to see what you can do to improve the efficiency of
+your typing, read on.
+
+There are many fantastic alternative keyboard layouts out there, and
+some not so fantasic.  Dvorak, Colemak, the CarpalX collection,
+Capewell, Asset, Workman, the list goes on.  All of them improve on
+the QWERTY design, a design which, despite its flaws, can be deemed
+nothing less than supreme in terms of market share.  Even the best
+of these alternatives can only be considered novelties from a market
+perspective.
+
+The biggest reason for the dominance of QWERTY is not from any great
+intrinsic virtue, it's just that it's ridiculously hard to relearn
+typing and QWERTY was there first.  I know firsthand how hard it is
+because I've created and taught myself literally dozens of layout
+variations.  And after using them over the space of more than a year,
+I've learned one important thing...they all exist to fix the
+misplacement of two keys on the keyboard.  That's it.  Everything
+else, 20 or more relearned keys, are just a sideshow by comparison
+and I will show you why.  By the time you've figured it out for
+yourself (if you do) you've wasted months in typing productivity, and
+you don't want to learn that the hard way.
+
+The Problem With QWERTY
+=======================
+
+Before I go on, I'll say that the best keyboard layout for _you_ depends
+on what language you type in.  Everything I'm going to discuss applies
+to typing English, and mostly to American English if that makes any
+difference.
+
+The problem is simple.  If you're like me, spending your days typing
+English, then you spend more time typing the letters "E" and "T" than
+anything other letters.  In fact, you spend more time typing those two
+than the 14 least frequent letters combined.  That's more than half the
+alphabet.  This is why they don't get you much points in Scrabble, to
+say the least.
+
+Good design would say that you'd want these two keys where your fingers
+don't have to work to reach them.  You'd probably even want them on
+different hands to balance things out, perhaps on your strongest fingers
+since they'll be doing a hefty chunk of your typing.  But where are
+these workhorse keys?  In the home position, where your finger rest?  Of
+course not!  Well, at least they aren't on the same hand.  Wait, what,
+they are?  Well, yes, it seems they are.
+
+Because you have to move the middle and index fingers of your left hand
+from their resting (home) positions to type most of their workload, your
+hand spends a lot of time moving about the keyboard unnecessarily.  This
+is called finger distance, how much your fingers have to move about to
+type, and it's my primary metric for the "feel" of a layout.
+
+There are other metrics, to be sure, and there's no way to eliminate
+moving your fingers about as you type on the keyboard, but there are
+certainly ways to lessen or minimize it.  That's what most alternative
+layouts do very successfully, including Minimak.
+
+
+
 
 Minimak is a keyboard layout that was created to address the
 shortcomings of existing layout alternatives:
@@ -159,14 +234,6 @@ by themselves, they count for 14 other keys put together.  That's right,
 you spend more time typing these two letters than over half of the
 rest of the alphabet.  And third place isn't even really close to
 these two.
-
-Good design would say that you'd want these two keys where your fingers
-don't have to work to reach them.  You'd probably even want them on
-different hands to balance things out, perhaps on your strongest fingers
-since they'll be doing a hefty chunk of your typing.  But where are
-these workhorse keys?  In the home position, where your finger rest?  Of
-course not!  Well, at least they aren't on the same hand.  Wait, what,
-they are?  Well, yes, it seems they are.
 
 Minimak is supported on Windows.  Mac and Linux versions are in the
 works.
