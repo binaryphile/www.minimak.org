@@ -21,21 +21,24 @@ layout design differently than others:
   make a significant difference in typing.  Other layouts overoptimize,
   trying to squeeze tiny improvements out of large numbers of key
   changes.
-- __Changes fewer keys:__ Because many key changes don't make sense,
-  Minimak is able to change only 12 keys in the full layout, while still
-  giving the majority of the benefit of other layouts.
+- __Changes fewer keys:__ Because other layouts don't put the same
+  premium on preverving your QWERTY skills, they change keys
+  unnecessarily.  Minimak changes only 4, 8 or 12 keys (your choice),
+  while still giving the majority of the benefit of other layouts.
 - __Preserves finger impulses:__ Of the 12 keys that do change, _only 3_
   move to a different finger.  This makes it far easier to correct
   yourself as you learn, and therefore you learn faster.  Your initial
   impulses are still good, they just need to be modified.
 - __Can be learned in steps:__  Minimak's layout is designed to be
-  learned in increments of 4- or 6-key swaps, at your decision.  4-key
-  increments allow you to use it quickly in your everyday life, while
-  offering the best improvements that can be had at each step.
+  learned in three increments of 4-key swaps.  By limiting the amount of
+  change to be learned at a time, you adapt faster.  For the gung-ho,
+  there's also a 6-key layout that gets you to the full Minimak in two
+  steps.
 - __Can be used at any level:__  You don't have to learn the full 12-key
-  layout, you can stop at any level you're comfortable with.  If you're
+  layout; you can stop at any level you're comfortable with.  If you're
   on the 4-key or 8-key levels, you're already using the best layout
-  possible for that number of key-swaps.
+  possible for that number of key-swaps (6-key is the second best for
+  that number of keys).
 - __Is QWERTY-friendly:__  Because of the low number of key changes and
   the minimal number of finger changes, you're easily able to preserve
   and switch to your QWERTY typing skills.
