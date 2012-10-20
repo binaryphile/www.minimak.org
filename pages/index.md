@@ -2,8 +2,8 @@
 title: Home
 description:
 ---
-The Advantages of Dvorak, Without Giving Up On QWERTY
-=====================================================
+The Benefits of Dvorak Without Losing Your Investment in QWERTY
+===============================================================
 
 ![Minimak 4-key Layout]{: style="display:block;margin:7px auto;padding:4px;" }
 _The Minimak 4-key layout gives 60% of the improvements of Dvorak by
