@@ -21,15 +21,17 @@ layout design differently:
   make a significant difference in typing.  Other layouts over-optimize,
   trying to squeeze tiny improvements out of large numbers of key
   changes.
-- __Changes fewer keys:__ Because other layouts don't put the same
-  premium on preverving your QWERTY skills, they change keys
-  unnecessarily.  With Minimak, you have the choice of 4, 8 or 12 keys
-  changes.  With as few as even 4 keys changes, you still get the
-  majority of the benefit of other layouts.
-- __Preserves finger impulses:__ Of the 12 keys that do change in the
-  full layout, _only 3_ move to a different finger.  This makes it 
-  easy to correct yourself as you learn, and thus you learn faster.
-  Your initial impulses are still good, they just need to be modified.
+- __Changes fewer keys:__ Other layouts usually change the entire
+  keyboard.  They subscribe to the theory that there isn't "enough"
+  improvement without trying to improve everything.  Minimak doesn't
+  change any key that won't give a significant improvement, limiting
+  itself to 12 keys in the full layout.  Fewer keys to learn means
+  faster learning and better recollection of QWERTY.
+- __Preserves QWERTY fingering:__ Of the 12 keys that do change in the
+  full layout, _only 3_ move to a different finger.  Most just swap
+  rows.  This makes it easy to correct yourself as you learn, and thus
+  you learn faster.  Your initial impulses are still good, they just
+  need to be modified.
 - __Can be learned in steps:__  Minimak's layout is designed to be
   learned in three increments of 4-key swaps.  By limiting the amount of
   change to be learned at a time, you adapt faster.  For the gung-ho,
@@ -39,27 +41,26 @@ layout design differently:
   layout; you can stop at any level you're comfortable with.  If you're
   on the 4-key or 8-key levels, you're already using the best layout
   possible for that number of key-swaps.  (6-key is the second best
-  layout for that number of keys, but is optimized for learning quickly)
-- __Is QWERTY-friendly:__  Because of the low number of key changes and
-  the minimal number of finger changes, you're able to easily preserve
-  and switch to your QWERTY typing skills.
+  layout for that number of keys, but is optimized for learning
+  quickly)
 
 ![Minimak 8-key Layout]{: style="display:block;margin:7px auto;padding:4px;" }
 _The Minimak 8-key layout gives about 75% of the improvement of Dvorak_
 {: style="text-align:center;" }
 
 All of these elements combine to form a layout that is manageable for
-anyone to learn while providing considerable improvement in finger
-movement distance, same-finger repetition and same-hand row jumps.
+anyone to learn, is extremely QWERTY-friendly and still provides
+considerable improvement in finger movement distance, same-finger
+repetition and same-hand row jumps.
+
 Consider the following metrics:
 
-|Metric                 |Minimak (full) |Simplified Dvorak  |Colemak  |
-|:-                     |:-             |:-                 |:-       |
-|Keys changed           |12             |27                 |17       |
-|Fingers changed        |3              |24                 |13       |
-|Weighted Improvement   |75%            |90%                |100%     |
-|=                      |=              |=                  |=        |
-|Improvement/Key        |6.3%           |3.8%               |5.9%     |
+|Metric                 |Minimak (full) |Dvorak  |Colemak  |
+|-                      |-              |-       |-        |
+|Keys changed           |12             |27      |17       |
+|Fingers changed        |3              |24      |13       |
+|Weighted Improvement   |75%            |90%     |100%     |
+|Improvement/Key        |6.3%           |3.8%    |5.9%     |
 {: style="margin:0 auto;" }
 
 While it may seem remarkable that Minimak's per-key improvement is
