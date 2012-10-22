@@ -14,7 +14,7 @@ practice:
 
 - __[GNU Typist]__ - Simple console-mode tutor
 - __[Amphetype]__ - Desktop tutor with detailed typing analysis
-- __[TypeRacer]__ - competitive typing website that keeps hi-scores
+- __[TypeRacer]__ - competitive typing website that tracks your scores
 - __[Hi-games.net]__ - another competitive site with interesting
   visualizations for other layouts
 - __[Key Hero]__ - typing website with detailed typing analysis
@@ -131,7 +131,7 @@ More to come here, this is a work in progress...
 [Amphetype]: http://code.google.com/p/amphetype/
 [TypeRacer]: http://www.typeracer.com/
 [Key Hero]: http://www.keyhero.com/
-[Type-fu]: http://www.type-fu.com/
+[Type-fu]: http://type-fu.com/
 [Hi-games.net]: http://hi-games.net/typing-test/
 [list of other tutors]: http://typingsoft.com/all_typing_tutors.htm
 [Panda Cloud Antivirus]: http://www.cloudantivirus.com
