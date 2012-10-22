@@ -2,247 +2,101 @@
 title: Home
 description:
 ---
+The Benefit of Dvorak Without Losing Your Investment in QWERTY
+==============================================================
 
-Minimak - Don\'t learn any other layout before you read this!
-============================================================
+![Minimak 4-key Layout]{: style="display:block;margin:7px auto;padding:4px;" }
+_The Minimak 4-key layout gives 60% of the benefit of Dvorak while
+changing just 4 keys from QWERTY.  Think about that for a moment._
+{: style="text-align:center;" }
 
-[Download For Windows Now]{: .art-button}
-{: style="float:right;" }
+[Download Now]{: .art-button }
+{: style="float:right;padding-left:10px;" }
 
-Why?  Because you don't want to learn what I did the hard way.
+Minimak is designed to give you the benefits of other keyboard layouts
+without sacrificing your ability to type QWERTY as well.  It approaches
+layout design differently:
 
-You're probably interested in alternative keyboard layouts for one of
-two reasons; either you're curious about how your typing could be more
-efficient, perhaps even faster, or you have a physical issue which
-you're trying to cope with.
+- __Focuses on the keys that matter:__  Minimak only changes keys that
+  make a significant difference in typing.  Other layouts over-optimize,
+  trying to squeeze tiny improvements out of large numbers of key
+  changes.
+- __Changes fewer keys:__ Other layouts usually change the entire
+  keyboard.  They subscribe to the theory that there isn't "enough"
+  improvement without trying to improve everything.  Minimak doesn't
+  change any key that won't give a significant improvement, limiting
+  itself to 12 keys in the full layout.  Fewer keys to learn means
+  faster learning and better recollection of QWERTY.
+- __Preserves QWERTY fingering:__ Of the 12 keys that do change in the
+  full layout, _only 3_ move to a different finger.  Most just swap
+  rows.  This makes it easy to correct yourself as you learn, and thus
+  you learn faster.  Your initial impulses are still good, they just
+  need to be modified.
+- __Can be learned in steps:__  Minimak's layout is designed to be
+  learned in three increments of 4-key swaps.  By limiting the amount of
+  change to be learned at a time, you adapt faster.  For the gung-ho,
+  there's also a 6-key layout that gets you to the full Minimak in two
+  steps.
+- __Can be used at any level:__  You don't have to learn the full 12-key
+  layout; you can stop at any level you're comfortable with.  If you're
+  on the 4-key or 8-key levels, you're already using the best layout
+  possible for that number of key-swaps.  (6-key is the second best
+  layout for that number of keys, but is optimized for learning
+  quickly)
 
-If you have a physical issue, Minimak may indeed help, but that's not
-what it's designed for.  While a layout like Minimak helps your fingers
-move less distance and that may be good for you, it's not designed
-around ergonomics issues and there are issues that can't be addressed by
-only moving the letter keys around like Minimak does.  If, however,
-you're looking to see what you can do to improve the efficiency of
-your typing, read on.
+![Minimak 8-key Layout]{: style="display:block;margin:7px auto;padding:4px;" }
+_The Minimak 8-key layout gives about 75% of the improvement of Dvorak_
+{: style="text-align:center;" }
 
-There are many fantastic alternative keyboard layouts out there, and
-some not so fantasic.  Dvorak, Colemak, the CarpalX collection,
-Capewell, Asset, Workman, the list goes on.  All of them improve on
-the QWERTY design, a design which, despite its flaws, can be deemed
-nothing less than supreme in terms of market share.  Even the best
-of these alternatives can only be considered novelties from a market
-perspective.
+All of these elements combine to form a layout that is manageable for
+anyone to learn, is extremely QWERTY-friendly and still provides
+considerable improvement in finger movement distance, same-finger
+repetition and same-hand row jumps.
 
-The biggest reason for the dominance of QWERTY is not from any great
-intrinsic virtue, it's just that it's ridiculously hard to relearn
-typing and QWERTY was there first.  I know firsthand how hard it is
-because I've created and taught myself literally dozens of layout
-variations.  And after using them over the space of more than a year,
-I've learned one important thing...they all exist to fix the
-misplacement of two keys on the keyboard.  That's it.  Everything
-else, 20 or more relearned keys, are just a sideshow by comparison
-and I will show you why.  By the time you've figured it out for
-yourself (if you do) you've wasted months in typing productivity, and
-you don't want to learn that the hard way.
+Consider the following metrics:
 
-The Problem With QWERTY
-=======================
+|Metric                 |Minimak (full) |Dvorak  |Colemak  |
+|-                      |-              |-       |-        |
+|Keys changed           |12             |27      |17       |
+|Fingers changed        |3              |24      |13       |
+|Weighted Improvement   |75%            |90%     |100%     |
+|Improvement/Key        |6.3%           |3.8%    |5.9%     |
+{: style="margin:0 auto;" }
 
-Before I go on, I'll say that the best keyboard layout for _you_ depends
-on what language you type in.  Everything I'm going to discuss applies
-to typing English, and mostly to American English if that makes any
-difference.
+While it may seem remarkable that Minimak's per-key improvement is
+better than the others, it's not really.  Per-key improvement is highest
+with the first 4-key layout and goes down from there.  This makes sense
+because if you're designing the layout correctly, you're using the best
+key changes first.
 
-The problem is simple.  If you're like me, spending your days typing
-English, then you spend more time typing the letters "E" and "T" than
-anything other letters.  In fact, you spend more time typing those two
-than the 14 least frequent letters combined.  That's more than half the
-alphabet.  This is why they don't get you much points in Scrabble, to
-say the least.
+What's remarkable is that with only 12 keys you get most of the
+improvement in the Colemak and Dvorak layouts at nowhere near the
+expense of their learning curves.  This shows that _you don't need to
+throw out QWERTY, you just need to fix it._
 
-Good design would say that you'd want these two keys where your fingers
-don't have to work to reach them.  You'd probably even want them on
-different hands to balance things out, perhaps on your strongest fingers
-since they'll be doing a hefty chunk of your typing.  But where are
-these workhorse keys?  In the home position, where your finger rest?  Of
-course not!  Well, at least they aren't on the same hand.  Wait, what,
-they are?  Well, yes, it seems they are.
+These results were generated with the [keyboard layout analyzer] using
+Chapter 1 of Alice's Adventures in Wonderland as the sample text, but
+they also bear out against a number of other samples representative of
+everyday English usage.  "Weighted Improvement" is combination of the
+improvement in finger distance (2/3) and same-finger repetition (1/3),
+and are normalized so Colemak is 100%.  Note that these metrics have
+nothing to do with typing speed, only with finger movement and
+repetition.
 
-Because you have to move the middle and index fingers of your left hand
-from their resting (home) positions to type most of their workload, your
-hand spends a lot of time moving about the keyboard unnecessarily.  This
-is called finger distance, how much your fingers have to move about to
-type, and it's my primary metric for the "feel" of a layout.
+![Minimak Layout]{: style="display:block;margin:7px auto;padding:4px;" }
+_Minimak full layout_
+{: style="text-align:center;" }
 
-There are other metrics, to be sure, and there's no way to eliminate
-moving your fingers about as you type on the keyboard, but there are
-certainly ways to lessen or minimize it.  That's what most alternative
-layouts do very successfully, including Minimak.
+[Download Now]{: .art-button }
+{: style="float:right;padding-left:10px;" }
 
+There are downloads for Windows that make adopting Minimak as easy as
+possible in the [downloads] section.  Please read the caveats on that
+page explaining the issues with changing layouts.
 
-
-
-Minimak is a keyboard layout that was created to address the
-shortcomings of existing layout alternatives:
-
-- __Learning a new layout is extraordinarily difficult.__  It can take
-  months to relearn touch-typing with a new layout.  Minimak was made to
-  be easy enough to learn that you can adopt it immediately with an
-  absolute minimum of practice time. 
-- __You can't change the layout on every machine you use.__  Once you
-  learn an alternative layout, you don't want to use QWERTY any more,
-  but you still have to on other machines.  You end up hating to type
-  QWERTY at all because you're not good at it any more.  Minimak allows
-  you to experience improved typing while making it as easy as possible
-  to maintain your QWERTY skills.
-- __Existing layouts tend to be exercises in theory.__  While some
-  layouts take into account the fact that you already know QWERTY, most
-  throw out your QWERTY skills in favor of a clean slate.  Even ones
-  that try to pay some mind to QWERTY still expect you to relearn the
-  majority of keys.  They try to answer the question of what the best
-  layout is, but they start from a vacuum, ignoring your current skills.
-  Minimak answers the question of how to fix what you already know
-  without throwing the baby out with the bathwater.
-
-![Kitty]\\
-_Not this kind of keyboard layout._
-{: style="float:right;padding-left:15px;" }
-
-These three points are interrelated, and Minimak addresses all three
-with a single design philosophy.  Minimak starts with the QWERTY layout
-and prioritizes the changes that provide _the maximum impact on your
-typing experience_.  The name Minimak comes from this philosophy of
-getting the maximum improvement from the minimum change.  That, and a
-nod to some of the layouts that came before it, namely Dvorak and
-Colemak.
-
-Minimak is really not one but three layouts that are progressive in
-nature; basic, intermediate and advanced.  They balance two competing
-goals.  The first is the effort of learning a new layout.  The closer to
-QWERTY, the easier to learn and to be able to switch back to QWERTY when
-necessary.  The competing goal is the improvement in the feel of your
-typing.  With that, the further you get from QWERTY, the better you can
-do.
-
-Minimak allows you to choose the balance that is right for you.  You can
-stop at basic or move on to intermediate and advanced as you see fit.
-Because they are built progressively, each step to the next is as simple
-as possible.  Compared to QWERTY, Minimak basic changes just 4 keys
-which is about as easy as it can get while still offering considerable
-advantages.
-
-Intermediate is the recommended level.  It changes only 7 keys from
-QWERTY.  It offers the best bang while still making it easy to maintain
-QWERTY skills.  It's referred to as just plain "Minimak" since it's the
-recommended level.
-
-For those who are willing to sacrifice closeness to QWERTY for improved
-feel, there's advanced which changes 13 keys.  This is pretty much past
-the point of diminishing returns, which is why intermediate is the
-recommended layout.  The incremental improvement for each new key drops
-precipitously after the first 7.  If the first couple levels serve to
-whet your appetite and you want further improvements, advanced
-compares favorably with "from scratch" layouts while changing fewer keys
-and without throwing away your existing investment in Minimak.
-
-If you're concerned that QWERTY is too broken to be fixed in so few
-keys, then rest assured that Minimak provides the majority of the value
-of other layouts in far fewer keys.  A detailed analysis of the design
-is offered (work in progress, not posted yet), with statistics and
-comparisons to alternatives.  Perhaps more compelling than that is your
-own experience...Minimak is simple to try and offers a change in feel
-that is unmistakable and immediate.  The advanced layout feels
-indistinguishable from the best layout I've learned, but try the basic
-layout for a while and see for yourself.
-
-[Download For Windows Now]{: .art-button}
-
-Experiences with Alternative Keyboard Layouts
-=============================================
-
-In 2011, during the course of researching ergonomic keyboards, I came
-across the concept of alternative keyboard layouts.  I'd been familiar
-with the idea in the form of the oldest popular alternative called
-[Dvorak], but I never gave it much thought.  After all, if you know how
-to touch-type QWERTY, you really know all you need to know to use a
-keyboard and besides, it's _really_ hard to learn how to touch-type,
-which you have to relearn whenever you try changing your
-layout.  So I'd never given it much thought.
-
-![Old typewriter]\\
-_A 130-year old design not unlike your current layout...in fact,\\
-exactly the same._
-{: style="float:left;padding-right:15px;" }
-
-The idea stuck with me for whatever reason, and later I came back to it.
-I felt the need to take on a new challenge, and changing keyboard layout
-certainly qualified. I did a bit of research and was really impressed
-with [CarpalX].  The amount of thought and effort that went into the
-modeling of keystrokes captured my imagination.  I went whole-hog and
-spent months learning the "fully-optimized" [QGMLWB] layout.  I
-considered other layouts like [Colemak], but figured that if I was going
-to learn a new layout, then I was going to be using it for the rest of
-my typing career, so I might as well take the pains to learn the best
-layout (I'd later change my mind and go on to recommend Colemak instead
-for anyone interested in learning a new layout).
-
-After several months, I got to the point where I could type in my new
-layout as fast as I had in QWERTY.  At that point, I learned two
-important things.  The first was that the new layout was fantastic!
-Typing felt smooth in a way I'd never experienced.  I would later learn
-that this is not necessarily because the new layout was so great (it
-was), but that QWERTY is really designed just _terribly_.
-
-The second thing I learned is that I'd forgotten how to type QWERTY.  I
-was so focused on getting up to speed with the new layout that I never
-practiced QWERTY.  As a result, I lost it.  Not completely, but I was
-stuck back hunting and pecking most of the time.  I'd been touch-typing
-for 20+ years but I couldn't just switch between layouts at will.
-
-I figured I'd go back to QWERTY full-time, get up to speed again and
-then switch between layouts until I could do them both at will.  It took
-months again before I was back at full speed with QWERTY though.  At
-that point, I simply wasn't willing to go back to the new layout.  It
-was too painful.
-
-Fast forwarding several more months, I decided perhaps I should have
-learned a layout more closely related to QWERTY in the hopes that it
-would make it easier to learn and to switch.  After all, you can't just
-ignore that every other computer you will possibly use will make you
-type QWERTY, and you can't walk around installing keyboard layouts on
-every machine you encounter.
-
-So I tried Colemak.  After a couple days, it was no easier or better
-than trying to learn any other layout.  At that point, I gave up hope on
-the existing alternatives.
-
-![Ow!]\\
-_Actual result of typing QWERTY for too long._
-{: style="float:right;padding-left:15px;"}
-
-The Reason for Minimak
-======================
-
-These experiences made me take a hard look at QWERTY.  I mean, couldn't
-something be done with it?  And exactly what was so bad?  Here's some of
-what I found.
-
-Did you know that because of QWERTY your fingers travel 24% more than
-they should?  And I was _really_ surprised to learn that almost half of
-the inefficiency of the QWERTY layout is due to just 2 keys.  _2 keys!!_
-__E__ and __T__ are the two most frequently-typed keys, so much so that
-by themselves, they count for 14 other keys put together.  That's right,
-you spend more time typing these two letters than over half of the
-rest of the alphabet.  And third place isn't even really close to
-these two.
-
-Minimak is supported on Windows.  Mac and Linux versions are in the
-works.
-
-[Download For Windows Now]: http://github.com/downloads/lilleyt/minimak/minimak.zip
-[Kitty]: {{ urls.media }}/kitty-typing.jpg
-[Dvorak]: http://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard
-[Old typewriter]: {{ urls.media }}/elliottfisher00.jpg
-[CarpalX]: http://mkweb.bcgsc.ca/carpalx/
-[QGMLWB]: http://mkweb.bcgsc.ca/carpalx/?full_optimization
-[Colemak]: http://colemak.com/
-[Ow!]: {{ urls.media }}/twisted_fingers.jpg
+[Minimak 4-key Layout]: {{ urls.media }}/minimak_4_key.png
+[Minimak 8-key Layout]: {{ urls.media }}/minimak_8_key.png
+[Minimak Layout]: {{ urls.media }}/minimak.png
+[keyboard layout analyzer]: http://patorjk.com/keyboard-layout-analyzer/
+[downloads]: /download
+[Download Now]: http://github.com/downloads/lilleyt/minimak/minimak.zip

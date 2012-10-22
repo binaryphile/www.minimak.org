@@ -12,9 +12,11 @@ it?
 Here are some programs and sites that you may find useful for typing
 practice:
 
-- [GNU Typist] - Simple console-mode tutor
-- [TypeRacer] - typing website
-- [Key Hero] - another typing website
+- __[GNU Typist]__ - Simple console-mode tutor
+- __[Amphetype]__ - Desktop tutor with detailed typing analysis
+- __[TypeRacer]__ - typing website
+- __[Key Hero]__ - another typing website
+- __[Type-fu]__ - a slick, stripped-down website
 
 Here's a [list of other tutors] if none of those are to your liking.
 
@@ -121,10 +123,13 @@ it's a good bet that it will take a good 2-6 months before you are
 typing as fast in Minimak as you do now.  However, unlike most other
 layouts, you'll be able to begin using it for work almost immediately.
 
+More to come here, this is a work in progress...
 
 [GNU Typist]: http://www.gnu.org/software/gtypist/
+[Amphetype]: http://code.google.com/p/amphetype/
 [TypeRacer]: http://www.typeracer.com/
 [Key Hero]: http://www.keyhero.com/
+[Type-fu]: http://www.type-fu.com/
 [list of other tutors]: http://typingsoft.com/all_typing_tutors.htm
 [Panda Cloud Antivirus]: http://www.cloudantivirus.com
 [VirusTotal]: http://www.virustotal.com/
