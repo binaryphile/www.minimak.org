@@ -5,7 +5,7 @@
 .ie7 .art-post .art-layout-cell {border:none !important; padding:0 !important; }
 .ie6 .art-post .art-layout-cell {border:none !important; padding:0 !important; }
 
-[alt=center] {
+[alt=center], .art-postcontent img {
   display: block;
   margin-left: auto !important;
   margin-right: auto !important;
