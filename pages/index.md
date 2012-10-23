@@ -73,8 +73,8 @@ using the best key changes first.
 
 What's remarkable is that with only 12 keys you get most of the
 improvement of Dvorak at nowhere near the expense of its learning curve.
-This shows that _you don't need to throw out QWERTY, you just need to
-fix it._
+This shows that you don't need to throw out QWERTY, you just need to
+fix it.
 
 More importantly, you don't need to learn the full Minimak to benefit.
 You can choose the 4-key layout, never learn the rest and you still get
@@ -85,7 +85,9 @@ QWERTY, even if you don't practice maintaining your QWERTY skills_.
 It's not a no-brainer, but it's close.  Put another way, you'd be better
 off with QWERTY if you just left your fingers on the E and T keys and
 only let them travel to the home position when you have to type D and F.
-Why not just change them to the home position?
+Why not just change them to the home position?  That's what Minimak
+4-key does, it just chooses to put them in the best possible places, on
+separate hands.
 
 These results were generated with the [keyboard layout analyzer] using
 Chapter 1 of Alice's Adventures in Wonderland as the sample text, but
