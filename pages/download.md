@@ -4,7 +4,7 @@ description:
 ---
 
 [Download For Windows Now]{: .art-button}
-{: style="float:right;" }
+{: .float-right }
 
 Windows
 -------
@@ -32,6 +32,9 @@ Linux
 
 Coming soon.
 
+[Download For Windows Now]{: .art-button}
+{: .float-right }
+
 Portable Key Layout {#pkl}
 ===================
 
@@ -52,12 +55,12 @@ along with an uninstaller.
 You may also want to add a shortcut to the PKL executable to your
 Start menu's _Startup_ folder.
 
-[Download For Windows Now]{: .art-button}
-{: style="float:right;" }
-
 You can find more information on the [PKL website].
 
 PKL is by FARKAS Máté and is distributed under GPL 3.
+
+[Download For Windows Now]{: .art-button}
+{: .float-right }
 
 Registry Mapping {#rm}
 ================
@@ -120,9 +123,6 @@ XP or above.
 You can download boot mappings that work for any Windows system from
 [github](http://github.com/downloads/lilleyt/minimak/minimak.zip).
 There are several versions in the zip, consult the README there.
-
-[Download For Windows Now]{: .art-button}
-{: style="float:right;" }
 
 To install one of them, unzip the download and double-click the mapping
 you want.  Windows will ask you if you want to load the file into the

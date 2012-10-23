@@ -5,13 +5,13 @@ description:
 The Benefit of Dvorak Without Losing Your Investment in QWERTY
 ==============================================================
 
-![Minimak 4-key Layout]{: style="display:block;margin:7px auto;padding:4px;" }
+![Minimak 4-key Layout]  
 _The Minimak 4-key layout gives 60% of the benefit of Dvorak while
 changing just 4 keys from QWERTY.  Think about that for a moment._
-{: style="text-align:center;" }
+{: .center }
 
 [Download Now]{: .art-button }
-{: style="float:right;padding-left:10px;" }
+{: .float-right }
 
 Minimak is designed to give you the benefits of other keyboard layouts
 without sacrificing your ability to type QWERTY as well.  It approaches
@@ -44,9 +44,9 @@ layout design differently:
   layout for that number of keys, but is optimized for learning
   quickly)
 
-![Minimak 8-key Layout]{: style="display:block;margin:7px auto;padding:4px;" }
+![Minimak 8-key Layout]  
 _The Minimak 8-key layout gives about 75% of the improvement of Dvorak_
-{: style="text-align:center;" }
+{: .center }
 
 All of these elements combine to form a layout that is manageable for
 anyone to learn, is extremely QWERTY-friendly and still provides
@@ -57,11 +57,13 @@ Consider the following metrics:
 
 |Metric                 |Minimak (full) |Dvorak  |Colemak  |
 |-                      |-              |-       |-        |
+|__Cost__                                                  |
 |Keys changed           |12             |27      |17       |
 |Fingers changed        |3              |24      |13       |
+|__Benefit__                                               |
 |Weighted Improvement   |75%            |90%     |100%     |
+|__Cost/Benefit Ratio__                                    |
 |Improvement/Key        |6.3%           |3.8%    |5.9%     |
-{: style="margin:0 auto;" }
 
 While it may seem remarkable that Minimak's per-key improvement is
 better than the others, it's not really.  Per-key improvement is highest
@@ -83,12 +85,12 @@ and are normalized so Colemak is 100%.  Note that these metrics have
 nothing to do with typing speed, only with finger movement and
 repetition.
 
-![Minimak Layout]{: style="display:block;margin:7px auto;padding:4px;" }
+![Minimak Layout]  
 _Minimak full layout_
-{: style="text-align:center;" }
+{: .center }
 
 [Download Now]{: .art-button }
-{: style="float:right;padding-left:10px;" }
+{: .float-right }
 
 There are downloads for Windows that make adopting Minimak as easy as
 possible in the [downloads] section.  Please read the caveats on that
