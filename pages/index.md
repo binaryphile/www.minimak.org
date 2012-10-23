@@ -55,33 +55,44 @@ repetition and same-hand row jumps.
 
 Consider the following metrics:
 
-|Metric                 |Minimak (full) |Dvorak  |Colemak  |
-|-                      |-              |-       |-        |
-|__Cost__                                                  |
-|Keys changed           |12             |27      |17       |
-|Fingers changed        |3              |24      |13       |
-|__Benefit__                                               |
-|Weighted Improvement   |75%            |90%     |100%     |
-|__Cost/Benefit Ratio__                                    |
-|Improvement/Key        |6.3%           |3.8%    |5.9%     |
+|Metric                 |Minimak 4-key  |Minimak (full) |Dvorak   |
+|-                      |-              |-              |-        |
+|__Cost__                                                         |
+|Keys changed           |4              |12             |27       |
+|Fingers changed        |3              |3              |24       |
+|__Benefit__                                                      |
+|Weighted Improvement   |60%            |83%            |100%     |
+|__Cost/Benefit Ratio__                                           |
+|Improvement/Key        |15%            |6.9%           |3.3%     |
 
 While it may seem remarkable that Minimak's per-key improvement is
-better than the others, it's not really.  Per-key improvement is highest
-with the first 4-key layout and goes down from there.  This makes sense
-because if you're designing the layout correctly, you're using the best
-key changes first.
+better than that of Dvorak, it's not really.  Per-key improvement is
+highest with the first 4-key layout and goes down from there.  This
+makes sense because if you're designing the layout correctly, you're
+using the best key changes first.
 
 What's remarkable is that with only 12 keys you get most of the
-improvement in the Colemak and Dvorak layouts at nowhere near the
-expense of their learning curves.  This shows that _you don't need to
-throw out QWERTY, you just need to fix it._
+improvement of Dvorak at nowhere near the expense of its learning curve.
+This shows that _you don't need to throw out QWERTY, you just need to
+fix it._
+
+More importantly, you don't need to learn the full Minimak to benefit.
+You can choose the 4-key layout, never learn the rest and you still get
+60% of the reduction in finger travel and same-finger repetition offered
+by Dvorak.  _Anyone can handle that without losing their investment in
+QWERTY, even if you don't practice maintaining your QWERTY skills_.
+
+It's not a no-brainer, but it's close.  Put another way, you'd be better
+off with QWERTY if you just left your fingers on the E and T keys and
+only let them travel to the home position when you have to type D and F.
+Why not just change them to the home position?
 
 These results were generated with the [keyboard layout analyzer] using
 Chapter 1 of Alice's Adventures in Wonderland as the sample text, but
 they also bear out against a number of other samples representative of
 everyday English usage.  "Weighted Improvement" is combination of the
 improvement in finger distance (2/3) and same-finger repetition (1/3),
-and are normalized so Colemak is 100%.  Note that these metrics have
+and are normalized so Dvorak is 100%.  Note that these metrics have
 nothing to do with typing speed, only with finger movement and
 repetition.
 
