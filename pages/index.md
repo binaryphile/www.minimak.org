@@ -30,8 +30,8 @@ layout design differently:
 - __Preserves QWERTY fingering:__ Of the 12 keys that do change in the
   full layout, _only 3_ move to a different finger.  Most just swap
   rows.  This makes it easy to correct yourself as you learn, and thus
-  you learn faster.  Your initial impulses are still good, they just
-  need to be modified.
+  you learn faster.  Your initial impulses are still good, and are quick
+  to be modified.
 - __Can be learned in steps:__  Minimak's layout is designed to be
   learned in three increments of 4-key swaps.  By limiting the amount of
   change to be learned at a time, you adapt faster.  For the gung-ho,
@@ -41,8 +41,8 @@ layout design differently:
   layout; you can stop at any level you're comfortable with.  If you're
   on the 4-key or 8-key levels, you're already using the best layout
   possible for that number of key-swaps.  (6-key is the second best
-  layout for that number of keys, but is optimized for learning
-  quickly)
+      layout for that number of keys, but is optimized for learning
+      quickly)
 
 ![Minimak 8-key Layout]  
 _The Minimak 8-key layout gives about 75% of the improvement of Dvorak_
@@ -55,7 +55,7 @@ repetition and same-hand row jumps.
 
 Consider the following metrics:
 
-|Metric                 |Minimak 4-key  |Minimak (full) |Dvorak   |
+|Metric                 |Minimak 4-key  |Minimak 12-key |Dvorak   |
 |-                      |-              |-              |-        |
 |__Cost__                                                         |
 |Keys changed           |4              |12             |27       |
@@ -86,8 +86,7 @@ It's not a no-brainer, but it's close.  Put another way, you'd be better
 off with QWERTY if you just left your fingers on the E and T keys and
 only let them travel to the home position when you have to type D and F.
 Why not just change them to the home position?  That's what Minimak
-4-key does, it just chooses to put them in the best possible places, on
-separate hands.
+4-key does, it just chooses to put them where they can do the most good.
 
 These results were generated with the [keyboard layout analyzer] using
 Chapter 1 of Alice's Adventures in Wonderland as the sample text, but
