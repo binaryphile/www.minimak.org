@@ -61,7 +61,7 @@ def build(options):
 
     '''
     cfg = options.cfg.default
-    cmd = 'git commit > nul'
+    cmd = 'git commit -a > nul'
     print 'Committing...'
     sub.call(cmd, shell=True)
     cmd = 'git push > nul'
