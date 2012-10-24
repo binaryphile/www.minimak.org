@@ -1,0 +1,5 @@
+default:
+  build_dir: compiled
+  clean_dirs:
+    - '%(build_dir)s'
+  contrib_dir: contrib
