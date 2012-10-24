@@ -80,12 +80,12 @@ def build(options):
 @needs(['build'])
 def release(options):
     '''
-    Release the distributable to ftp
+    Build and release the site to S3
     
     '''
-    cmd = 's3sync'
+    cmd = 's3sync > nul'
     print 'Syncing to S3...'
-    sub.check_call(cmd)
+    sub.check_call(cmd, shell=True)
     print 'Done'
 
 
