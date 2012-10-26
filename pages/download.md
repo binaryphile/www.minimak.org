@@ -22,15 +22,52 @@ are:
 Again, __please read the page on [caveats]__ if this is the first time you
 are using an alternative layout.
 
+[Download For Mac Now]{: .art-button}
+{: .float-right }
+
 Mac
 ---
 
-Coming soon.
+Mac bindings are included in the zip.  Do the following:
+
+- Copy `Minimak.bundle` from the `osx` directory in the repository to `/Library/Keyboard Layouts`.
+  You will need to enter your password.
+- Open _System Preferences > Keyboard > Input Sources_
+- Turn on the layouts you wish to use
+
+For information on Backslock on the Mac, see the [Colemak Mac page].
+
+[Download For Linux Now]{: .art-button}
+{: .float-right }
 
 Linux
 -----
 
-Coming soon.
+At the moment, mappings are only available for graphics mode logins via
+[xmodmap].
+
+These are brand new mappings and untested since I don't have a machine
+with X to test on.  The mappings are simple enough that I'm confident
+most will work with the possible exception of the P and semicolon
+mappings, since I'm not sure whether the semicolon keysym is spelled
+out.
+
+To try the keymappings for the length of your login session, run the
+command:
+
+    xmodmap filename
+
+where filename is the name of the mapping you've chosen.
+
+To install one for your login, first copy the file to `~/.Xmodmap`, then
+add the following to `~/.xinitrc`:
+
+    if [ -f $HOME/.Xmodmap ]; then
+        /usr/bin/xmodmap $HOME/.Xmodmap
+    fi
+
+There are no Backslock mappings since many Linux systems have Backslock
+as a possible configuraion choice in their keyboard settings.
 
 [Download For Windows Now]{: .art-button}
 {: .float-right }
@@ -200,6 +237,8 @@ you've already mapped some other key to CapsLock, it's just a good
 idea to put Backspace there.
 
 [Download For Windows Now]: http://github.com/downloads/lilleyt/minimak/minimak.zip
+[Download For Mac Now]: http://github.com/downloads/lilleyt/minimak/minimak.zip
+[Download For Linux Now]: http://github.com/downloads/lilleyt/minimak/minimak.zip
 [ZipInstaller]: http://www.nirsoft.net/utils/zipinst.html
 [PKL website]:http://pkl.sourceforge.net/
 [github]: http://github.com/downloads/lilleyt/minimak/minimak.zip
@@ -212,3 +251,5 @@ idea to put Backspace there.
 [a number of tools]: http://www.makeuseof.com/tag/remap-keyboard-free-tools-windows/
 [kmapper]: http://colemak.com/pub/windows/Kmapper-1.0.zip
 [Keyboard Layout Creator]: http://www.microsoft.com/globaldev/tools/msklc.mspx
+[Colemak Mac page]: http://colemak.com/wiki/index.php?title=Mac
+[xmodmap]: https://wiki.archlinux.org/index.php/Xmodmap

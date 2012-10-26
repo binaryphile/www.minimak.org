@@ -83,7 +83,7 @@ def release(options):
     Build and release the site to S3
     
     '''
-    cmd = 's3sync > nul'
+    cmd = 's3sync'
     print 'Syncing to S3...'
     sub.check_call(cmd, shell=True)
     print 'Done'
