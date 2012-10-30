@@ -2,6 +2,8 @@
 title: Home
 description:
 ---
+__My WPM today 10/30/12:__ M12: 60wpm 98%, QWERTY: 45wpm 94%
+
 The Benefit of Dvorak Without Losing Your Investment in QWERTY
 ==============================================================
 
