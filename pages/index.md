@@ -84,6 +84,13 @@ improvement of Dvorak at nowhere near the expense of its learning curve.
 This shows that you don't need to throw out QWERTY, you just need to
 fix it.
 
+![Minimak Layout]  
+_Minimak 12-key layout_
+{: .center }
+
+[Download Now]{: .art-button }
+{: .float-right }
+
 More importantly, you don't need to learn the full Minimak to benefit.
 You can choose the 4-key layout, never learn the rest and you still get
 60% of the reduction in finger travel and same-finger repetition offered
@@ -93,8 +100,8 @@ QWERTY, even if you don't practice maintaining your QWERTY skills_.
 It's not a no-brainer, but it's close.  Put another way, you'd be better
 off with QWERTY if you just left your fingers on the E and T keys and
 only let them travel to the home position when you have to type D and F.
-Why not just change them to the home position?  That's what Minimak
-4-key does, it just chooses to put them where they can do the most good.
+Why not just change E and T to the home position?  That's what Minimak
+does, it just puts them where they do the most good.
 
 These results were generated with the [keyboard layout analyzer] using
 Chapter 1 of Alice's Adventures in Wonderland as the sample text, but
@@ -104,13 +111,6 @@ improvement in finger distance (2/3) and same-finger repetition (1/3),
 and are normalized so Dvorak is 100%.  Note that these metrics have
 nothing to do with typing speed, only with finger movement and
 repetition.
-
-![Minimak Layout]  
-_Minimak full layout_
-{: .center }
-
-[Download Now]{: .art-button }
-{: .float-right }
 
 There are downloads for Windows that make adopting Minimak as easy as
 possible in the [downloads] section.  Please read the caveats on that
