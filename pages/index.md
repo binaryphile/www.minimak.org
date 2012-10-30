@@ -88,9 +88,6 @@ fix it.
 _Minimak 12-key layout_
 {: .center }
 
-[Download Now]{: .art-button }
-{: .float-right }
-
 More importantly, you don't need to learn the full Minimak to benefit.
 You can choose the 4-key layout, never learn the rest and you still get
 60% of the reduction in finger travel and same-finger repetition offered
@@ -112,9 +109,13 @@ and are normalized so Dvorak is 100%.  Note that these metrics have
 nothing to do with typing speed, only with finger movement and
 repetition.
 
+[Download Now]{: .art-button }
+{: .float-right }
+
 There are downloads for Windows that make adopting Minimak as easy as
-possible in the [downloads] section.  Please read the caveats on that
-page explaining the issues with changing layouts.
+possible in the [downloads] section.  Please read the [caveats]
+which explain a number of issues with changing layouts that you'll want
+to know about.
 
 [Minimak 4-key Layout]: {{ urls.media }}/minimak_4_key.png
 [Minimak 8-key Layout]: {{ urls.media }}/minimak_8_key.png
@@ -122,3 +123,4 @@ page explaining the issues with changing layouts.
 [keyboard layout analyzer]: http://patorjk.com/keyboard-layout-analyzer/
 [downloads]: /download
 [Download Now]: http://github.com/downloads/lilleyt/minimak/minimak.zip
+[caveats]: /caveats
