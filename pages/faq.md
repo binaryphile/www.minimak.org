@@ -1,24 +1,20 @@
 ---
-title:
+title: FAQ
 description:
 ---
 
-Are you using Minimak?
+How fast are you at Minimak?
 
-: Yes.  You can see my latest speed tests at the top of the
-homepage.  I try to post them daily.
-
-How fast are you?
-
-: See the homepage.
+: See the homepage.  I try to post my QWERTY and Minimak speeds daily.
 
 How long does it take to get up to speed?
 
-: You can also see the count of days I've been using Minimak on the
-homepage.  I'm not fully up to speed yet.  After 9 days of using the
-12-key layout, I'm in the 40-60 wpm range with both Minimak and QWERTY.
-I'm not a good test case though, since I've been typing with other
-variations of the same layout for quite some time.
+: I'm not fully up to speed yet, so I can't say for sure.  You can track
+my progress on the homepage, which shows the count of days I've been
+using Minimak.  After 9 days with the 12-key layout, I'm in the 40-60
+wpm range with both Minimak and QWERTY.  However I'm not really a
+representative case since I've been typing with precursor designs for
+some time.
 
 : It took me about six months to get up to 80 wpm with the QGMLWB layout
 from carPalx.  I'd estimate Minimak to cut that time to a third.
@@ -30,9 +26,17 @@ Which Minimak do you use?
 Which Minimak do you recommend?
 
 : I think the 8-key layout is the best compromise for most people.  I
-like the 12-key layout more for aesthetic reasons than for its actual
-metrics.  I think it's further from QWERTY than you need to go, and the
-8-key layout gives you the best bang for your learning buck.
+like the 12-key layout more for aesthetic reasons (such as moving P out
+of an uncomfortable position) than for its actual metrics.  I think
+it's further from QWERTY than most will find comfortable, and the 8-key
+layout solves the obvious problems with QWERTY.
+
+What are the obvious problems with QWERTY?
+
+: E and T need to be in the home position and should be on the middle
+fingers.  J and K have no business in the home position.  The rest is
+getting the highest frequency letters within the reach of the middle and
+ring fingers and avoiding same finger repetition.
 
 How many people are using Minimak?
 
@@ -53,6 +57,27 @@ quicker.  I need more real world experiences to say for sure.
 compromise that gets you there in two steps.  It's explicitly designed
 for learning the 12-key layout quickly.  Give it a try.
 
+I already use Dvorak/[layout X].  Should I learn Minimak?
+
+: If you're unsatisfied the effect Dvorak has had on your QWERTY skills,
+then I'd consider Minimak.  It's not going to be as easy to learn as
+it is for QWERTY users, though.
+
+: Otherwise I'd say no.  As my metrics show, Minimak's value is not that
+it's any better than Dvorak, it's that it's significantly better than
+QWERTY while helping you keep your QWERTY skills.
+
+Is Minimak ergonomic?
+
+: I make no claims about ergonomics.  If the fact that your fingers move
+less with Minimak than with QWERTY helps, then that's a side-benefit
+and not the intent of the design.
+
+Can Minimak help me type faster?
+
+: Same answer as above.  That may be a side-benefit but it's not the
+intent of the design.
+
 How do you come up with your comparison numbers to Dvorak?
 
 : I use the keyboard layout analyzer to compare each layout with Dvorak.
@@ -71,25 +96,99 @@ feels right to me.
 
 Are your metrics subjective?
 
-: Yes, but I think they provide a good assessment of feel, which is the
-goal of the design.  The greatest part of it is reduction in finger
-movement.  While reduction in finger repetition is also a tangible
-concern, it is a less consistent part of the typing experience, hence
-the lower weight.
+: Yes, but I think they provide a strong assessment of goodness of feel,
+which is the goal of the design.  The greatest part of it is reduction
+in finger movement.  While reduction in finger repetition is also a
+tangible concern, it is a less consistent part of the typing
+experience, hence the lower weight.
 
 : Other people may argue for more sophisticated metrics, but there's
 only so much you can try to improve in a minimalistic approach like
-Minimak's, so I question the value of trying to satisfy anything more
-sophisticated.  I also question how valuable other metrics actually are.
-At the end of the day, you have to actually be able to feel the
-differences, and I can only feel finger distance and repetition.
+Minimak's, so I question the value of trying to satisfy more
+sophisticated metrics.  I also question how valuable other metrics
+actually are.  At the end of the day, you have to actually be able to
+feel the differences and I can only feel finger distance and repetition.
 
 Why compare to Dvorak and not [layout X]?
 
 : I know more people who use Dvorak than any other alternative layout
-and it has more hardware keyboard support than any other.
+and it has more OS and hardware keyboard support than any other.
 
 : There are layouts which have better results than Dvorak on my metrics,
 notably Colemak.  I don't try to compare to it as well so as not to
 confuse things with even more metrics than there already are.  Dvorak
 is just a name people can relate to.
+
+How can you call changing 4 keys a layout?
+
+: The numbers speak for themselves.  E and T are so important and are so
+misplaced in QWERTY that you can spend enormous amounts of effort trying
+to finesse the other 25 keys and still not get the improvement that
+moving these two keys gives you.  It may take a bit for that to sink in,
+but when it does, you may realize that by some measures, the
+4-key layout is the best Minimak layout.
+
+: This is because most people assign a high cost to relearning
+keys...high enough that most won't even consider it at all.  If you
+associate a high cost with learning keys, then the only keys you'll be
+willing to learn have to meet a certain threshold of improvement.  For
+some of these high-cost users, the 4-key layout is the only layout that
+has enough improvement per key to be considered.
+
+If Minimak is such a great idea, why hasn't anyone come up with it before?
+
+: My theory on this is that as a layout designer, it's only natural to
+assume that the only way to replace such a massively successful layout
+as QWERTY is to design the best possible layout you can.  And let's face
+it, you have to be a real nerd to even think about redesigning your
+layout in the first place.  Someone that obsessive is going to resist
+the idea of offering less than the best they can come up with.  So the
+natural inclination is to start off by throwing away QWERTY and
+designing from first principles in the pursuit of a pure optimization
+strategy.  After all, we all agree that QWERTY is a terrible layout, so
+why use it as a foundation?
+
+: But unless you spend time looking at the improvement you get on a key
+by key basis, you may miss an important fact.  That fact is that there
+is a dramatic range of impact to the spectrum of key changes.  Even if
+you do notice this fact, it's not immediately obvious how it makes a
+difference.  But what it means is that when you can make a large
+difference with a small number of key changes, an incremental
+improvement strategy has a lot of value by lowering the cost of the
+learning curve.  This observation is what makes an incremental
+improvement strategy favorable to pure optimization, seemingly against
+common sense.  At least, that's my take on it.
+
+What are your thoughts on [layout X]?
+
+: First, I'll say that a lot more thought and research has gone into
+most of the other layouts to which I'm comparing Minimak.  Minimak is
+great for all of the reasons I've outlined, but there are a lot of great
+layouts out there as well.
+
+: The carPalx layouts are the result of an amazing amount of modeling.
+While I can't say I agree with the particular balancing act he uses for
+quantifying a good layout, I can say that I learned the fully optimized
+layout and it felt great.  I should also mention that I haven't measured
+it against my own metrics, but I'll guess it does very well.  The
+designer has done something right.  If we were inventing keyboards for
+the first time, I'd be willing to bet one of his layouts is the best.
+
+: Colemak is a better layout for most people though, since it does take
+QWERTY into consideration, even if it does fall short of having been
+designed for QWERTY.  Colemak scores really well on the metrics I use.
+However, I think it is mostly the result of a pure optimization strategy
+and doesn't employ the learning principles found in Minimak.
+
+: Dvorak is well-designed, but when compared to Minimak, it seems to
+pale a bit.  Minimak offers better metrics for a lower learning curve.
+
+: I found the Workman and Asset layouts interesting and incorporated
+some of their ideas.  The big one is that valuing key positions by row
+is wrong.  You have to value them by their reachability, which varies by
+finger and hand due to the asymmetry of the standard layout.  carPalx
+seems to get this wrong.
+
+: That said, I believe that Minimak's approach is both unique and better
+than the rest for QWERTY typists (meaning just about all of us) because
+of the way it addresses the realities of QWERTY.

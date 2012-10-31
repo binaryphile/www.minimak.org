@@ -47,38 +47,35 @@ discuss some of these considerations.
 Goals
 -----
 
-You don't need to decide how far you're going to go in the progression
-(beginner, intermediate, advanced) to start.  It is always recommended
-that you go through them in order and there's no shortcut, so you are
-free to stop advancing when you feel you've reached your goal.
+You don't need to decide how far you're going to go with Minimak
+upgrades (4-, 8- or 12-key) to start.  It is always recommended that you
+go through them in order.  You are free to stop advancing when you feel
+you've reached your goal.
 
-I recommend this because you learn faster by doing it in smaller steps
-than you can all at once.  There's a non-linear relationship between the
-number of keys you change and the difficulty of learning.  It's easy to
-learn two key changes, but the learning curve becomes much steeper after
-that.  That was my experience in learning the dozens (literally) of
-layout variations I created before the final Minimak.  My typing ability
-would hit its limit to adapt at 4 key changes.  After that it would slow
-to a crawl if I added even one more key.  So you will learn faster if
-you limit each change to four keys, which is what the beginner and
-intermediate layouts do.
+I recommend learning in steps because there's a non-linear relationship
+between the number of keys you change and the difficulty of learning.
+For example, it's easy to learn two key changes, but the learning curve
+becomes much steeper after that.  My experience was that I could cope
+with 4 key changes.  After that, my learning would take a big hit if I
+added even one more key.  So you will learn faster if you limit each
+change to four keys, which is what each of the steps does.
 
 The goal you'll need to eventually decide is how much time you want to
-invest and how far from QWERTY you're willing to go.  Intermediate
-should be good for most people and offers a lot of benefits.  Advanced
-is really just for the hardcore who are willing to sacrifice their
-QWERTY abilities to some degree.  The amount of change with advanced is
-higher and while the payoff is tangible, it's much lower per relearned
-key.  Basic is certainly worthwhile and although it doesn't change much,
-it has the highest bang for the buck by far, so it is a perfectly
-reasonable stopping point as well.  That said, I use advanced.
+invest and how far from QWERTY you're willing to go.  If you start with
+the 4-key layout and decide it feels good enough, you've sacrificed
+little from QWERTY but gotten a lot of benefit.   I think the 8-key
+layout is the sweet spot, still easy to maintain your QWERTY skills
+while getting rid of the worst occupants of the home position (I'm
+looking at you, J).  The 12-key layout is aesthetically pleasing,
+and does offer improvement, but approaches or crosses the
+threshold of diminishing returns.
 
 Work Environment
 ----------------
 
-If you work on a machine that won't allow you to install software, 
-your obviously going to have different requirements than someone who is
-the sole administrator and user of their machine.
+If you happen to be on a machine that won't allow you to install
+software, you're obviously going to have different requirements than
+someone who is the sole administrator and user of their machine.
 
 For those in such an unfortunate situation, you're ok with PKL as long
 as you can copy the files onto the machine and run the `pkl.exe`
@@ -86,46 +83,79 @@ executable.  It is portable and doesn't need to be installed.  You can
 even run it from a USB drive.  You're not going to be able to use the
 registry mappings, though.
 
-If you're in a multi-user situation on your machine, you too are going
-to want to use PKL so it is only local to your account and doesn't
-affect others.  If you happen to be on Windows XP, there are
-user-specific registry mappings you can use as well, which you can read
-about on the download page.  This can work well since it doesn't affect
-the layout for the login screen (QWERTY).  If you're on Vista or 7,
-there's no user mappings though.
+If you're in a multiuser situation on your machine, you too are going to
+want to use PKL so it is only local to your account and doesn't affect
+others.  If you happen to be on Windows XP, there are user-specific
+registry mappings you can use as well, which you can read about on the
+download page.  This can work well since it doesn't affect the layout
+for the login screen.  If you're on Vista or 7, there's no user mappings
+though.
 
 Otherwise, you're probably eventually going to want to use the boot
 mappings.  If you occasionally need to let someone else use the
-computer, you can use PKL's inverse mappings to hand the keyboard to a
-QWERTY user without having to reboot.
+computer, there are PKL inverse Minimak mappings (8- and 12-key) so you
+can hand the keyboard to a QWERTY user without having to reboot.
 
 Speed
 -----
 
-If you're gung-ho about learning the Minimak as quickly as possible,
-you're going to want to adopt it full-time from the git-go.  The only
-way to do this is to start with basic and go through the progression
-as you feel comfortable.  If you're a fast learner, you may be able
-to get back up to speed in as little as a month or so.  I'm not a
-fast learner.
+If you're gung-ho about learning the 12-key Minimak as quickly as
+possible, I still recommend that you take the 4-key upgrades a step at a
+time.
 
-I really don't suggest this, however.  From experience, I can tell you
-the frustration of forgetting how to type QWERTY quickly, and that's
-what will happen.  You have to alternate between Minimak and QWERTY to
-learn both.
+If that's not good enough for you, the 6-key layout is a good compromise
+that gets you to the 12-key layout in two steps.  It's designed for
+learning the 12-key layout quickly, and isn't meant to be used on its
+own.  It isn't the best 6-key layout for that purpose.
 
 Method
 ======
 
-First, measure your current typing speed with a site like [Typeracer].
+First, measure your current typing speed with a site like [Key Hero].
 This will give you a point of reference.
 
 The length of time to gain full proficiency with Minimak varies, but
-it's a good bet that it will take a good 2-6 months before you are
-typing as fast in Minimak as you do now.  However, unlike most other
-layouts, you'll be able to begin using it for work almost immediately.
+it's a good bet that it will take a good 2-3 months before you are
+typing as fast in Minimak as you do now, depending on which layout you
+choose.  However, unlike most other layouts, you'll be able to begin
+using it for work almost immediately.
 
-More to come here, this is a work in progress...
+There are three popular methods for learning new layouts.  With other
+layouts, these are meant to get you to the point where you're barely
+sufficient with the new layout, at which point you stop typing QWERTY.
+With Minimak, however, the point is to keep your QWERTY skills.  It's
+recommended that you keep typing QWERTY until you can type both layouts
+at your old speed (before you started learning Minimak).  Once you've
+accomplished that, you can use Minimak most of the time, but I suggest
+tuning up QWERTY every once in a while (say, once a month).  You can do
+it less if you're on the 4- or 8-key layouts, but the 12-key layout
+really needs it.
+
+- __Day on, day off:__  Use QWERTY on Monday, Wednesday, Friday and
+  Minimak on Tuesday, Thursday, Saturday and Sunday
+- __QWERTY by day, Minimak by night:__  Use QWERTY while you are working
+  and Minimak for personal usage
+- __Which am I slowest at:__ Start each day by measuring your speed at
+  both, then work on the one you're slower with
+
+With any of these methods, some people swear that using the new layout
+for chat sessions is a surefire way to increase your speed.
+
+The first two methods are pretty self-explanatory.  A lot of people
+claim success with the QWERTY by day, [other layout] by night approach.
+My opinion is that since you can quickly adopt Minimak without hurting
+your work too much, the by day/night approach is less useful than the
+day at a time methods.  You might use the by day/night approach for the
+first couple days until you feel comfortable though.
+
+I'm a fan of the "which am I slowest at" method, because this method
+ensures that you keep both sets of skills tuned.  While I'm learning,
+I'm using this method.  Each morning I take the best of three
+typing tests with each layout, then use the one I'm slowest at
+for the day.  That way I never lose my edge with QWERTY.
+Another variation is to set a floor beneath which you don't let
+QWERTY fall.  You only type Minimak when QWERTY stays above that
+floor.
 
 [GNU Typist]: http://www.gnu.org/software/gtypist/
 [Amphetype]: http://code.google.com/p/amphetype/
