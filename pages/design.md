@@ -174,7 +174,7 @@ stuck back hunting and pecking most of the time.  I'd been touch-typing
 for 20+ years but I couldn't just switch between layouts at will.
 
 ![Ow!]\\
-_Actual result of typing QWERTY for too long._
+_Former QWERTY speed-typing record holder_ 
 {: style="float:right;padding-left:15px;"}
 
 I figured I'd go back to QWERTY full-time, get up to speed again and

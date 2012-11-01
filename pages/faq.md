@@ -3,6 +3,14 @@ title: FAQ
 description:
 ---
 
+Where does the name Minimak come from?
+
+: It's a play on the word "minimax" and the "ak" ending of Dvorak (named
+after the researcher who designed it) as well as Colemak (another
+nod to Dvorak).  Minimax is a contraction for "minimum change,
+maximum benefit".  It's unrelated to the game theory algorithm of
+the same name.
+
 How fast are you at Minimak?
 
 : See the homepage.  I try to post my QWERTY and Minimak speeds daily.
@@ -11,10 +19,12 @@ How long does it take to get up to speed?
 
 : I'm not fully up to speed yet, so I can't say for sure.  You can track
 my progress on the homepage, which shows the count of days I've been
-using Minimak.  After 9 days with the 12-key layout, I'm in the 40-60
-wpm range with both Minimak and QWERTY.  However I'm not really a
-representative case since I've been typing with precursor designs for
-some time.
+using Minimak.  After 9 days with the 12-key layout, I was in the 40-60
+wpm range with both Minimak and QWERTY.  That's way better than I
+experienced with other layouts.  It's just nowhere near as frustrating.
+
+: However I'm not really a representative case since I've been typing with
+precursor designs for some time.
 
 : It took me about six months to get up to 80 wpm with the QGMLWB layout
 from carPalx.  I'd estimate Minimak to cut that time to a third.
@@ -67,6 +77,24 @@ it is for QWERTY users, though.
 it's any better than Dvorak, it's that it's significantly better than
 QWERTY while helping you keep your QWERTY skills.
 
+Learning a new layout is hard.  If I'm going to go to all that trouble, shouldn't I learn the best possible layout?
+
+: Perhaps.  There's two things wrong with that point of view however.
+
+: First, not all layouts are made equal.  Some are harder to learn than
+others, and when you look at what you're getting for it, some are harder
+for no good reason.  It's a myth to say you have to learn something hard
+to significantly improve your typing experience.  Minimak was created
+out of that realization.
+
+: Second, this point of view entirely forgets that every other computer
+you will ever use will be QWERTY.  You will be reduced to a crawl
+whenever you have to use them unless you meticuously maintain those
+skills.  My job requires that I be able to use any computer I'm put in
+front of, and alternative layouts took that skill away from me.  It's
+just not practical to try to maintain QWERTY skills while using an
+unrelated layout on a daily basis.
+
 Is Minimak ergonomic?
 
 : I make no claims about ergonomics.  If the fact that your fingers move
@@ -96,11 +124,12 @@ feels right to me.
 
 Are your metrics subjective?
 
-: Yes, but I think they provide a strong assessment of goodness of feel,
-which is the goal of the design.  The greatest part of it is reduction
-in finger movement.  While reduction in finger repetition is also a
-tangible concern, it is a less consistent part of the typing
-experience, hence the lower weight.
+: The numbers themselves are not subjective, but the choice of what
+metrics I think are important is.  I think they provide a strong
+assessment of goodness of feel, which is the goal of the design.  The
+greatest part of it is reduction in finger movement.  While reduction in
+finger repetition is also a tangible concern, it is a less consistent
+part of the typing experience, hence the lower weight.
 
 : Other people may argue for more sophisticated metrics, but there's
 only so much you can try to improve in a minimalistic approach like
@@ -180,6 +209,13 @@ designed for QWERTY.  Colemak scores really well on the metrics I use.
 However, I think it is mostly the result of a pure optimization strategy
 and doesn't employ the learning principles found in Minimak.
 
+: Colemak also has a set of stepwise intermediate layouts like the
+Minimak progression, called [Tarmak].  Because Colemak is a much
+different layout from QWERTY, there are more steps (5) and each is more
+complex than the Minimak steps, but they in part inspired the Minimak
+progression and I believe they speed the learning of Colemak for similar
+reasons to Minimak's.
+
 : Dvorak is well-designed, but when compared to Minimak, it seems to
 pale a bit.  Minimak offers better metrics for a lower learning curve.
 
@@ -192,3 +228,24 @@ seems to get this wrong.
 : That said, I believe that Minimak's approach is both unique and better
 than the rest for QWERTY typists (meaning just about all of us) because
 of the way it addresses the realities of QWERTY.
+
+Do you have any other keyboarding tricks?
+
+: I use Autohotkey quite a bit for making frequently-used parts of the
+keyboard more accessible, such as the arrow keys.  I haven't documented
+it, but it's reminiscent of what is described as [home row computing].
+
+: There's also [DreymaR's big bag of keyboard tricks], which has some
+interesting ideas (which I haven't used personally, but are still
+interesting), most notably the idea of a split-keyboarding on a
+regular keyboard by remapping the right side of the keyboard one column
+further to the right, and putting punctuation keys in the gap that is
+created.  It widens the natural arm position as well as relieving the
+pinky of a number of keys it's responsible for and lowers the pinky
+distance to the frequently-used Enter key.  These seem like worthwhile
+ideas if you don't already have an keyboard which already does these
+things like my TypeMatrix does.
+
+[Tarmak]: http://forum.colemak.com/viewtopic.php?id=1467
+[home row computing]: http://duartes.org/gustavo/blog/post/home-row-computing
+[DreymaR's big bag of keyboard tricks]: http://forum.colemak.com/viewtopic.php?id=1467
