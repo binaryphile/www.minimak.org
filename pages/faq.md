@@ -216,8 +216,8 @@ complex than the Minimak steps, but they in part inspired the Minimak
 progression and I believe they speed the learning of Colemak for similar
 reasons to Minimak's.
 
-: Dvorak is well-designed, but when compared to Minimak, it seems to
-pale a bit.  Minimak offers better metrics for a lower learning curve.
+: Dvorak is well-designed, but when compared to Colemak, it seems to
+pale a bit.  Colemak offers better metrics for a lower learning curve.
 
 : I found the Workman and Asset layouts interesting and incorporated
 some of their ideas.  The big one is that valuing key positions by row
