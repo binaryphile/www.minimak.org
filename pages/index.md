@@ -2,10 +2,13 @@
 title: Home
 description:
 ---
-__My WPM today, 11/6/12, day 16:__ M12: 56wpm 97%, QWERTY: 63wpm 96%
-
 The Benefit of Dvorak Without Losing Your Investment in QWERTY
 ==============================================================
+
+![chart]  
+__My WPM today, 11/6/12, day 16:__  
+M12: 56wpm 97%, QWERTY: 63wpm 96%
+{: .float-right}
 
 ![Minimak 4-key Layout]  
 _The Minimak layout gives 60% of the benefit of Dvorak while
@@ -126,3 +129,4 @@ to know about.
 [downloads]: /download
 [Download Now]: http://github.com/downloads/lilleyt/minimak/minimak.zip
 [caveats]: /caveats
+[chart]: //chart.googleapis.com/chart?chxr=0,45,100|1,0,16&chxs=0,676767,11.5,0.5,lt,676767|1,676767,11.5,0,lt,676767&chxt=y,x&chs=200x100&cht=lxy&chco=FF9900,FF0000&chds=0,100,47,80,0,100,45,80&chd=t:-1|60,47,50,56,56,55,53,56|-1|45,65,57,55,55,57,64,63&chdl=Minimak+12-key|QWERTY&chdlp=b&chls=1|1&chma=5,5,5,25|5&chtt=WPM&chts=676767,10
