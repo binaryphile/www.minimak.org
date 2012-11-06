@@ -5,11 +5,6 @@ description:
 The Benefit of Dvorak Without Losing Your Investment in QWERTY
 ==============================================================
 
-![chart]  
-__My WPM today, 11/6/12, day 16:__  
-M12: 56wpm 97%, QWERTY: 63wpm 96%
-{: .float-right}
-
 ![Minimak 4-key Layout]  
 _The Minimak layout gives 60% of the benefit of Dvorak while
 changing just 4 keys from QWERTY.  Think about that for a moment._
@@ -57,9 +52,13 @@ layout design differently:
   tremendously speeds both the initial learning process as well as the
   mental switch back to QWERTY when necessary.
   
+![chart]  
+__My WPM today, 11/6/12, day 16:__  
+M12: 56wpm 97%, QWERTY: 63wpm 96%
+{: .float-right}
+
 ![Minimak 8-key Layout]  
 _The Minimak 8-key layout gives about 75% of the improvement of Dvorak_
-{: .center }
 
 All of these elements combine to form a layout that is manageable for
 anyone to learn, is extremely QWERTY-friendly and still provides
