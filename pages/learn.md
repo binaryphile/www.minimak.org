@@ -9,8 +9,20 @@ Typing Tutors {#tt}
 Now that you've got your spiffy new layout in action, how do you learn
 it?
 
-Here are some programs and sites that you may find useful for typing
-practice:
+There are a lot of free typing tutor programs and websites out there.
+None of them have anything specifically geared toward learning Minimak,
+however.
+
+To make it easier to learn the 4-key layout, I've created a word list
+focused on the keys that change in that layout.  It's in the download
+zip in the _words_ folder.
+
+The best program I've found to use this word list is the free,
+cross-platform [TIPP10] typing tutor.  There are instructions in the
+README on how to add these word lists as lessons.
+
+If TIPP10 isn't to your liking, here are some programs and sites that
+you may find useful instead:
 
 - __[GNU Typist]__ - Simple console-mode tutor
 - __[Amphetype]__ - Desktop tutor with detailed typing analysis
@@ -135,7 +147,7 @@ really needs it.
   Minimak on Tuesday, Thursday, Saturday and Sunday
 - __QWERTY by day, Minimak by night:__  Use QWERTY while you are working
   and Minimak for personal usage
-- __Which am I slowest at:__ Start each day by measuring your speed at
+- __Which am I slower at:__ Start each day by measuring your speed at
   both, then work on the one you're slower with
 
 With any of these methods, some people swear that using the new layout
@@ -148,7 +160,7 @@ your work too much, the by day/night approach is less useful than the
 day at a time methods.  You might use the by day/night approach for the
 first couple days until you feel comfortable though.
 
-I'm a fan of the "which am I slowest at" method, because this method
+I'm a fan of the "which am I slower at" method, because this method
 ensures that you keep both sets of skills tuned.  While I'm learning,
 I'm using this method.  Each morning I take the best of three
 typing tests with each layout, then use the one I'm slowest at
@@ -157,6 +169,7 @@ Another variation is to set a floor beneath which you don't let
 QWERTY fall.  You only type Minimak when QWERTY stays above that
 floor.
 
+[TIPP10]: http://www.tipp10.com/en/
 [GNU Typist]: http://www.gnu.org/software/gtypist/
 [Amphetype]: http://code.google.com/p/amphetype/
 [TypeRacer]: http://www.typeracer.com/
