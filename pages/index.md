@@ -53,8 +53,8 @@ layout design differently:
   mental switch back to QWERTY when necessary.
   
 ![chart]  
-__My WPM today, 11/10/12, day 20:__  
-M12: 53wpm 96%, QWERTY: 54wpm 96%
+__My WPM today, 11/12/12, day 22:__  
+M12: 53wpm 95%, QWERTY: 56wpm 96%
 {: .float-right}
 
 ![Minimak 8-key Layout]  
@@ -128,4 +128,4 @@ to know about.
 [downloads]: /download
 [Download Now]: http://github.com/downloads/lilleyt/minimak/minimak.zip
 [caveats]: /caveats
-[chart]://chart.googleapis.com/chart?chxr=0,45,100|1,0,16&chxs=0,676767,11.5,0.5,lt,676767|1,676767,11.5,0,lt,676767&chxt=y,x&chs=200x100&cht=lxy&chco=FF9900,FF0000&chds=0,93.333,47,80,0,100,45,80&chd=t:-1|60,47,50,56,56,55,53,56,53,49,54,53|-1|45,65,57,55,55,57,64,63,55,62,62,54&chdl=Minimak+12-key|QWERTY&chdlp=b&chls=1|1&chma=5,5,5,25|5&chtt=WPM&chts=676767,10 
+[chart]: //chart.googleapis.com/chart?chxr=0,45,100|1,0,16&chxs=0,676767,11.5,0.5,lt,676767|1,676767,11.5,0,lt,676767&chxt=y,x&chs=200x100&cht=lxy&chco=FF9900,FF0000&chds=0,93.333,47,80,0,100,45,80&chd=t:-1|60,47,50,56,56,55,53,56,53,49,54,53,53,53|-1|45,65,57,55,55,57,64,63,55,62,62,54,54,56&chdl=Minimak+12-key|QWERTY&chdlp=b&chls=1|1&chma=5,5,5,25|5&chtt=WPM&chts=676767,10
