@@ -162,7 +162,7 @@ first couple days until you feel comfortable though.
 
 I'm a fan of the "which am I slower at" method, because this method
 ensures that you keep both sets of skills tuned.  While I'm learning,
-I'm using this method.  Each morning I take the best of three
+I'm using this method.  Each morning I take the median of three
 typing tests with each layout, then use the one I'm slowest at
 for the day.  That way I never lose my edge with QWERTY.
 Another variation is to set a floor beneath which you don't let
