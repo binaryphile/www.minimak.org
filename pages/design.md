@@ -19,10 +19,18 @@ momentum behind them.  In particular, [Colemak] and carPalx's
 fully-optimized [QGMLWB] designs seemed the most optimized.  I felt that
 if I were going to expend the effort of relearning to type, that I
 should do it without compromise and go for the best.  CarPalx's models
-and analyses (including Colemak) were so convincing, I was sure that his
-layout was best, and proceeded to learn it.
+and analyses were so convincing, I was sure that his layout was best,
+and proceeded to learn it.
 
+I spent the next couple months learning the new layout, and about six in
+total getting up to my old speed of 80wpm.  During that time, I was
+completely focused on getting speed and not on maintaining any QWERTY
+skills.  I figured that once I was good with QGMLWB, I could go and get
+my QWERTY back without losing the new layout, then just alternate once
+and a while.
 
+There ended up being two problems with this.  First, getting QWERTY back
+wasn't so easy, and second, I couldn't always do my job in the meantime.
 
 ![Kitty]\\
 _Not this kind of keyboard layout._
