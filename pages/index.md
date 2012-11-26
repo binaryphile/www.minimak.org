@@ -53,8 +53,8 @@ layout design differently:
   mental switch back to QWERTY when necessary.
   
 ![chart]  
-__My WPM today, 11/19/12, day 29:__  
-M12: 55wpm 97%, QWERTY: 60 98%
+__My WPM today, 11/26/12, day 36:__  
+M12: 52wpm 96%, QWERTY: 51wpm 94%
 {: .float-right}
 
 ![Minimak 8-key Layout]  
@@ -128,4 +128,4 @@ to know about.
 [downloads]: /download
 [Download Now]: http://github.com/downloads/lilleyt/minimak/minimak.zip
 [caveats]: /caveats
-[chart]: //chart.googleapis.com/chart?chxr=0,40,100|1,1,29|2,40,100&chxs=0,676767,11.5,0.5,lt,676767|1,676767,11.5,0,lt,676767|2,676767,11.5,0,t,676767&chxt=y,x,r&chs=200x100&cht=lxy&chco=FF9900,FF0000&chds=-1,100,40,95,-1,100,40,100&chd=t:-1|60,47,50,56,56,55,53,56,53,49,54,53,53,53,55,56,55,49,54,58,55|-1|45,65,57,55,55,57,64,63,55,62,62,54,54,56,58,65,63,74,56,57,60&chdl=minimak+12-key|qwerty&chdlp=b&chls=1|1&chma=5,5,5,25|5&chtt=wpm&chts=676767,10
+[chart]: //chart.googleapis.com/chart?chxr=0,40,100|1,1,36|2,40,100&chxs=0,676767,11.5,0.5,lt,676767|1,676767,11.5,0,lt,676767|2,676767,11.5,0,t,676767&chxt=y,x,r&chs=200x100&cht=lxy&chco=FF9900,FF0000&chds=0,100,40,95,-1,100,40,100&chd=t:-1|60,47,50,56,56,55,53,56,53,49,54,53,53,53,55,56,55,49,54,58,55,55,55,55,55,55,55,52|-1|45,65,57,55,55,57,64,63,55,62,62,54,54,56,58,65,63,74,56,57,60,60,60,60,60,60,60,51&chdl=minimak+12-key|qwerty&chdlp=b&chls=1|1&chma=5,5,5,25|5&chtt=wpm&chts=676767,10
