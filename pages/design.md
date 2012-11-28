@@ -3,6 +3,28 @@ title: Design
 description:
 ---
 
+Why
+===
+
+Most, but not all, people's hands are capable of typing QWERTY
+acceptably for a lifetime.  There's nothing wrong with going through
+life without changing that.  Changing your keyboard layout will not make
+you cooler, more attractive to the opposite sex or give you better ideas
+and it probably won't even make you type any faster or more accurately.
+So why change from QWERTY?  Because, like anything else that is
+engineered, it can be tweaked for the better.  For the tweaker, simply
+knowing that there is something that can be manipulated for a better
+outcome is reason enough, sometimes an irresistable urge, to tweak.  If
+you're interested the most intimate interface you have with your
+computer, read on.
+
+Define Better
+=============
+
+Better keyboarding is smoother keyboarding, to my mind.  Smoother is
+hard to define, but in the realm of possible keyboard layouts, there are
+certainly examples that can be intuitively obvious.  
+
 My Experience
 =============
 
