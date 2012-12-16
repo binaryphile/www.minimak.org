@@ -122,17 +122,17 @@ temporarily undo the registry mappings would be to use another mapping
 tool like PKL with an inverse-Minimak mapping, but currently PKL has no
 such mapping.
 
-That's why we only recommend using registry mappings _after_ you've
+That's why I only recommend using registry mappings _after_ you've
 fully learned Minimak.
 
 There are two modes of mappings, boot mappings and user mappings.  User
 mappings only take effect after you've logged in.  However, they only
-work for XP since user mapping functionality was removed with Vista.  We
+work for XP since user mapping functionality was removed with Vista.  I
 recommend using boot mappings anyway since it allows you to type your
 password the same when you're logging in as any other time.
 
 Before you download any of the mappings, remember that they are provided
-AS IS.  We are not responsible for any damage or inconvenience incurred
+AS IS.  I am not responsible for any damage or inconvenience incurred
 by using them.  If there is an issue with the download or how it is
 loaded into your system, it may result in a non-working system or a
 system you are locked out of.  Since these are boot mappings, you cannot
@@ -143,8 +143,8 @@ If you do have a problem logging in after installing them, you can still
 log in on Windows 7 with the on-screen keyboard.  Click on the _Ease of
 Access_ button in the lower left-hand corner of the login screen, then
 click _Type without the keyboard (On Screen Keyboard)_ and click _Ok_.
-We don't have directions for XP, but if you figure them out, please let
-us know so we can post them.
+I don't have directions for XP, but if you figure them out, please let
+us know so I can post them.
 
 If you want to avoid this possibility altogether, you may want to do the
 mappings yourself with [Key Mapper](#km), rather than rely on our
@@ -158,8 +158,8 @@ That said, the registry files should work on any Windows that's at least
 XP or above.
 
 You can download boot mappings that work for any Windows system from
-[github](http://github.com/downloads/lilleyt/minimak/minimak.zip).
-There are several versions in the zip, consult the README there.
+[github].  There are several versions in the zip, consult the README
+there.
 
 To install one of them, unzip the download and double-click the mapping
 you want.  Windows will ask you if you want to load the file into the
@@ -170,7 +170,7 @@ you don't get it right the first time.
 BacksLock
 ---------
 
-Taking a cue from [Colemak], we recommend remapping CapsLock to be
+Taking a cue from [Colemak], I recommend remapping CapsLock to be
 another Backspace key.  It's one of the best keymappings you can make,
 and many Linux flavors have their own setting to do it.
 
@@ -236,12 +236,12 @@ that can remap it whether you choose to use Minimak or not.  Unless
 you've already mapped some other key to CapsLock, it's just a good
 idea to put Backspace there.
 
-[Download For Windows Now]: http://github.com/downloads/lilleyt/minimak/minimak.zip
-[Download For Mac Now]: http://github.com/downloads/lilleyt/minimak/minimak.zip
-[Download For Linux Now]: http://github.com/downloads/lilleyt/minimak/minimak.zip
+[Download For Windows Now]: {{ site.download_location }}
+[Download For Mac Now]: {{ site.download_location }}
+[Download For Linux Now]: {{ site.download_location }}
 [ZipInstaller]: http://www.nirsoft.net/utils/zipinst.html
 [PKL website]:http://pkl.sourceforge.net/
-[github]: http://github.com/downloads/lilleyt/minimak/minimak.zip
+[github]: {{ site.download_location }}
 [Portable Key Layout]: #pkl
 [Registry Mappings]: #rm
 [registry mapping]: #rm
