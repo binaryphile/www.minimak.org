@@ -2,7 +2,7 @@
   <meta charset="utf-8" />
   <title>{{ site.title }} - {{ page.title }}</title>
   {{# page.description }}
-  <meta name="description" content="{{ . }}" />
+    <meta name="description" content="{{ . }}" />
   {{/ page.description }}
   <meta name="author" content="{{ site.author.name }}" />
   {{{ assets }}}
@@ -15,7 +15,6 @@
 	  Cufon.replace('.art-logo-name', {fontFamily: 'Baby blocks'});
     Cufon.replace('.art-post h1', {fontFamily: 'Raspoutine Classic'});
 	</script>
-  <meta name="google-site-verification" content="jGSSU2uBklI_YvqV8btffcYxYLeAaViieet94Irywp0" />
   <script>
     (function() {
       var cx = '004856056704220715324:c9krpcwsddw';
