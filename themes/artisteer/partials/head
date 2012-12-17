@@ -25,5 +25,23 @@
     })();
   </script>
   <meta name="wot-verification" content="b26c2803a722c1d49548"/>
+  <!-- Start of Woopra Code -->
+  <script type="text/javascript">
+  function woopraReady(tracker) {
+      tracker.setDomain('minimak.org');
+      tracker.setIdleTimeout(1800000);
+      tracker.track();
+      return false;
+  }
+  (function() {
+      var wsc = document.createElement('script');
+      wsc.src = document.location.protocol+'//static.woopra.com/js/woopra.js';
+      wsc.type = 'text/javascript';
+      wsc.async = true;
+      var ssc = document.getElementsByTagName('script')[0];
+      ssc.parentNode.insertBefore(wsc, ssc);
+  })();
+  </script>
+  <!-- End of Woopra Code -->
   {{{ page.head-data }}}
 </head>
