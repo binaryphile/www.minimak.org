@@ -113,6 +113,13 @@ and are normalized so Dvorak is 100%.  Note that these metrics have
 nothing to do with typing speed, only with finger movement and
 repetition.
 
+Key counts for Dvorak were calculated by only considering the keys which
+were considered eligible for change when developing Minimak.  These are
+the 27 letter keys and semicolon.  Dvorak actually changes more keys
+outside this set (punctuation), but the count was limited to that domain
+in order to keep the comparison more apples-to-apples.  This is the
+conservative perspective which actually favors Dvorak.
+
 [Download Now]{: .art-button }
 {: .float-right }
 
