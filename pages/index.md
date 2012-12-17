@@ -23,7 +23,7 @@ layout design differently:
   frequently used letters in the alphabet, E and T, you'll have them
   down in no time.
 - __Compares favorably with other layouts:__  While 60% is a huge
-  benefit for 4 keys (what is Dvorak doing with those other 23 keys
+  benefit for 4 keys (what is Dvorak doing with those other 20 keys
       anyway?), you can further improve your typing experience with
   layout "upgrades" which achieve up to 83% of the benefit of Dvorak.
 - __Upgrades incrementally:__  Each upgrade changes only 4 keys at a
@@ -36,7 +36,7 @@ layout design differently:
   layout feels good enough, then stay with it.  It's still a huge
   improvement.  If you go to the final upgrade however, you're getting
   83% of the benefit of Dvorak for only 12 keys.  That's less than half
-  the keyboard. Dvorak changes _15 more keys than that_, just to eke out
+  the keyboard. Dvorak changes _12 more keys than that_, just to eke out
   that last 17%.
 - __Has multiple dimensions of QWERTY friendliness:__  If you go with
   the 4-key layout, then there isn't even a discussion.  Once you're
@@ -53,8 +53,8 @@ layout design differently:
   mental switch back to QWERTY when necessary.
   
 ![chart]  
-__My WPM today, 12/13/12, day 53:__  
-M12: 60wpm 98%, QWERTY: 63wpm 96%
+__My WPM today, 12/17/12, day 57:__  
+M12: 57wpm 97%, QWERTY: 64wpm 97%
 {: .float-right}
 
 ![Minimak 8-key Layout]  
@@ -70,7 +70,7 @@ Consider the following metrics:
 |Metric                 |Minimak 4-key  |Minimak 12-key |Dvorak   |
 |-                      |-              |-              |-        |
 |__Cost__                                                         |
-|Keys changed           |4              |12             |27       |
+|Keys changed           |4              |12             |24       |
 |Fingers changed        |3              |3              |24       |
 |__Benefit__                                                      |
 |Weighted Improvement   |60%            |83%            |100%     |
@@ -128,4 +128,4 @@ to know about.
 [downloads]: /download
 [Download Now]: {{ site.download_location }}
 [caveats]: /caveats
-[chart]: //chart.googleapis.com/chart?chxr=0,45,80|1,9,53|2,45,80&chxs=0,676767,11.5,0.5,lt,676767|1,676767,11.5,0,lt,676767|2,676767,11.5,0,t,676767&chxt=y,x,r&chs=200x130&cht=lxy&chco=FF9900,FF0000&chds=4,3,45,80,4,8,45,80&chd=t:-1|60,47,50,56,56,55,53,56,53,49,54,53,53,53,55,56,55,49,54,58,55,55,55,55,55,55,55,52,56,56,55,56,56,54,53,51,53,61,61,54,60,63,63,63,60|-1|45,65,57,55,55,57,64,63,55,62,62,54,54,56,58,65,63,74,56,57,60,60,60,60,60,60,60,51,58,59,62,60,60,68,74,63,66,66,66,56,56,65,65,62,63&chdl=minimak+12-key|qwerty&chdlp=b&chls=1|1&chma=5,5,5,25|5&chtt=wpm&chts=676767,10
+[chart]: //chart.googleapis.com/chart?chxr=0,45,80|1,9,57|2,45,80&chxs=0,676767,11.5,0.5,lt,676767|1,676767,11.5,0,lt,676767|2,676767,11.5,0,t,676767&chxt=y,x,r&chs=200x130&cht=lxy&chco=FF9900,FF0000&chds=4,3,45,80,4,8,45,80&chd=t:-1|60,47,50,56,56,55,53,56,53,49,54,53,53,53,55,56,55,49,54,58,55,55,55,55,55,55,55,52,56,56,55,56,56,54,53,51,53,61,61,54,60,63,63,63,60,60,60,60,57|-1|45,65,57,55,55,57,64,63,55,62,62,54,54,56,58,65,63,74,56,57,60,60,60,60,60,60,60,51,58,59,62,60,60,68,74,63,66,66,66,56,56,65,65,62,63,63,63,63,64&chdl=minimak+12-key|qwerty&chdlp=b&chls=1|1&chma=5,5,5,25|5&chtt=wpm&chts=676767,10
