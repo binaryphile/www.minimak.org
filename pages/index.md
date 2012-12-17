@@ -23,7 +23,7 @@ layout design differently:
   frequently used letters in the alphabet, E and T, you'll have them
   down in no time.
 - __Compares favorably with other layouts:__  While 60% is a huge
-  benefit for 4 keys (what is Dvorak doing with those other 20 keys
+  benefit for 4 keys (what is Dvorak doing with those other 21 keys
       anyway?), you can further improve your typing experience with
   layout "upgrades" which achieve up to 83% of the benefit of Dvorak.
 - __Upgrades incrementally:__  Each upgrade changes only 4 keys at a
@@ -36,7 +36,7 @@ layout design differently:
   layout feels good enough, then stay with it.  It's still a huge
   improvement.  If you go to the final upgrade however, you're getting
   83% of the benefit of Dvorak for only 12 keys.  That's less than half
-  the keyboard. Dvorak changes _12 more keys than that_, just to eke out
+  the keyboard. Dvorak changes _13 more keys than that_, just to eke out
   that last 17%.
 - __Has multiple dimensions of QWERTY friendliness:__  If you go with
   the 4-key layout, then there isn't even a discussion.  Once you're
@@ -70,8 +70,8 @@ Consider the following metrics:
 |Metric                 |Minimak 4-key  |Minimak 12-key |Dvorak   |
 |-                      |-              |-              |-        |
 |__Cost__                                                         |
-|Keys changed           |4              |12             |24       |
-|Fingers changed        |3              |3              |24       |
+|Keys changed           |4              |12             |25       |
+|Fingers changed        |3              |3              |23       |
 |__Benefit__                                                      |
 |Weighted Improvement   |60%            |83%            |100%     |
 |__Cost/Benefit Ratio__                                           |
