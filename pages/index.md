@@ -75,7 +75,7 @@ Consider the following metrics:
 |__Benefit__                                                      |
 |Weighted Improvement   |60%            |83%            |100%     |
 |__Cost/Benefit Ratio__                                           |
-|Improvement/Key        |15%            |6.9%           |3.3%     |
+|Improvement/Key        |15%            |6.9%           |4%       |
 
 While it may seem remarkable that Minimak's per-key improvement is
 better than that of Dvorak, it's not really.  Per-key improvement is
