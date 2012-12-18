@@ -19,7 +19,8 @@ zip in the _words_ folder.
 
 The best program I've found to use this word list is the free,
 cross-platform [TIPP10] typing tutor.  There are instructions in the
-README on how to add these word lists as lessons.
+README in the _words_ folder on how to add these word lists as
+lessons.
 
 If TIPP10 isn't to your liking, here are some programs and sites that
 you may find useful instead:
