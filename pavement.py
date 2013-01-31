@@ -67,7 +67,7 @@ def build(options):
     cmd = 'git push > nul'
     print 'Pushing...'
     sub.check_call(cmd, shell=True)
-    cmd = 'ruhoh.bat compile > nul'
+    cmd = 'ruhoh.bat compile %(build_dir)s > nul' % cfg
     print 'Compiling...'
     sub.check_call(cmd, shell=True)
     cmd = r'xcopy /y /s %(contrib_dir)s %(build_dir)s > nul' % cfg
@@ -83,9 +83,7 @@ def release(options):
     Build and release the site to S3
     
     '''
-    cmd = 's3sync'
-    print 'Syncing to S3...'
-    sub.check_call(cmd, shell=True)
+    print 'Releasing...'
     print 'Done'
 
 
