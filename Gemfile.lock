@@ -1,0 +1,24 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    directory_watcher (1.4.1)
+    kramdown (0.14.2)
+    mustache (0.99.4)
+    nokogiri (1.5.6)
+    nokogiri (1.5.6-x86-mingw32)
+    rack (1.5.2)
+    redcarpet (2.2.2)
+    ruhoh (1.1)
+      directory_watcher (~> 1.4)
+      mustache (~> 0.99)
+      nokogiri (~> 1.5)
+      rack (~> 1.4)
+      redcarpet (~> 2.1)
+
+PLATFORMS
+  ruby
+  x86-mingw32
+
+DEPENDENCIES
+  kramdown (~> 0.14)
+  ruhoh (~> 1.1)
