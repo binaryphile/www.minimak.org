@@ -6,7 +6,7 @@ Minimak: Fix QWERTY Without Forgetting It
 =========================================
 {: .center}
 
-![Minimak 4-key Layout]  
+![Minimak 4-key Layout]{: style="width: 541px; height: 159px;"}  
 _The Minimak layout gives 60% of the benefit of Dvorak while
 changing just 4 keys from QWERTY.  Think about that for a moment._
 {: .center}
@@ -53,12 +53,12 @@ layout design differently:
   tremendously speeds both the initial learning process as well as the
   mental switch back to QWERTY when necessary.
   
-![chart]  
+![chart]{: style="width: 200px; height: 130px;"}  
 __My WPM today, {{ site.wpm.date }}, day {{ site.wpm.day }}:__  
 M12: {{ site.wpm.m12.wpm }}wpm {{ site.wpm.m12.pct }}%, QWERTY: {{ site.wpm.qwerty.wpm }}wpm {{site.wpm.qwerty.pct }}%
 {: .float-right}
 
-![Minimak 8-key Layout]  
+![Minimak 8-key Layout]{: style="width: 541px; height: 159px;"}  
 _The Minimak 8-key layout gives about 75% of the improvement of Dvorak_
 
 All of these elements combine to form a layout that is manageable for
@@ -89,7 +89,7 @@ improvement of Dvorak at nowhere near the expense of its learning curve.
 This shows that you don't need to throw out QWERTY, you just need to
 fix it.
 
-![Minimak Layout]  
+![Minimak Layout]{: style="width: 541px; height: 159px;"}  
 _Minimak 12-key layout_
 {: .center }
 
