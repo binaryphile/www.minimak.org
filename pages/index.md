@@ -2,8 +2,9 @@
 title: Home
 description:
 ---
-The Benefit of Dvorak Without Losing Your Investment in QWERTY
-==============================================================
+Minimak: Fix QWERTY Without Forgetting It
+=========================================
+{: .center}
 
 ![Minimak 4-key Layout]  
 _The Minimak layout gives 60% of the benefit of Dvorak while
