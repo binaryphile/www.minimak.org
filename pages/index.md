@@ -11,7 +11,7 @@ _The Minimak layout gives 60% of the benefit of Dvorak while
 changing just 4 keys from QWERTY.  Think about that for a moment._
 {: .center}
 
-[Download Now]{: .art-button}
+[Download]{: .art-button}
 {: .float-right}
 
 Minimak is designed to give you the benefits of other keyboard layouts
@@ -121,7 +121,7 @@ outside this set (punctuation), but the count was limited to that domain
 in order to keep the comparison more apples-to-apples.  This is the
 conservative perspective which actually favors Dvorak.
 
-[Download Now]{: .art-button }
+[Download]{: .art-button }
 {: .float-right }
 
 There are downloads for Windows that make adopting Minimak as easy as
@@ -134,6 +134,6 @@ to know about.
 [Minimak Layout]: {{ urls.media }}/minimak.png
 [keyboard layout analyzer]: http://patorjk.com/keyboard-layout-analyzer/
 [downloads]: /download
-[Download Now]: {{ site.download_location }}
+[Download]: {{ site.download_location }}
 [caveats]: /caveats
 [chart]: {{ site.wpm.chart_url }}

@@ -3,7 +3,7 @@ title: Download
 description:
 ---
 
-[Download For Windows Now]{: .art-button}
+[Download For Windows]{: .art-button}
 {: .float-right }
 
 Windows
@@ -22,7 +22,7 @@ are:
 Again, __please read the page on [caveats]__ if this is the first time you
 are using an alternative layout.
 
-[Download For Mac Now]{: .art-button}
+[Download For Mac]{: .art-button}
 {: .float-right }
 
 Mac
@@ -37,7 +37,7 @@ Mac bindings are included in the zip.  Do the following:
 
 For information on Backslock on the Mac, see the [Colemak Mac page].
 
-[Download For Linux Now]{: .art-button}
+[Download For Linux]{: .art-button}
 {: .float-right }
 
 Linux
@@ -69,7 +69,7 @@ add the following to `~/.xinitrc`:
 There are no Backslock mappings since many Linux systems have Backslock
 as a possible configuraion choice in their keyboard settings.
 
-[Download For Windows Now]{: .art-button}
+[Download For Windows]{: .art-button}
 {: .float-right }
 
 Portable Key Layout {#pkl}
@@ -96,7 +96,7 @@ You can find more information on the [PKL website].
 
 PKL is by FARKAS Máté and is distributed under GPL 3.
 
-[Download For Windows Now]{: .art-button}
+[Download For Windows]{: .art-button}
 {: .float-right }
 
 Registry Mapping {#rm}
@@ -236,9 +236,9 @@ that can remap it whether you choose to use Minimak or not.  Unless
 you've already mapped some other key to CapsLock, it's just a good
 idea to put Backspace there.
 
-[Download For Windows Now]: {{ site.download_location }}
-[Download For Mac Now]: {{ site.download_location }}
-[Download For Linux Now]: {{ site.download_location }}
+[Download For Windows]: {{ site.download_location }}
+[Download For Mac]: {{ site.download_location }}
+[Download For Linux]: {{ site.download_location }}
 [ZipInstaller]: http://www.nirsoft.net/utils/zipinst.html
 [PKL website]:http://pkl.sourceforge.net/
 [github]: {{ site.download_location }}
