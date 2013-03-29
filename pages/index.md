@@ -1,9 +1,9 @@
 ---
 title: Home
-description:
+description: A keyboard layout that fixes QWERTY and isn't impossible to learn
 ---
-Minimak: Fix QWERTY Without Forgetting It
-=========================================
+Minimak: A layout that fixes QWERTY and isn\'t impossible to learn
+=================================================================
 {: .center}
 
 ![Minimak 4-key Layout]{: style="width: 541px; height: 159px;"}  
