@@ -54,7 +54,7 @@ layout design differently:
   mental switch back to QWERTY when necessary.
   
 ![chart]{: style="width: 200px; height: 130px;"}  
-__My WPM today, {{ site.wpm.date }}, day {{ site.wpm.day }}:__  
+__My WPM {{ site.wpm.date }}, day {{ site.wpm.day }}:__  
 M12: {{ site.wpm.m12.wpm }}wpm {{ site.wpm.m12.pct }}%, QWERTY: {{ site.wpm.qwerty.wpm }}wpm {{site.wpm.qwerty.pct }}%
 {: .float-right}
 
