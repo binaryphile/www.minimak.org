@@ -236,7 +236,7 @@ that can remap it whether you choose to use Minimak or not.  Unless
 you've already mapped some other key to CapsLock, it's just a good
 idea to put Backspace there.
 
-{{>download-pageview}}
+{{>download-event}}
 
 [Download For Windows]: {{ site.download_location }}
 [Download For Mac]: {{ site.download_location }}

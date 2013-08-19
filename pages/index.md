@@ -138,7 +138,7 @@ more keys outside this set (punctuation), but the count was limited to
 that domain in order to keep the comparison more apples-to-apples.  This
 is the conservative perspective which actually favors Dvorak.</small>
 
-{{>download-pageview}}
+{{>download-event}}
 
 [Minimak 4-key Layout]: {{ urls.media }}/minimak_4_key.png
 [Minimak 8-key Layout]: {{ urls.media }}/minimak_8_key.png
