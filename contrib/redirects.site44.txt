@@ -1,2 +1,0 @@
-/rss.html http://feeds.feedburner.com/minimak
-/forum  https://groups.google.com/forum/#!forum/minimak-layout
