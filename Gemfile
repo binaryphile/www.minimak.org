@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 group :development do
-  gem 'debugger'
+  #gem 'debugger'
 end
 gem 'ruhoh', '~> 1.1'
 gem 'kramdown', '~> 0.14'
