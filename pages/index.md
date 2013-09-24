@@ -7,16 +7,32 @@ Minimak: The Intuitive Alternative to QWERTY
 ============================================
 {: .center}
 
-![Minimak 4-key Layout]{: style=\"width: 541px; height: 159px;\"}  
-_The Minimak layout gives 60% of the benefit of Dvorak while
-changing just 4 keys from QWERTY._
+![Minimak 4-key Layout]{: style="width: 541px; height: 159px;"}  
+_Dvorak achieves a 40% reduction in finger movement by rearranging 25
+keys. In just four keys, Minimak achieves half of that (20%)._
 {: .center}
 
 [Download]{: .art-button}
 {: .float-right}
 
-Minimak is a collection of 3 related keyboard layouts like Dvorak and
-Colemak.  Minimak is for people who aren't happy with QWERTY.  Unlike
+The goal of the Minimak project is to significantly improve the feel of
+typing (in English) through a series of small modifications to QWERTY,
+targeted to provide the maximum benefit at each step.
+
+There are three steps, each changing just four keys at a time, but the
+idea is not necessarily to learn all three.  The idea is to progress to
+the point where you are comfortable with both Minimak and QWERTY, and
+that may be at any point in the progression.
+
+Does it make sense to go to the trouble of learning a new layout if
+you're not going to end up with the best layout there is to offer?
+
+For me, the answer was a definite yes.  There is a strong bias toward
+the simpler changes when you look at the amount of improvement you can
+get out of changing your layout.  The third Minimak layout is in the
+neighborhood of Dvorak and other layouts, but only represents 
+
+Minimak is for people who aren't happy with QWERTY.  Unlike
 Dvorak and Colemak, however, Minimak is simple to learn.  Minimak also
 won't jeopardize your QWERTY typing skills.
 
