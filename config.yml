@@ -24,6 +24,9 @@ twitter :
   # Here we use "theme" which makes this folder the theme.
   use : "theme"
 
+themes:
+  use: ignore
+
 _root:
   summary_lines: 20
   rss:
