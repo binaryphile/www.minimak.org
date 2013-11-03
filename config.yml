@@ -24,7 +24,7 @@ twitter :
   # Here we use "theme" which makes this folder the theme.
   use : "theme"
 
-themes:
+artisteer:
   use: ignore
 
 _root:

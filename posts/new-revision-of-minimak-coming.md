@@ -3,7 +3,6 @@ title: New Revision of Minimak Coming
 date: '2012-09-18'
 description:
 categories: revisions
-tags: []
 ---
 I've come up with a new, final version of the Minimak design.  I'm
 pretty excited about it because it's a significant improvement over both
