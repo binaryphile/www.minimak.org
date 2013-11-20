@@ -29,6 +29,7 @@
     <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
     <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
   -->
+  <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800" rel="stylesheet" type="text/css">
   </head>
 
   <body>
@@ -36,7 +37,6 @@
     <div class="navbar">
       <div class="navbar-inner">
         <div class="container-narrow">
-          <a class="brand" href="{{urls.base_path}}">{{ data.title }}</a>
           <ul class="nav">
             {{# data.navigation?to__root }}
               {{> pages_list }}
