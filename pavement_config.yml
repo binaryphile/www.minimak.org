@@ -1,5 +1,0 @@
-default:
-  build_dir: ..\..\Apps\site44\www.minimak.org
-  clean_dirs:
-    - '%(build_dir)s'
-  contrib_dir: contrib

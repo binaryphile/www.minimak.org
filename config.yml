@@ -8,7 +8,7 @@ RuhohSpec: "2.1"
 # Used for things like RSS that need the full URL to a given resource.
 # This DOES NOT affect any of your paths or links in any way.
 # This DOES NOT configure domain mapping. See post2.ruhoh.com for hosting options.
-production_url: http://www.minimak.org/
+production_url: "http://sample.com"
 
 # Intelligently prepends all urls in the system with the given base_path.
 # This allows you to host your blog in a subdirectory of a given website.
@@ -23,9 +23,6 @@ twitter :
   # Tells ruhoh which collection class to use for this folder.
   # Here we use "theme" which makes this folder the theme.
   use : "theme"
-
-artisteer:
-  use: ignore
 
 _root:
   summary_lines: 20
@@ -77,7 +74,7 @@ widgets :
   analytics :
     use : google
     # -- config for google --
-    tracking_id : UA-37058399-1
+    tracking_id : 'UA-123-12'
 
     # -- config for getclicky  --
     # site_id :
@@ -86,7 +83,7 @@ widgets :
     use : disqus
     enable : true
     # -- config for disqus --
-    short_name : minimak
+    short_name : jekyllbootstrap # Change This!
 
     # -- config for livefyre --
     # site_id : 123
@@ -102,4 +99,3 @@ widgets :
 
   google_prettify :
     linenums : true
-
