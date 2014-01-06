@@ -1,17 +1,17 @@
 GIT
   remote: git://github.com/guard/guard-livereload.git
-  revision: 7e246f6fc6b7f6e309db6e4f5028baed9e5ee9c4
+  revision: 9f8a6a7c84fdcaab382c9a0c7997f3d10ab15a3e
   specs:
-    guard-livereload (2.0.0)
+    guard-livereload (2.1.0)
       em-websocket (~> 0.5)
       guard (~> 2.0)
       multi_json (~> 1.8)
 
 GIT
   remote: git://github.com/guard/guard.git
-  revision: 0b1c96ca90b644336f061153315220a6c185e3c6
+  revision: c92def98a71d64632b27d87ff15450ce5330a522
   specs:
-    guard (2.2.2)
+    guard (2.2.5)
       formatador (>= 0.2.4)
       listen (~> 2.1)
       lumberjack (~> 1.0)
@@ -27,17 +27,29 @@ GIT
 
 GIT
   remote: git://github.com/nex3/rb-inotify.git
-  revision: cca01ce38c9bc060c1ebbaf7e1234c64b99204f2
+  revision: cb38ecc720e37d94d2007738a8c2b25658365f68
   specs:
-    rb-inotify (0.9.2)
+    rb-inotify (0.9.3)
       ffi (>= 0.5.0)
+
+GIT
+  remote: git://github.com/ruhoh/ruhoh.rb.git
+  revision: 19549b33f1c9cdad5db37cbc66018e412b0a8e59
+  tag: v2.5
+  specs:
+    ruhoh (2.5)
+      directory_watcher (~> 1.4.0)
+      mustache (~> 0.99)
+      nokogiri (~> 1.5)
+      rack (~> 1.4)
+      redcarpet (~> 2.1)
 
 GEM
   remote: https://rubygems.org/
   specs:
     celluloid (0.15.2)
       timers (~> 1.1.0)
-    coderay (1.0.9)
+    coderay (1.1.0)
     directory_watcher (1.4.1)
     em-websocket (0.5.0)
       eventmachine (>= 0.12.9)
@@ -47,7 +59,7 @@ GEM
     formatador (0.2.4)
     http_parser.rb (0.5.3)
     kramdown (0.14.2)
-    listen (2.2.0)
+    listen (2.4.0)
       celluloid (>= 0.15.2)
       rb-fsevent (>= 0.9.3)
       rb-inotify (>= 0.9)
@@ -55,23 +67,17 @@ GEM
     method_source (0.8.2)
     mini_portile (0.5.2)
     multi_json (1.8.2)
-    mustache (0.99.4)
-    nokogiri (1.6.0)
+    mustache (0.99.5)
+    nokogiri (1.6.1)
       mini_portile (~> 0.5.0)
-    pry (0.9.12.2)
-      coderay (~> 1.0.5)
+    pry (0.9.12.4)
+      coderay (~> 1.0)
       method_source (~> 0.8)
       slop (~> 3.4)
     rack (1.5.2)
-    rb-fsevent (0.9.3)
+    rb-fsevent (0.9.4)
     redcarpet (2.3.0)
-    ruhoh (2.5)
-      directory_watcher (~> 1.4.0)
-      mustache (~> 0.99)
-      nokogiri (~> 1.5)
-      rack (~> 1.4)
-      redcarpet (~> 2.1)
-    slop (3.4.6)
+    slop (3.4.7)
     thor (0.18.1)
     timers (1.1.0)
 
@@ -84,5 +90,5 @@ DEPENDENCIES
   kramdown (~> 0.14)
   rack-livereload!
   rb-inotify!
-  ruhoh (~> 2)
+  ruhoh!
   wdm

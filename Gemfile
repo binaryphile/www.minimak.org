@@ -1,8 +1,5 @@
 source 'https://rubygems.org'
-group :development do
-  #gem 'debugger'
-end
-gem 'ruhoh', "~> 2"
+gem 'ruhoh', github: 'ruhoh/ruhoh.rb', tag: 'v2.5'
 gem 'kramdown', '~> 0.14'
 gem 'guard', github: 'guard/guard'
 gem 'rb-inotify', github: 'nex3/rb-inotify', platforms: :ruby, require: false

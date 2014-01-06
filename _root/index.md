@@ -7,48 +7,91 @@ Minimak: The Intuitive Alternative to QWERTY
 ============================================
 {: .center}
 
-![Minimak 4-key Layout]{: style="width: 541px; height: 159px;"}  
-_Dvorak achieves a 40% reduction in finger movement by rearranging 25
-keys. In just four keys, Minimak achieves half of that (20%)._
+![Minimak 4-key Layout]{: style="width: 541px; height: 159px;"}
+_Dvorak reduces finger movement by 40%. To do so, it rearranges 25
+keys.  Minimak does half that in the first 4 keys._
 {: .center}
 
 [Download]{: .art-button}
 {: .float-right}
 
-The goal of the Minimak project is to significantly improve the feel of
-typing (in English) through a series of small modifications to QWERTY,
-targeted to provide the maximum benefit at each step.
+Let's say you were a pianist.  You'd spent your life learning to play
+the greats, and you were good.  Your fingers literally flew over the
+keys, and you were able to make beautiful music.
 
-There are three steps, each changing just four keys at a time, but the
-idea is not necessarily to learn all three.  The idea is to progress to
-the point where you are comfortable with both Minimak and QWERTY, and
-that may be at any point in the progression.
+Now let's say, for whatever reason, you thought you could do better.
+You like music in a particular key that doesn't play well on the piano.
+So you came up with your own, new layout for the piano.  One that made
+playing in your key as easy as you wanted.
 
-Does it make sense to go to the trouble of learning a new layout if
-you're not going to end up with the best layout there is to offer?
+But now, you'd have to relearn your entire repertoire for this new
+piano.  Not only that, once you played as well as you had before, you
+could no longer play the same music on a normal piano.  You'd lost your
+muscle memory.  You could still play beautiful music, but wherever you
+went to perform, you'd have to bring your own, special piano with you.
 
-For me, the answer was a definite yes.  There is a strong bias toward
-the simpler changes when you look at the amount of improvement you can
-get out of changing your layout.  The third Minimak layout is in the
-neighborhood of Dvorak and other layouts, but only represents 
+That sounds ridiculous.  No piano player would do that.  Yet some of us,
+who've put as much effort and practice into touch typing as any pianist
+has in their craft, do just that.  We toss aside QWERTY for any number
+of reasons, hoping for a faster, more comfortable or, in many cases,
+less debilitating layout with which to type.
 
-Minimak is for people who aren't happy with QWERTY.  Unlike
-Dvorak and Colemak, however, Minimak is simple to learn.  Minimak also
-won't jeopardize your QWERTY typing skills.
+There are good reasons for choosing an alternative layout.  But there is
+also a price to be paid.  While it may not be as stark as what I just
+layed out, those issues do face the typist when they choose another
+layout.  All of that practice goes out the window.  Not only that, the
+new layout's muscle memory necessarily must replace the old.  It is very
+difficult, if not impossible, to maintain speed at two unrelated
+keyboard layouts.
 
-The simplest Minimak layout changes just 4 keys from QWERTY.  By
-comparison, Dvorak changes 25 keys and Colemak changes 17.  This gives
-you an idea of how much easier it is to get started with Minimak.
+I went through this myself.  I became interested in alternative layouts
+by sheer curiosity.  After reading about the defects of QWERTY and the
+advantages of other layouts, I became convinced and learned another,
+better layout.  After almost a year, I had to admit defeat and return to
+QWERTY.  The price was simply too much.  I couldn't use anyone else's
+computer without constantly looking at the keyboard.
 
-There are 8- and 12-key Minimak layouts as well, but they're completely
-optional.  The initial 4-key layout gives you nearly two-thirds of the
-benefit of Dvorak.  Without impairing your QWERTY skills, either.  And
-that's what Minimak is all about.
+After some time to salve my pride, I took another look at the situation
+and decided that there was room for another approach, one not taken by
+any of the layouts I'd looked at.  At first, I thought it unlikely that
+it would hold much promise, since so much thinking had gone into these
+layouts.  How could they not be clearly superior to anything resembling
+QWERTY?
 
-If you like Minimak but you're comfortable with sacrificing a bit of
-your QWERTY cred, you can move on to the more advanced Minimak layouts.
-Or not.  It's up to you to find the balance with which you're
-comfortable.
+The happy fact is that I found this to be untrue.  Most of the benefits
+of other layouts happen in the first few important decisions.  Much of
+the rest of their refinements had _little_ effect on the measures I
+cared about.  Thus was born Minimak, an approach that prioritizes the
+changes with the maximum benefit with the minimum of effort on the part
+of the user.  You don't have to abandon QWERTY, you just have to fix it.
+
+### What Minimak Is
+
+Minimak is a progressive set of layouts.  This makes it unique in that
+there is no single layout to learn.  You take Minimak as far from QWERTY
+as you feel comfortable.  If you start to lose your QWERTY skills, just
+go back to the last step you took, which will be closer to it.  Each
+step changes only four keys at a time, and every step builds on the
+last.  In all there are three possible layouts, changing at most 12
+keys.
+
+Compare that to Dvorak, which changes 25 keys.  When looking at finger
+movement, which is one of the key metrics to reduce, Dvorak does well,
+reducing movement by 40%.  Minimak's first step does _half_ of that, but
+in only _four_ keys.  This is how you know QWERTY can be fixed without
+completely abandoning it.
+
+Is Dvorak better?  Only if you don't care about being able to type
+QWERTY as well.  While Minimak's 12-key layout compares favorably on
+finger movement, it does so while relocating half the number of keys.
+You can get most of what Dvorak offers without necessarily losing your
+existing typing ability.  I regularly alternate between QWERTY and the
+12-key layout.
+
+Not only that, Minimak can be learned in small steps far more quickly
+than Dvorak, quickly enough that you can learn it while doing actual
+productive work.  Other layouts require weeks or months of practice
+before you can adopt them into your daily routine.
 
 ### Starting with Minimak
 
@@ -130,7 +173,7 @@ _specifically_ was wrong with it.
 
 Had anyone actually tried to fix QWERTY?  I couldn't find a single
 proposal which attempted to improve QWERTY incrementally rather than
-create something from whole cloth.  What if QWERTY could be salvaged?  
+create something from whole cloth.  What if QWERTY could be salvaged?
 
 If so, it would have to remain mostly the same in order to still be able
 to type it without practice.  That would mean changing only a handful of
@@ -163,7 +206,7 @@ with writing Dostoevsky or Shakespeare in your emails.  You want the
 letters that you are liable to write yourself, and probably biased
 toward online writing, such as email.
 
-Since 
+Since
 
 When you look at which letters appear
 most frequently in English, two letters stand way ahead of the pack,
@@ -191,7 +234,7 @@ If, in the meantime, you can also evict your least frequently used keys
 from the home position, you're doing really well.  That's what Minimak
 does.  "E" replaces "k" on the right hand, which is perhaps the best
 single change you can make.  "K" is one of the less frequently used keys
-and has no business in the rest position.  
+and has no business in the rest position.
 
 "T" finds a new home under your left middle finger, replacing "d".
 Although "d" is not one of the infrequently used keys we were hoping
@@ -332,8 +375,8 @@ nothing with QWERTY.  But Minimak never moves more than _3 keys_ to
 different fingers, in any of its configurations.  Because of this, you
 learn to correct your mistakes quickly.  Since most keys stay on the same
 finger, you don't have to pause and remember which other finger to try.
-  
-![Minimak 8-key Layout]{: style=\"width: 541px; height: 159px;\"}  
+
+![Minimak 8-key Layout]{: style=\"width: 541px; height: 159px;\"}
 _The Minimak 8-key layout gives about 75% of the improvement of Dvorak_
 {: .center}
 
@@ -386,7 +429,7 @@ improvement of Dvorak at nowhere near the expense of its learning curve.
 This shows that you don\'t need to throw out QWERTY, you just need to
 fix it.
 
-![Minimak Layout]{: style=\"width: 541px; height: 159px;\"}  
+![Minimak Layout]{: style=\"width: 541px; height: 159px;\"}
 _Minimak 12-key layout_
 {: .center }
 
