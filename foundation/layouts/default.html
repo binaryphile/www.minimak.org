@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<!--[if IE 9]><html class="lt-ie10" lang="en" > <![endif]-->
+<html class="no-js" lang="en" >
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{page.title}}</title>
+
+  {{# page.description }}
+    <meta name="description" content="{{ . }}">
+  {{/ page.description }}
+
+    {{# stylesheets.load }}
+      app.css
+      google_prettify/sons-of-obsidian.css
+    {{/ stylesheets.load }}
+
+    <script src="{{urls.javascripts}}/vendor/modernizr.js"></script>
+
+</head>
+<body>
+  <nav class="top-bar" data-topbar>
+    <ul class="title-area">
+      <li class="name">
+      <h1><a href="{{urls.base_path}}">{{data.title}}</a></h1>
+      </li>
+      <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
+    </ul>
+ <section class="top-bar-section">
+    <!-- Right Nav Section -->
+    <ul class="right">
+      <li class="active"><a href="#">Right Nav Button Active</a></li>
+            {{# data.navigation?to__root }}
+              {{> pages_list }}
+            {{/ data.navigation?to__root }}
+      <li class="has-dropdown">
+        <a href="#">Right Button with Dropdown</a>
+        <ul class="dropdown">
+          <li><a href="#">First link in dropdown</a></li>
+        </ul>
+      </li>
+    </ul>
+
+    <!-- Left Nav Section -->
+    <ul class="left">
+      <li><a href="#">Left Nav Button</a></li>
+    </ul>
+  </section>
+</nav>
+<section role="main">
+<div class="row">
+  <div class="small-10 large-centered columns">
+    {{{content}}}
+</div>
+</div>
+</section>
+      <hr>
+      <footer class="footer">
+        <p>&copy; {{data.author.name}} 2013
+          with help from <a href="http://ruhoh.com" target="_blank" title="The Definitive Technical Blogging Framework">ruhoh</a>
+          and <a href="http://twitter.github.com/bootstrap/" target="_blank">Twitter Bootstrap</a>
+        </p>
+      </footer>
+
+      {{# javascripts.load}}
+        vendor/jquery.js
+        foundation.min.js
+      {{/ javascripts.load}}
+  <script>
+    $(document).foundation();
+  </script>
+    {{{ widgets.google_prettify }}}
+    {{{ widgets.analytics }}}
+</body>
+</html>
