@@ -5,9 +5,11 @@ group :development do
   gem 'wdm', platforms: :mingw, require: false
   gem 'guard-livereload', github: 'guard/guard-livereload'
   gem 'rack-livereload', github: 'johnbintz/rack-livereload'
+  gem 'guard-compass', github: 'guard/guard-compass'
 end
 gem 'ruhoh', github: 'ruhoh/ruhoh.rb', tag: 'v2.5'
 gem 'kramdown', '~> 1.3.1'
+gem 'zurb-foundation'
 
 # To enable asset packaging and processing via sprockets:
 #
