@@ -1,113 +1,124 @@
 GIT
-  remote: git://github.com/guard/guard-compass.git
-  revision: d066c9a96fd805bfdb75fe5f66881fc0f2c47f9d
+  remote: git://github.com/middleman/middleman-livereload.git
+  revision: 36a39def54ae91be0435eadae4b2e2f097c21af4
   specs:
-    guard-compass (1.0.0)
-      compass (>= 0.10.5)
-      guard (~> 2.0)
+    middleman-livereload (3.1.0)
+      em-websocket (>= 0.2.0)
+      middleman-core (>= 3.0.2)
+      multi_json (~> 1.0)
+      rack-livereload
 
 GIT
-  remote: git://github.com/guard/guard-livereload.git
-  revision: 9f8a6a7c84fdcaab382c9a0c7997f3d10ab15a3e
+  remote: git://github.com/middleman/middleman.git
+  revision: 2e2415612a1b87c27a350f87bdaf1540099b6e0e
+  branch: v3-stable
   specs:
-    guard-livereload (2.1.0)
-      em-websocket (~> 0.5)
-      guard (~> 2.0)
-      multi_json (~> 1.8)
+    middleman (3.2.1)
+      coffee-script (~> 2.2.0)
+      compass (>= 0.12.2)
+      execjs (~> 1.4.0)
+      haml (>= 3.1.6)
+      kramdown (~> 1.2)
+      middleman-core (= 3.2.1)
+      middleman-sprockets (>= 3.1.2)
+      sass (>= 3.1.20)
+      uglifier (~> 2.1.0)
+    middleman-core (3.2.1)
+      activesupport (~> 3.2.6)
+      bundler (~> 1.1)
+      i18n (~> 0.6.9)
+      listen (~> 1.1)
+      rack (>= 1.4.5)
+      rack-test (~> 0.6.1)
+      thor (>= 0.15.2, < 2.0)
+      tilt (~> 1.4.1)
 
 GIT
-  remote: git://github.com/guard/guard.git
-  revision: c92def98a71d64632b27d87ff15450ce5330a522
+  remote: git://github.com/tvaughan/middleman-deploy.git
+  revision: 83c24d7443807695397098148f3f3ed75f43d4de
   specs:
-    guard (2.2.5)
-      formatador (>= 0.2.4)
-      listen (~> 2.1)
-      lumberjack (~> 1.0)
-      pry (>= 0.9.12)
-      thor (>= 0.18.1)
-
-GIT
-  remote: git://github.com/johnbintz/rack-livereload.git
-  revision: 13ac1c85f3f6bf6e93561983092f173d8cc6213b
-  specs:
-    rack-livereload (0.3.15)
-      rack
-
-GIT
-  remote: git://github.com/nex3/rb-inotify.git
-  revision: cb38ecc720e37d94d2007738a8c2b25658365f68
-  specs:
-    rb-inotify (0.9.3)
-      ffi (>= 0.5.0)
-
-GIT
-  remote: git://github.com/ruhoh/ruhoh.rb.git
-  revision: 19549b33f1c9cdad5db37cbc66018e412b0a8e59
-  tag: v2.5
-  specs:
-    ruhoh (2.5)
-      directory_watcher (~> 1.4.0)
-      mustache (~> 0.99)
-      nokogiri (~> 1.5)
-      rack (~> 1.4)
-      redcarpet (~> 2.1)
+    middleman-deploy (0.1.4)
+      middleman-core (>= 3.0.0)
+      net-sftp
+      ptools
 
 GEM
-  remote: https://rubygems.org/
+  remote: http://rubygems.org/
   specs:
-    celluloid (0.15.2)
-      timers (~> 1.1.0)
+    activesupport (3.2.16)
+      i18n (~> 0.6, >= 0.6.4)
+      multi_json (~> 1.0)
     chunky_png (1.2.9)
-    coderay (1.1.0)
+    coffee-script (2.2.0)
+      coffee-script-source
+      execjs
+    coffee-script-source (1.6.3)
     compass (0.12.2)
       chunky_png (~> 1.2)
       fssm (>= 0.2.7)
       sass (~> 3.1)
-    directory_watcher (1.4.1)
     em-websocket (0.5.0)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.5.3)
     eventmachine (1.0.3)
+    execjs (1.4.0)
+      multi_json (~> 1.0)
     ffi (1.9.3)
-    formatador (0.2.4)
+    foundation (1.0.4)
+      thor (>= 0.18.1)
     fssm (0.2.10)
+    haml (4.0.5)
+      tilt
+    hike (1.2.3)
     http_parser.rb (0.5.3)
+    i18n (0.6.9)
     kramdown (1.3.1)
-    listen (2.4.0)
-      celluloid (>= 0.15.2)
+    listen (1.3.1)
       rb-fsevent (>= 0.9.3)
       rb-inotify (>= 0.9)
-    lumberjack (1.0.4)
-    method_source (0.8.2)
-    mini_portile (0.5.2)
-    multi_json (1.8.2)
-    mustache (0.99.5)
-    nokogiri (1.6.1)
-      mini_portile (~> 0.5.0)
-    pry (0.9.12.4)
-      coderay (~> 1.0)
-      method_source (~> 0.8)
-      slop (~> 3.4)
+      rb-kqueue (>= 0.2)
+    middleman-sprockets (3.2.0)
+      middleman-core (~> 3.2)
+      sprockets (~> 2.1)
+      sprockets-helpers (~> 1.0.0)
+      sprockets-sass (~> 1.0.0)
+    multi_json (1.8.4)
+    net-sftp (2.1.2)
+      net-ssh (>= 2.6.5)
+    net-ssh (2.7.0)
+    ptools (1.2.2)
     rack (1.5.2)
+    rack-livereload (0.3.15)
+      rack
+    rack-test (0.6.2)
+      rack (>= 1.0)
     rb-fsevent (0.9.4)
-    redcarpet (2.3.0)
+    rb-inotify (0.9.3)
+      ffi (>= 0.5.0)
+    rb-kqueue (0.2.0)
+      ffi (>= 0.5.0)
     sass (3.2.13)
-    slop (3.4.7)
+    sprockets (2.10.1)
+      hike (~> 1.2)
+      multi_json (~> 1.0)
+      rack (~> 1.0)
+      tilt (~> 1.1, != 1.3.0)
+    sprockets-helpers (1.0.1)
+      sprockets (~> 2.0)
+    sprockets-sass (1.0.2)
+      sprockets (~> 2.0)
+      tilt (~> 1.1)
     thor (0.18.1)
-    timers (1.1.0)
-    zurb-foundation (4.3.2)
-      sass (>= 3.2.0)
+    tilt (1.4.1)
+    uglifier (2.1.2)
+      execjs (>= 0.3.0)
+      multi_json (~> 1.0, >= 1.0.2)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  guard!
-  guard-compass!
-  guard-livereload!
-  kramdown (~> 1.3.1)
-  rack-livereload!
-  rb-inotify!
-  ruhoh!
-  wdm
-  zurb-foundation
+  foundation (~> 1.0.4)
+  middleman!
+  middleman-deploy!
+  middleman-livereload!
