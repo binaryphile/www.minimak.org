@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 This is my minimak site.
 =======
 **This version is for [ruhohSpec v2.1](http://ruhoh.com/docs/2) and is only compatible with ruhoh 2.1.x**
@@ -103,4 +102,3 @@ See <http://ruhoh.com/docs/2> for full usage and documentation.
 Released under the [MIT License](http://www.opensource.org/licenses/MIT)
 
 [Gemfile]: https://github.com/ruhoh/blog/blob/master/Gemfile
->>>>>>> upstream/master
