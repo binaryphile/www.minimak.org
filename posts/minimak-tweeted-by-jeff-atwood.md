@@ -48,5 +48,5 @@ Happy Minimaking!
 
 [Coding Horror]: http://www.codinghorror.com/blog/
 [Site Statistics]: {{ urls.media }}/statistics.png
-[issues tab]: https://github.com/lilleyt/minimak/issues
+[issues tab]: https://github.com/binaryphile/minimak/issues
 [he takes his keyboarding seriously]: http://www.codinghorror.com/blog/2010/10/the-keyboard-cult.html
