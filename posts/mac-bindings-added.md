@@ -16,6 +16,6 @@ suggest coordinating with him.
 Minimak for Mac...hmm, Minimac?  I think I hear Apple's legal team
 sharpening their pens... :)
 
-[the repository]: https://github.com/lilleyt/minimak
-[download zip]: https://github.com/downloads/lilleyt/minimak/minimak.zip
+[the repository]: https://github.com/binaryphile/minimak
+[download zip]: https://github.com/binaryphile/minimak/archive/master.zip
 [fork of the Minimak project]: https://github.com/fullybaked/minimak
